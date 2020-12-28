@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+County,Sum of Number of PCR Testing Encounters,Sum of Number of Positive PCR Testing Encounters,Sum(FRQ+ALY),AvgPositive PCR(July16-28)
+Arlington,5732,228,0.937,0.0398
+Central Shenandoah,5281,206,0.802,0.039
+Chesapeake,7232,984,0.862,0.1361
+Chesterfield,8787,646,0.865,0.0735
+Fairfax,25081,1301,0.911,0.0519
+Hampton,3528,336,0.889,0.0952
+Henrico,10833,751,0.853,0.0693
+Norfolk,9048,1127,0.879,0.1246
+Peninsula,11506,866,0.981,0.0753
+Portsmouth,3656,662,0.859,0.1811
+Prince William,11709,859,0.871,0.0734
+Richmond,5978,367,0.807,0.0614
+Roanoke,7252,421,0.905,0.0581
+Virginia Beach,14734,1580,0.88,0.1072
+Western Tidewater,5236,552,0.773,0.1054
+=======
+County,Sum of Number of PCR Testing Encounters,Sum of Number of Positive PCR Testing Encounters,Sum(FRQ+ALY),AvgPositive PCR(July16-28)
+Arlington,5732,228,0.937,0.0398
+Central Shenandoah,5281,206,0.802,0.039
+Chesapeake,7232,984,0.862,0.1361
+Chesterfield,8787,646,0.865,0.0735
+Fairfax,25081,1301,0.911,0.0519
+Hampton,3528,336,0.889,0.0952
+Henrico,10833,751,0.853,0.0693
+Norfolk,9048,1127,0.879,0.1246
+Peninsula,11506,866,0.981,0.0753
+Portsmouth,3656,662,0.859,0.1811
+Prince William,11709,859,0.871,0.0734
+Richmond,5978,367,0.807,0.0614
+Roanoke,7252,421,0.905,0.0581
+Virginia Beach,14734,1580,0.88,0.1072
+Western Tidewater,5236,552,0.773,0.1054
+>>>>>>> 40a9752344cc63f2a04ba22d875523c0e217067e

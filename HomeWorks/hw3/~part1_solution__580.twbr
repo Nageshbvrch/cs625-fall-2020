@@ -1,0 +1,806 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20203.20.0918.1727                               -->
+<workbook source-build='2020.3.1 (20203.20.0918.1727)' source-platform='win' version='18.1' xml:base='https://prod-useast-a.online.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MapboxVectorStylesAndLayers />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <_.fcp.SetMembershipControl.true...SetMembershipControl />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <repository-location id='part1_solution_dashboard' path='/t/oducs625/workbooks' revision='1.0' site='oducs625' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2' inline='true' name='federated.0jh5vhf0yfgxgb140zqty1ihq80z' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2' name='textscan.08rf1ug0jn6i4t104ac8907xwhuk'>
+            <connection class='textscan' directory='C:/Users/alla/Desktop/Nagesh/CS625/cs625-fall-2020/HomeWorks/hw3-arrrange-Nageshbvrch' filename='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.08rf1ug0jn6i4t104ac8907xwhuk' name='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv' table='[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='date' name='Lab Report Date' ordinal='0' />
+            <column datatype='string' name='Health District' ordinal='1' />
+            <column datatype='integer' name='Number of PCR Testing Encounters' ordinal='2' />
+            <column datatype='integer' name='Number of Positive PCR Testing Encounters' ordinal='3' />
+            <column datatype='integer' name='Total Number of Testing Encounters' ordinal='4' />
+            <column datatype='integer' name='Total Number of Positive Testing Encounters' ordinal='5' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.08rf1ug0jn6i4t104ac8907xwhuk' name='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv' table='[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='date' name='Lab Report Date' ordinal='0' />
+            <column datatype='string' name='Health District' ordinal='1' />
+            <column datatype='integer' name='Number of PCR Testing Encounters' ordinal='2' />
+            <column datatype='integer' name='Number of Positive PCR Testing Encounters' ordinal='3' />
+            <column datatype='integer' name='Total Number of Testing Encounters' ordinal='4' />
+            <column datatype='integer' name='Total Number of Positive Testing Encounters' ordinal='5' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lab Report Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Lab Report Date]</local-name>
+            <parent-name>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv]</parent-name>
+            <remote-alias>Lab Report Date</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Health District</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Health District]</local-name>
+            <parent-name>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv]</parent-name>
+            <remote-alias>Health District</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Number of PCR Testing Encounters</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Number of PCR Testing Encounters]</local-name>
+            <parent-name>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv]</parent-name>
+            <remote-alias>Number of PCR Testing Encounters</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Number of Positive PCR Testing Encounters</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Number of Positive PCR Testing Encounters]</local-name>
+            <parent-name>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv]</parent-name>
+            <remote-alias>Number of Positive PCR Testing Encounters</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total Number of Testing Encounters</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Total Number of Testing Encounters]</local-name>
+            <parent-name>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv]</parent-name>
+            <remote-alias>Total Number of Testing Encounters</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total Number of Positive Testing Encounters</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Total Number of Positive Testing Encounters]</local-name>
+            <parent-name>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv]</parent-name>
+            <remote-alias>Total Number of Positive Testing Encounters</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Calculation1' datatype='real' name='[Calculation_997547351055278090]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='([Number of Positive PCR Testing Encounters]/[Number of PCR Testing Encounters])*100' />
+      </column>
+      <column caption='Calculation2' datatype='real' name='[Calculation_997547351058620427]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='(SUM([Number of PCR Testing Encounters])/SUM([Total Number of Testing Encounters]))*100' />
+      </column>
+      <column datatype='string' name='[Health District]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv' datatype='table' name='[__tableau_internal_object_id__].[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930]' role='measure' type='quantitative' />
+      <column-instance column='[Health District]' derivation='None' name='[none:Health District:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' _.fcp.SchemaViewerObjectModel.true...common-percentage='1' _.fcp.SchemaViewerObjectModel.true...user-set-layout-v2='true' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Health District:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Arlington&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Chesapeake&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Virginia Beach&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Central Shenandoah&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Norfolk&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv' id='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv_1CD4AEAF22CB438384122225B4415930'>
+            <properties context=''>
+              <relation connection='textscan.08rf1ug0jn6i4t104ac8907xwhuk' name='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2.csv' table='[VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='date' name='Lab Report Date' ordinal='0' />
+                  <column datatype='string' name='Health District' ordinal='1' />
+                  <column datatype='integer' name='Number of PCR Testing Encounters' ordinal='2' />
+                  <column datatype='integer' name='Number of Positive PCR Testing Encounters' ordinal='3' />
+                  <column datatype='integer' name='Total Number of Testing Encounters' ordinal='4' />
+                  <column datatype='integer' name='Total Number of Positive Testing Encounters' ordinal='5' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='mask-use-by-county' inline='true' name='federated.1jfw33f0a6tn4z1dsmwpa0uai62f' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='mask-use-by-county' name='textscan.002cqvi0ja5e220zu5d0b1d3j3u6'>
+            <connection class='textscan' directory='C:/Users/alla/Desktop/Nagesh/CS625/cs625-fall-2020/HomeWorks/hw3-arrrange-Nageshbvrch' filename='mask-use-by-county.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.002cqvi0ja5e220zu5d0b1d3j3u6' name='mask-use-by-county.csv' table='[mask-use-by-county#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='COUNTYFP' ordinal='0' />
+            <column datatype='real' name='NEVER' ordinal='1' />
+            <column datatype='real' name='RARELY' ordinal='2' />
+            <column datatype='real' name='SOMETIMES' ordinal='3' />
+            <column datatype='real' name='FREQUENTLY' ordinal='4' />
+            <column datatype='real' name='ALWAYS' ordinal='5' />
+            <column datatype='string' name='County' ordinal='6' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.002cqvi0ja5e220zu5d0b1d3j3u6' name='mask-use-by-county.csv' table='[mask-use-by-county#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='COUNTYFP' ordinal='0' />
+            <column datatype='real' name='NEVER' ordinal='1' />
+            <column datatype='real' name='RARELY' ordinal='2' />
+            <column datatype='real' name='SOMETIMES' ordinal='3' />
+            <column datatype='real' name='FREQUENTLY' ordinal='4' />
+            <column datatype='real' name='ALWAYS' ordinal='5' />
+            <column datatype='string' name='County' ordinal='6' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>COUNTYFP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[COUNTYFP]</local-name>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias>COUNTYFP</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>NEVER</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[NEVER]</local-name>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias>NEVER</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>RARELY</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[RARELY]</local-name>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias>RARELY</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SOMETIMES</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[SOMETIMES]</local-name>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias>SOMETIMES</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>FREQUENTLY</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[FREQUENTLY]</local-name>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias>FREQUENTLY</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ALWAYS</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[ALWAYS]</local-name>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias>ALWAYS</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>County</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[County]</local-name>
+            <parent-name>[mask-use-by-county.csv]</parent-name>
+            <remote-alias>County</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Always' datatype='real' name='[ALWAYS]' role='measure' type='quantitative' />
+      <column caption='Countyfp' datatype='integer' name='[COUNTYFP]' role='measure' type='quantitative' />
+      <column datatype='string' name='[County]' role='dimension' semantic-role='[County].[Name]' type='nominal' />
+      <column caption='Frequently' datatype='real' name='[FREQUENTLY]' role='measure' type='quantitative' />
+      <column caption='Never' datatype='real' name='[NEVER]' role='measure' type='quantitative' />
+      <column caption='Rarely' datatype='real' name='[RARELY]' role='measure' type='quantitative' />
+      <column caption='Sometimes' datatype='real' name='[SOMETIMES]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='mask-use-by-county.csv' datatype='table' name='[__tableau_internal_object_id__].[mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-aliased-fields='true' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='mask-use-by-county.csv' id='mask-use-by-county.csv_1BD0BF6E3DC74A32A0994F5E09F9DB1D'>
+            <properties context=''>
+              <relation connection='textscan.002cqvi0ja5e220zu5d0b1d3j3u6' name='mask-use-by-county.csv' table='[mask-use-by-county#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='COUNTYFP' ordinal='0' />
+                  <column datatype='real' name='NEVER' ordinal='1' />
+                  <column datatype='real' name='RARELY' ordinal='2' />
+                  <column datatype='real' name='SOMETIMES' ordinal='3' />
+                  <column datatype='real' name='FREQUENTLY' ordinal='4' />
+                  <column datatype='real' name='ALWAYS' ordinal='5' />
+                  <column datatype='string' name='County' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <actions>
+    <action caption='Filter 1 (generated)' name='[Action1]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='Dashboard 1' type='sheet' worksheet='HW3_Q3' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='Dashboard 1' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='HW3_Q1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2' name='federated.0jh5vhf0yfgxgb140zqty1ihq80z' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jh5vhf0yfgxgb140zqty1ihq80z'>
+            <column caption='ATTR([Number of Positive PCR Testing Encounters])/ATTR([Numbe...' datatype='real' name='[Calculation_997547351038464003]' role='measure' type='quantitative' user:unnamed='Sheet 1'>
+              <calculation class='tableau' formula='ATTR([Number of Positive PCR Testing Encounters])/ATTR([Number of PCR Testing Encounters])' />
+            </column>
+            <column datatype='string' name='[Health District]' role='dimension' type='nominal' />
+            <column datatype='date' name='[Lab Report Date]' role='dimension' type='ordinal' />
+            <column datatype='integer' name='[Number of PCR Testing Encounters]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Number of Positive PCR Testing Encounters]' role='measure' type='quantitative' />
+            <column-instance column='[Health District]' derivation='None' name='[none:Health District:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Lab Report Date]' derivation='None' name='[none:Lab Report Date:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_997547351038464003]' derivation='User' name='[usr:Calculation_997547351038464003:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Health District:nk]' member='&quot;Chesapeake&quot;' />
+              <groupfilter function='member' level='[none:Health District:nk]' member='&quot;Norfolk&quot;' />
+              <groupfilter function='member' level='[none:Health District:nk]' member='&quot;Virginia Beach&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[usr:Calculation_997547351038464003:qk]</rows>
+        <cols>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Lab Report Date:qk]</cols>
+      </table>
+      <simple-id uuid='{FEB267A0-09BE-4E02-AD04-4072CEBE5091}' />
+    </worksheet>
+    <worksheet name='HW3_Q2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2' name='federated.0jh5vhf0yfgxgb140zqty1ihq80z' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jh5vhf0yfgxgb140zqty1ihq80z'>
+            <column caption='SUM([Number of PCR Testing Encounters])/SUM([Total Number of ...' datatype='real' name='[Calculation_40813905834422273]' role='measure' type='quantitative' user:unnamed='HW3_Q2'>
+              <calculation class='tableau' formula='SUM([Number of PCR Testing Encounters])/SUM([Total Number of Testing Encounters])' />
+            </column>
+            <column datatype='string' name='[Health District]' role='dimension' type='nominal' />
+            <column datatype='date' name='[Lab Report Date]' role='dimension' type='ordinal' />
+            <column datatype='integer' name='[Number of PCR Testing Encounters]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Total Number of Testing Encounters]' role='measure' type='quantitative' />
+            <column-instance column='[Health District]' derivation='None' name='[none:Health District:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Lab Report Date]' derivation='None' name='[none:Lab Report Date:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_40813905834422273]' derivation='User' name='[usr:Calculation_40813905834422273:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Lab Report Date:qk]' included-values='in-range'>
+            <min>#2020-07-16#</min>
+            <max>#2020-07-28#</max>
+          </filter>
+          <slices>
+            <column>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Lab Report Date:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+          </pane>
+        </panes>
+        <rows>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[usr:Calculation_40813905834422273:qk]</rows>
+        <cols>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]</cols>
+      </table>
+      <simple-id uuid='{C1921643-7161-46A4-91B9-EC5386C4FAF2}' />
+    </worksheet>
+    <worksheet lock-quick-filters='true' name='HW3_Q3'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mask-use-by-county' name='federated.1jfw33f0a6tn4z1dsmwpa0uai62f' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.1jfw33f0a6tn4z1dsmwpa0uai62f'>
+            <column caption='Always' datatype='real' name='[ALWAYS]' role='measure' type='quantitative' />
+            <column caption='Countyfp' datatype='integer' name='[COUNTYFP]' role='measure' type='quantitative' />
+            <column caption='STR([Countyfp])' datatype='string' name='[Calculation_40813905845157891]' role='dimension' type='nominal' user:unnamed='HW3_Q3'>
+              <calculation class='tableau' formula='STR([COUNTYFP])' />
+            </column>
+            <column caption='SUM([Frequently])+SUM([Always])' datatype='real' name='[Calculation_997547351042121737]' role='measure' type='quantitative' user:unnamed='Sheet 4'>
+              <calculation class='tableau' formula='SUM([FREQUENTLY])+SUM([ALWAYS])' />
+            </column>
+            <column caption='Frequently' datatype='real' name='[FREQUENTLY]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_40813905845157891]' derivation='None' name='[none:Calculation_40813905845157891:nk]' pivot='key' type='nominal' />
+            <column-instance column='[COUNTYFP]' derivation='Sum' name='[sum:COUNTYFP:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_997547351042121737]' derivation='User' name='[usr:Calculation_997547351042121737:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.1jfw33f0a6tn4z1dsmwpa0uai62f].[sum:COUNTYFP:qk]' included-values='in-range'>
+            <min>51000</min>
+            <max>53860</max>
+          </filter>
+          <slices>
+            <column>[federated.1jfw33f0a6tn4z1dsmwpa0uai62f].[sum:COUNTYFP:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.1jfw33f0a6tn4z1dsmwpa0uai62f].[usr:Calculation_997547351042121737:qk]</rows>
+        <cols>[federated.1jfw33f0a6tn4z1dsmwpa0uai62f].[none:Calculation_40813905845157891:nk]</cols>
+      </table>
+      <simple-id uuid='{7C327FCE-F922-4DC9-858A-A1C4AD384E86}' />
+    </worksheet>
+    <worksheet name='sheet'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate_2' name='federated.0jh5vhf0yfgxgb140zqty1ihq80z' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jh5vhf0yfgxgb140zqty1ihq80z'>
+            <column caption='SUM([Number of PCR Testing Encounters])/SUM([Total Number of ...' datatype='real' name='[Calculation_997547351038767108]' role='measure' type='quantitative' user:unnamed='sheet'>
+              <calculation class='tableau' formula='SUM([Number of PCR Testing Encounters])/SUM([Total Number of Testing Encounters])' />
+            </column>
+            <column datatype='string' name='[Health District]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Number of PCR Testing Encounters]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Total Number of Testing Encounters]' role='measure' type='quantitative' />
+            <column-instance column='[Health District]' derivation='None' name='[none:Health District:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_997547351038767108]' derivation='User' name='[usr:Calculation_997547351038767108:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+          </pane>
+        </panes>
+        <rows>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[usr:Calculation_997547351038767108:qk]</rows>
+        <cols>[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]</cols>
+      </table>
+      <simple-id uuid='{B8B46BE5-B3AF-4305-9C7E-FADA43B0D3E7}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Dashboard 1'>
+      <style />
+      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' preset-index='1' sizing-mode='fixed' />
+      <datasources>
+        <datasource caption='mask-use-by-county' name='federated.1jfw33f0a6tn4z1dsmwpa0uai62f' />
+      </datasources>
+      <datasource-dependencies datasource='federated.1jfw33f0a6tn4z1dsmwpa0uai62f'>
+        <column caption='Countyfp' datatype='integer' name='[COUNTYFP]' role='measure' type='quantitative' />
+        <column-instance column='[COUNTYFP]' derivation='Sum' name='[sum:COUNTYFP:qk]' pivot='key' type='quantitative' />
+      </datasource-dependencies>
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='7' param='horz' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='98000' id='5' w='82400' x='800' y='1000'>
+              <zone h='49000' id='3' name='HW3_Q1' w='82400' x='800' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='24500' id='9' name='HW3_Q2' w='82400' x='800' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='24500' id='10' name='HW3_Q3' w='82400' x='800' y='74500'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' fixed-size='160' h='98000' id='6' is-fixed='true' param='vert' w='16000' x='83200' y='1000'>
+              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='10750' id='8' name='HW3_Q1' pane-specification-id='0' param='[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]' w='16000' x='83200' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='9125' id='11' name='HW3_Q3' param='[federated.1jfw33f0a6tn4z1dsmwpa0uai62f].[sum:COUNTYFP:qk]' show-domain='false' show-null-ctrls='false' w='16000' x='83200' y='11750'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='850' minheight='850' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='17' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='16' param='vert' w='98400' x='800' y='1000'>
+                <zone fixed-size='280' h='49000' id='3' is-fixed='true' name='HW3_Q1' w='82400' x='800' y='1000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='10750' id='8' name='HW3_Q1' pane-specification-id='0' param='[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]' w='16000' x='83200' y='1000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='188' h='24500' id='9' is-fixed='true' name='HW3_Q2' w='82400' x='800' y='50000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='8625' id='11' name='HW3_Q3' param='[federated.1jfw33f0a6tn4z1dsmwpa0uai62f].[sum:COUNTYFP:qk]' show-domain='false' show-null-ctrls='false' w='16000' x='83200' y='11750'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='188' h='24500' id='10' is-fixed='true' name='HW3_Q3' w='82400' x='800' y='74500'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{C55F0B07-AADA-4443-A14A-67EEABD8F2CC}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='51'>
+    <window class='worksheet' name='HW3_Q1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0jh5vhf0yfgxgb140zqty1ihq80z].[none:Health District:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{4C0134F5-E822-4783-9451-1AA152BFC86D}' />
+    </window>
+    <window class='worksheet' name='sheet'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='marks' />
+          </strip>
+          <strip size='160'>
+            <card type='filters' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{BA1C42E8-0575-47A5-94B7-40E306BA9856}' />
+    </window>
+    <window class='worksheet' maximized='true' name='HW3_Q2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{962EC727-62A2-4EB1-BAF0-73B1933852AB}' />
+    </window>
+    <window class='worksheet' name='HW3_Q3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.1jfw33f0a6tn4z1dsmwpa0uai62f].[sum:COUNTYFP:qk]' show-domain='false' show-null-ctrls='false' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{75DCBCDF-6712-4EE7-B760-425E0BB7EDE2}' />
+    </window>
+    <window class='dashboard' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='HW3_Q1'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='HW3_Q2'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='HW3_Q3'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='10' />
+      <simple-id uuid='{F4466860-B4A0-463D-98C5-82875217537D}' />
+    </window>
+  </windows>
+</workbook>

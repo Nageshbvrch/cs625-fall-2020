@@ -1,0 +1,77 @@
+<<<<<<< HEAD
+Health District,Sum of Number of PCR Testing Encounters,Sum of Total Number of Testing Encounters,Caliclation1
+Out of State,74603,75678,98.58%
+Portsmouth,28498,29006,98.25%
+Eastern Shore,14352,14651,97.96%
+Central Virginia,60755,62106,97.82%
+Pittsylvania-Danville,24968,25532,97.79%
+Southside,25131,25822,97.32%
+Western Tidewater,45779,47069,97.26%
+Norfolk,67140,69382,96.77%
+Piedmont,26804,27729,96.66%
+Roanoke,76354,79000,96.65%
+Hampton,25647,26540,96.64%
+Crater,43811,45394,96.51%
+Chesapeake,60334,63063,95.67%
+West Piedmont,20284,21237,95.51%
+Lenowisco,15239,15967,95.44%
+Three Rivers,33450,35126,95.23%
+Mount Rogers,34390,36122,95.21%
+Central Shenandoah,58741,61733,95.15%
+Virginia Beach,108072,113970,94.82%
+Lord Fairfax,57208,60336,94.82%
+Richmond,63640,67293,94.57%
+New River,48859,51698,94.51%
+Thomas Jefferson,70278,74619,94.18%
+Peninsula,77148,82058,94.02%
+Cumberland Plateau,13159,14042,93.71%
+Henrico,105920,113050,93.69%
+Alleghany,30579,32865,93.04%
+Rappahannock,64779,70051,92.47%
+Chickahominy,34749,37615,92.38%
+Prince William,126003,136960,92.00%
+Chesterfield,93108,101320,91.89%
+Rappahannock Rapidan,36695,40235,91.20%
+Alexandria,41179,45965,89.59%
+Arlington,59695,68192,87.54%
+Fairfax,250105,286590,87.27%
+Loudoun,86204,98922,87.14%
+=======
+Health District,Sum of Number of PCR Testing Encounters,Sum of Total Number of Testing Encounters,Caliclation1
+Out of State,74603,75678,98.58%
+Portsmouth,28498,29006,98.25%
+Eastern Shore,14352,14651,97.96%
+Central Virginia,60755,62106,97.82%
+Pittsylvania-Danville,24968,25532,97.79%
+Southside,25131,25822,97.32%
+Western Tidewater,45779,47069,97.26%
+Norfolk,67140,69382,96.77%
+Piedmont,26804,27729,96.66%
+Roanoke,76354,79000,96.65%
+Hampton,25647,26540,96.64%
+Crater,43811,45394,96.51%
+Chesapeake,60334,63063,95.67%
+West Piedmont,20284,21237,95.51%
+Lenowisco,15239,15967,95.44%
+Three Rivers,33450,35126,95.23%
+Mount Rogers,34390,36122,95.21%
+Central Shenandoah,58741,61733,95.15%
+Virginia Beach,108072,113970,94.82%
+Lord Fairfax,57208,60336,94.82%
+Richmond,63640,67293,94.57%
+New River,48859,51698,94.51%
+Thomas Jefferson,70278,74619,94.18%
+Peninsula,77148,82058,94.02%
+Cumberland Plateau,13159,14042,93.71%
+Henrico,105920,113050,93.69%
+Alleghany,30579,32865,93.04%
+Rappahannock,64779,70051,92.47%
+Chickahominy,34749,37615,92.38%
+Prince William,126003,136960,92.00%
+Chesterfield,93108,101320,91.89%
+Rappahannock Rapidan,36695,40235,91.20%
+Alexandria,41179,45965,89.59%
+Arlington,59695,68192,87.54%
+Fairfax,250105,286590,87.27%
+Loudoun,86204,98922,87.14%
+>>>>>>> 40a9752344cc63f2a04ba22d875523c0e217067e
