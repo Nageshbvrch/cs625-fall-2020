@@ -1,0 +1,79 @@
+
+
+
+**Advantages:**
+
+
+
+
+**Disadvantages:**
+
+
+Handles Large Data Easily
+A box plot is a highly visually effective way of viewing a clear summary of one or more sets of data.
+A box plot is one of very few statistical graph methods that show outliers.
+
+Box plot
+
+**Advantages:**
+
+* In the output five **glyphs** are easily visible. 
+
+* Median values can be identified and compared.
+
+* Outliers can be clearly identified
+
+
+**Disadvantages:**
+
+* I could not identify all the statistical values using the boxplot.
+
+* The range and IQR could not be distinguished.
+
+
+Exact Values Not Retained
+Hides the multimodality and other features of distributions.
+Confusing for some audiences.
+Mean often difficult to locate.
+Outlier calculation too rigid – “outliers” may be industry-based or case-by-case.
+
+
+Histogram
+
+**Advantages:**
+
+* Can easily compare data.
+
+* Can differentiate range of data in each bin.
+
+* Can easily find the approximate number of people with corresponding response.
+
+* Can easily identify the highest and lowest values.
+
+
+
+**Disadvantages:**
+
+* It is hard to tell the exact value corresponding to each bin.
+
+* Too few bins can leave out important information.
+
+ECDF
+
+**Advantages:**
+
+* Was able to fit entire data in the definite axis
+
+
+**Disadvantages:**
+
+* Could not find out the outliers
+
+* Corresponding value of each distribution cannot be identified.
+
+* The continuity between the range of each interval could not be identified.
+
+
+``` {}
+The histogram with smaller binsize give better visibility of the data distribution. 
+```

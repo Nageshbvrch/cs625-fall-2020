@@ -1,0 +1,1788 @@
+Timestamp,"What kind of pet is this (Dog, Cat, Bird, Other)","Pet's Full Name (you don't have to include your last name. Think ""Winston Churchill"" and not ""Winston Churchill MYLASTNAME"")","Pet's everyday name (e.g. ""Church"")",Pet's age,Pet's breed (if applicable)
+Sun Jul 21 18:03:48 EDT 2019,Dog,Widget,Widget,5,Minidachshund
+Sun Jul 21 18:03:50 EDT 2019,Dog,Stella Bo Bella,Stella,6.5,Muttmix
+Sun Jul 21 18:03:57 EDT 2019,Cat,Meryl Streep,Merrill,8,Unknown
+Sun Jul 21 18:04:06 EDT 2019,Dog,Tilly,Tills,13,ChocolateLabrador
+Sun Jul 21 18:04:14 EDT 2019,Cat,Pumpkin,Pumpkin,12,Unknown
+Sun Jul 21 18:04:26 EDT 2019,Dog,Peter Peter Pumpkin Eater,Petey,5,Pitbull
+Sun Jul 21 18:04:28 EDT 2019,Cat,Jacques,Jacques,12,Unknown
+Sun Jul 21 18:04:29 EDT 2019,Dog,Remy,Rem,1,Unknown
+Sun Jul 21 18:04:34 EDT 2019,Dog,Oreo,Oreo,7,Mixed Breeds
+Sun Jul 21 18:04:41 EDT 2019,Dog,Ljus  (Swedish word for light),Ljus ,0.269230769,GoldenRetriever
+Sun Jul 21 18:04:51 EDT 2019,Dog,Bambi,Bambs,3,Unknown
+Sun Jul 21 18:04:54 EDT 2019,Cat,Marie Curie,Marie,3,Unknown
+Sun Jul 21 18:05:01 EDT 2019,Cat,Clarence,Clarence,12,Russian Blue
+Sun Jul 21 18:05:05 EDT 2019,Dog,Layla ‘The Tank’,Layla,3,Pitbull
+Sun Jul 21 18:05:13 EDT 2019,Cat,Amber,Ambs,10,Tortoiseshell
+Sun Jul 21 18:05:13 EDT 2019,Dog,Benny and the Jets,Ben,1,Mastiff/GreatDane
+Sun Jul 21 18:05:16 EDT 2019,Dog,Milo,Milo,7,BichonFrise
+Sun Jul 21 18:05:20 EDT 2019,Dog,Mocha,Mocha,3,Pitbull
+Sun Jul 21 18:05:22 EDT 2019,Dog,Shadow,Shadow,15.5,GoldenRetriever
+Sun Jul 21 18:05:22 EDT 2019,Cat,Little Bit,Skittles,10,Tabby
+Sun Jul 21 18:05:24 EDT 2019,Dog,Luna,Luna,1,GreatPyrenees
+Sun Jul 21 18:05:29 EDT 2019,Cat,Garrison,Garrison ,9,Russian Blue
+Sun Jul 21 18:05:32 EDT 2019,Dog,Cody,"Baby, Pookie",13,BlackLabMix
+Sun Jul 21 18:05:39 EDT 2019,Hamster,Hammy,Ham,1,Russian Dwarf Hamster
+Sun Jul 21 18:05:49 EDT 2019,Cat,Zoey,Zoey,13,Cat
+Sun Jul 21 18:05:49 EDT 2019,Dog,Oatmeal,Oatmeal,0.583333333,GoldenRetriever
+Sun Jul 21 18:05:50 EDT 2019,Dog,Ginger,Nugget,10,Chihuahua
+Sun Jul 21 18:05:52 EDT 2019,Cat,Lucy,Lucy,4,Russian Blue
+Sun Jul 21 18:05:52 EDT 2019,Dog,Starbuck Louise,Starbuck,4,Goldendoodle
+Sun Jul 21 18:05:55 EDT 2019,Dog,Mocha Antoinette,Mocha,7,Muttmix
+Sun Jul 21 18:06:04 EDT 2019,Dog,Oscar ,Oscar,10,Shepherdmix
+Sun Jul 21 18:06:06 EDT 2019,Cat,Serena,Mouse Pie,17,DomesticLonghair
+Sun Jul 21 18:06:08 EDT 2019,Cat,Maxine Waters,Maxine,4,Unknown
+Sun Jul 21 18:06:21 EDT 2019,Dog,Magnolia Mae,Noli,2.5,GreatPyreneesmix
+Sun Jul 21 18:06:27 EDT 2019,Dog,George Cooper,Georgie,2,GoldenRetriever
+Sun Jul 21 18:06:28 EDT 2019,Dog,Cayenne,Cayenne,8,GermanShepherd
+Sun Jul 21 18:06:37 EDT 2019,Cat,Pip,Pip,11,Tuxedo cat
+Sun Jul 21 18:06:39 EDT 2019,Dog,Olive Oil,Olive,2,AustralianShepherd
+Sun Jul 21 18:06:41 EDT 2019,Rabbit,Iggy and Ziggy ,Igs and Zigs,3,Lopandangora
+Sun Jul 21 18:06:45 EDT 2019,Dog,Brook,Brookie,7,GoldenRetriever
+Sun Jul 21 18:06:46 EDT 2019,Dog,Sparkie,"Spark, Sparkie, sparkle",4,Muttmix
+Sun Jul 21 18:06:48 EDT 2019,Dog,Max,Maxie,16,BlueHeelermix
+Sun Jul 21 18:06:48 EDT 2019,Dog,Howard,Howie,10,JackRussellTerrier
+Sun Jul 21 18:06:57 EDT 2019,Cat,Samantha Bee,Sam,3,Tuxedo cat
+Sun Jul 21 18:07:04 EDT 2019,Dog,Ella Fitzgerald,Ella,12,Heinz57
+Sun Jul 21 18:07:05 EDT 2019,Cat,Chanel,Teeny,6.5,Unknown
+Sun Jul 21 18:07:05 EDT 2019,Fish,Commander Ambrose,The Commander,0.833333333,BettaFish
+Sun Jul 21 18:07:14 EDT 2019,Dog,Josephine Bakes,Josie,5,Labradormix
+Sun Jul 21 18:07:19 EDT 2019,Dog,Lennie,Lennie,2,TreeingTennesseeBrindle
+Sun Jul 21 18:07:30 EDT 2019,Cat,Obsidian Jazz Paws,OJP,1,Feral
+Sun Jul 21 18:07:31 EDT 2019,Cat,Scotty ,Scotty ,8,Domesticshorthair
+Sun Jul 21 18:07:38 EDT 2019,Cat,Macallan,Mac,8,Unknown
+Sun Jul 21 18:07:39 EDT 2019,Dog,Cody James,Buddy,1.5,GoldenRetriever
+Sun Jul 21 18:07:43 EDT 2019,Dog,Jake,Jake,2,GoldenRetrievermix
+Sun Jul 21 18:07:46 EDT 2019,Cat,Katie ,Boo,9,Tuxedomoggy
+Sun Jul 21 18:07:53 EDT 2019,Others,damn,it,2,Skylake
+Sun Jul 21 18:08:03 EDT 2019,Dog,Gail,Gail,3,TreeingTennesseeBrindle
+Sun Jul 21 18:08:13 EDT 2019,Rodent,Bella,Bella,2,Russian Dwarf Hamster
+Sun Jul 21 18:08:18 EDT 2019,Cat,June Bug,June Bug,5,Unknown
+Sun Jul 21 18:08:28 EDT 2019,Dog,Lucky,"Luck, Luckboy, Luck duck",3,JackRussellmix
+Sun Jul 21 18:08:33 EDT 2019,Dog,Darcy,Darcy,3,Workingcockerspaniel
+Sun Jul 21 18:08:37 EDT 2019,Cat,Neko,"Neko, Cat, Kitten",6,Domesticshorthair
+Sun Jul 21 18:08:47 EDT 2019,Cat,Maisy,Maisy,7,Unknown
+Sun Jul 21 18:08:50 EDT 2019,Dog,Luke Anakin,Luke,9,GoldenRetriever
+Sun Jul 21 18:08:51 EDT 2019,Dog,Sadie,Sadie Pot Pie,10,Mixed Breeds
+Sun Jul 21 18:09:01 EDT 2019,Dog,Hazel Nut,Hazel,3,AustralianShepherd
+Sun Jul 21 18:09:05 EDT 2019,Cat,Mongoose,Goosey,1.916666667,Unknown
+Sun Jul 21 18:09:08 EDT 2019,Cat,Flerf,Bab,16,Tortie
+Sun Jul 21 18:09:11 EDT 2019,Dog,Bourbon,Bourbon,3,Mixed Breeds
+Sun Jul 21 18:09:18 EDT 2019,Dog,Riley,Smiley Riley,13,GoldenRetriever
+Sun Jul 21 18:09:19 EDT 2019,Cat,Murphy,Murph,13,Domesticshorthair
+Sun Jul 21 18:09:21 EDT 2019,Dog,Mr. Nubs,Mr. Nubs,16,Corgi
+Sun Jul 21 18:09:27 EDT 2019,Cat,Mackerel,Mack,1.916666667,Unknown
+Sun Jul 21 18:09:27 EDT 2019,Cat,Regis,"Regis (or ""little asshole"")",0,Unknown
+Sun Jul 21 18:09:34 EDT 2019,Cat,Laetynne Marah,Lae lae,7,Siamese
+Sun Jul 21 18:09:37 EDT 2019,Cat,Callie,Callie,15,Domesticshorthair(calico)
+Sun Jul 21 18:09:41 EDT 2019,Dog,Bentley,Bentley boy,3,Australianlabradoodle
+Sun Jul 21 18:09:42 EDT 2019,Cat,Crumb Bun,Bobo,9,Tuxedogarbagecat
+Sun Jul 21 18:09:46 EDT 2019,Dog,Fenway,Fenway,6,BostonTerrier
+Sun Jul 21 18:09:46 EDT 2019,Dog,Benelli ,Name,3,BlackLabMix
+Sun Jul 21 18:09:49 EDT 2019,Turtle,Lenny,Lenny,12,Unknown
+Sun Jul 21 18:09:51 EDT 2019,Dog,Washington the Destroyer,Wash,6.5,ChocolateLabrador
+Sun Jul 21 18:09:51 EDT 2019,Cat,Otto,Otto,16,Unknown
+Sun Jul 21 18:09:52 EDT 2019,Dog,Philomenos,"Philo, Phil, phi phi",9,PortugueseWaterDog
+Sun Jul 21 18:09:58 EDT 2019,Dog,Stampy Wiggles ,Stampy,10,Goldendoodle
+Sun Jul 21 18:09:58 EDT 2019,Dog,Jasmine,Jaz ,5,GoldenRetriever
+Sun Jul 21 18:10:00 EDT 2019,Dog,Emma,Puppy,1,ChocolateLabrador
+Sun Jul 21 18:10:00 EDT 2019,Dog,Winston,Wintin,4,Wire-hairedmutt
+Sun Jul 21 18:10:02 EDT 2019,Dog,Torchenay Be Cool,Max,13,Beagle
+Sun Jul 21 18:10:05 EDT 2019,Cat,Petunia Marie,Tooney,7,Domestic Shorthair Tabby
+Sun Jul 21 18:10:16 EDT 2019,Dog,Brutus ,Brutus,7,YellowLabradorRetriever
+Sun Jul 21 18:10:23 EDT 2019,Cat,Louis,LouLou,4.5,Blackcat
+Sun Jul 21 18:10:29 EDT 2019,Cat,Lilah May,Lilah,12,DomesticShorthair-Black
+Sun Jul 21 18:10:30 EDT 2019,Dog,Lucu,Puppy,7,BlackLabMix
+Sun Jul 21 18:10:32 EDT 2019,Dog,Mosephine,Mo,1,StandardPoodle
+Sun Jul 21 18:10:32 EDT 2019,Dog,Abegeweit,Abi (Abby),16,Foxterriermix
+Sun Jul 21 18:10:34 EDT 2019,Dog,Kramer,Kray Kray,12,GoldenRetriever
+Sun Jul 21 18:10:37 EDT 2019,Bird,Coco Moe,Coco,15,Cockatiel
+Sun Jul 21 18:10:41 EDT 2019,Cat,Apollo,Beeper,1,Unknown
+Sun Jul 21 18:10:50 EDT 2019,Dog,Rusty,Wusty,5,GoldenLabrador
+Sun Jul 21 18:10:51 EDT 2019,Dog,Demi,"Dems, demi dog, the queen",6,Mixed Breeds
+Sun Jul 21 18:10:54 EDT 2019,Dog,Alfredog,Alfie,11,Muttmix
+Sun Jul 21 18:10:57 EDT 2019,Rabbit,Professor Nibblesworth Bunnypants,Nibbles,6,NetherlandDwarf
+Sun Jul 21 18:10:58 EDT 2019,Dog,Shorty Do-Op,Shorty,15,Muttmix
+Sun Jul 21 18:11:04 EDT 2019,Dog,Penny,Penny,3,AustralianShepherd
+Sun Jul 21 18:11:04 EDT 2019,Dog,Tuxedo,Tux,1.5,Schnauzer
+Sun Jul 21 18:11:09 EDT 2019,Dog,Sally,Sally,7,GoldenRetriever
+Sun Jul 21 18:11:11 EDT 2019,Dog,Lola,Lola,6,Mixed Breeds
+Sun Jul 21 18:11:12 EDT 2019,Cat,Noodle,Noodle,4,Domestic medium hair
+Sun Jul 21 18:11:16 EDT 2019,Dog,Gustav,Goober,10,GermanShepherdmix
+Sun Jul 21 18:11:19 EDT 2019,Hamster,Charlie,Charlie,1.5,Syrian
+Sun Jul 21 18:11:24 EDT 2019,Dog,Poppy Sue Galushka Clementine,Poppy,4,Treeing Walker Coonhound
+Sun Jul 21 18:11:33 EDT 2019,Dog,Duke,Duke,3,AustralianShepherd
+Sun Jul 21 18:11:38 EDT 2019,Dog,Millie,Mills,7,JackRussellTerrier
+Sun Jul 21 18:11:39 EDT 2019,Dog,Sir Winston of Weston ,"Winston , Winnie",10,GoldenRetriever
+Sun Jul 21 18:11:40 EDT 2019,Cat,Bucky,Bucks,2,NorwegianForestcat
+Sun Jul 21 18:11:50 EDT 2019,Dog,Angus OgDog Dogga McDuff,Angus,13,WestHighlandTerrier
+Sun Jul 21 18:11:58 EDT 2019,Cat,Spot,Spotty Bear,4,Domesticshorthair
+Sun Jul 21 18:12:01 EDT 2019,Cat,Cookie,Cooks,2,Ragdoll
+Sun Jul 21 18:12:04 EDT 2019,Dog,Lady,Doofus,6,Labradormix
+Sun Jul 21 18:12:06 EDT 2019,Dog,Maggie Peaches,Maggie,13,BichonPoodle
+Sun Jul 21 18:12:08 EDT 2019,Cat,Amelia,Amelita,2,Unknown
+Sun Jul 21 18:12:13 EDT 2019,Dog,Camembert,Cami,5,BerneseMountainDog
+Sun Jul 21 18:12:15 EDT 2019,Dog,Shadow,Shadow,3,Saluki
+Sun Jul 21 18:12:20 EDT 2019,Dog,Archer,archer,3,GoldenRetriever
+Sun Jul 21 18:12:23 EDT 2019,Dog,Robbie,robz,1.5,Whippet
+Sun Jul 21 18:12:28 EDT 2019,Cat,Noah,Noah,2,Unknown
+Sun Jul 21 18:12:35 EDT 2019,Others,Penny,Pen,4,Unknown
+Sun Jul 21 18:12:46 EDT 2019,Cat,Lovey Cat,Lovey,18,Unknown
+Sun Jul 21 18:12:51 EDT 2019,Dog,Roxy,Roxy,8,Pitbull
+Sun Jul 21 18:12:54 EDT 2019,Dog,Ashton Sebastian,Ash,9,Pitbull
+Sun Jul 21 18:12:54 EDT 2019,Dog,Maximum,Max,10,Puggle
+Sun Jul 21 18:12:57 EDT 2019,Dog,Rosalind Pearl,Rosie,5,BorderColliemix
+Sun Jul 21 18:12:57 EDT 2019,Rabbit,Lena,Lena,8,dwarfrabbit
+Sun Jul 21 18:12:57 EDT 2019,Hamster,Beauxbaton,Beau,2.5,Winterwhite
+Sun Jul 21 18:13:08 EDT 2019,Dog,Chyna,Chyna,16,Littleterrierpoodlemix
+Sun Jul 21 18:13:35 EDT 2019,Dog,Sadie,Sadie,4,Cockapoo
+Sun Jul 21 18:13:42 EDT 2019,Dog,Flynn,Flynn,0.916666667,Corgi
+Sun Jul 21 18:13:44 EDT 2019,Cat,Felicity Louise,Flick,4,Domesticshorthair
+Sun Jul 21 18:13:46 EDT 2019,Fish,James Pond,James,5,GoldFish
+Sun Jul 21 18:13:54 EDT 2019,Cat,Mars,Mars,8,Domesticshorthair
+Sun Jul 21 18:14:00 EDT 2019,Dog,Loki,Loki,3,Unknown
+Sun Jul 21 18:14:13 EDT 2019,Cat,Millie,Mill,13,Domesticshorthair
+Sun Jul 21 18:14:21 EDT 2019,Dog,Trixie,Trix,3,Yorkie
+Sun Jul 21 18:14:43 EDT 2019,Dog,Birdy ,Birdy ,4,Pomeranian
+Sun Jul 21 18:14:57 EDT 2019,Cat,Charlotte Wallace,Chuck,8,Cat
+Sun Jul 21 18:15:06 EDT 2019,Cat,Thumper Dumper Bumble Butt,Thumper,16,Domesticshorthair
+Sun Jul 21 18:15:22 EDT 2019,Dog,Vince,Vincie ,11,Yellowlab
+Sun Jul 21 18:15:41 EDT 2019,Dog,Cobert ,Cob ,2,Dalmatian
+Sun Jul 21 18:15:55 EDT 2019,Fish,Little Prince,LP,2,BettaFish
+Sun Jul 21 18:16:02 EDT 2019,Dog,Jack Daniel,Jackie,3,ChocolateLabrador
+Sun Jul 21 18:16:05 EDT 2019,Dog,Crinkle,Crinkle,7,Mongrel
+Sun Jul 21 18:16:06 EDT 2019,Dog,Maisy Lynn Marie,Mimsy,6,Beaglemix
+Sun Jul 21 18:16:07 EDT 2019,Dog,Beemer,Beemo,7,Aussiedoodle
+Sun Jul 21 18:16:09 EDT 2019,Rodent,Rosencrantz WGP,Rosie,3,GuineaPig
+Sun Jul 21 18:16:10 EDT 2019,Cat,Michelin ,Michelin,14,"Cat,he'sacat,wefoundhimonmydad'stire...Ithinkyoucanguesswhatbrandtiresmydadhad"
+Sun Jul 21 18:16:13 EDT 2019,Dog,Mac,Mac,5,Boxermix
+Sun Jul 21 18:16:14 EDT 2019,Dog,Maximillion Taxi ,Max,9,Labradormix
+Sun Jul 21 18:16:16 EDT 2019,Dog,Krypto,Dinky,6,GoldenRetriever
+Sun Jul 21 18:16:23 EDT 2019,Cat,Piper,Pippin,5,Cat
+Sun Jul 21 18:16:26 EDT 2019,Dog,Bo Jangles,Bo,0.791666667,Huskymix
+Sun Jul 21 18:16:26 EDT 2019,Cat,Slinkey,Slonk,5,Unknown
+Sun Jul 21 18:16:39 EDT 2019,Dog,Brixton,Brixie ,1,GoldenRetriever
+Sun Jul 21 18:16:42 EDT 2019,Dog,Jasper,Jasper,10,Miniaturelabradoodle
+Sun Jul 21 18:16:42 EDT 2019,Cat,Tabitha,Tabber,8,Unknown
+Sun Jul 21 18:16:58 EDT 2019,Dog,Shadow Montgomery,Lovebug,2,GoldenRetriever
+Sun Jul 21 18:17:03 EDT 2019,Fish,Vitale Male the hot tamale who has a cooking show with Mario Batale ,Vitale,1,BettaFish
+Sun Jul 21 18:17:04 EDT 2019,Cat,Ramona,Meemo,4,Unknown
+Sun Jul 21 18:17:11 EDT 2019,Dog,Scout,Scout,14,Beagle
+Sun Jul 21 18:17:18 EDT 2019,Cat,Cocoa,"Cokes, Nuts, Cocoa",12,Tuxedoshorthair
+Sun Jul 21 18:17:18 EDT 2019,Cat,Napoleon,Deviled egg,2,Unknown
+Sun Jul 21 18:17:20 EDT 2019,Dog,Libby,Libby,12,GoldenRetriever
+Sun Jul 21 18:17:22 EDT 2019,Dog,Jasper Tucker Oaf,Jasper,11,BlackLabMix
+Sun Jul 21 18:17:24 EDT 2019,Cat,Clarissa Fluffnugget,Clary,2,DomesticLonghair
+Sun Jul 21 18:17:24 EDT 2019,Dog,Tazmanian Devik,Taz,9,Muttmix
+Sun Jul 21 18:17:33 EDT 2019,Dog,Iggy Pup,Iggy,0.333333333,Miniaturedoubledoodle
+Sun Jul 21 18:17:36 EDT 2019,Dog,Lilly,Lilly,12,LabradorRetriever
+Sun Jul 21 18:17:39 EDT 2019,Dog,Furrdinand ,Furrdie ,10,Pomeranian
+Sun Jul 21 18:17:43 EDT 2019,Dog,Monster Mayhem,Doodle,8,Dachshund
+Sun Jul 21 18:17:46 EDT 2019,Dog,Watson,Watson ,6,LabradorRetriever
+Sun Jul 21 18:17:47 EDT 2019,Dog,Shine,Shine,12,Houndmix
+Sun Jul 21 18:17:52 EDT 2019,Dog,Freeney Schnurpel,Freenster,13,ShihTzu
+Sun Jul 21 18:18:04 EDT 2019,Dog,Bella Jean,Bella,Deceased,Chihuahuamix
+Sun Jul 21 18:18:08 EDT 2019,Dog,Ratchet,Ratchie,5,Pugmix
+Sun Jul 21 18:18:10 EDT 2019,Dog,Clifford,Clifford,4,Clumberspaniel
+Sun Jul 21 18:18:15 EDT 2019,Dog,Goose,Gooby,1,RatTerrierMix
+Sun Jul 21 18:18:23 EDT 2019,Cat,Cricket,"Crickby, Cringus, Don Crickles, etc.",7.5,DomesticLonghair
+Sun Jul 21 18:18:23 EDT 2019,Dog,Magnus,Munchkin,7,CarinTerrier
+Sun Jul 21 18:18:24 EDT 2019,Cat,Baby Kitty,Baby Kitty,7,Kittycat
+Sun Jul 21 18:18:25 EDT 2019,Dog,Shiloh’s Dixie Skye,Dixie,8,Schnauzer
+Sun Jul 21 18:18:29 EDT 2019,Dog,Bootsie,BootsToots,17,Trrriermixed
+Sun Jul 21 18:18:29 EDT 2019,Cat,Bowie,Kitty boy ,0.666666667,Tuxedo cat
+Sun Jul 21 18:18:34 EDT 2019,Dog,Mindy ,Mindy,10,BlackLabMix
+Sun Jul 21 18:18:42 EDT 2019,Dog,Spock,Spock,7,Mixed Breeds
+Sun Jul 21 18:18:44 EDT 2019,Dog,Merlin,Mer-dog,12,Chesapeakebayretriever
+Sun Jul 21 18:18:50 EDT 2019,Dog,Sylvia Plath,Sylvia,3,GermanShorthairedPointer
+Sun Jul 21 18:18:51 EDT 2019,Dog,Smokey Neyland,Smo ,9,Schnoodle
+Sun Jul 21 18:18:51 EDT 2019,Dog,Rufus Tee Hilderbrec,Rufus,11,ShihTzu
+Sun Jul 21 18:18:51 EDT 2019,Dog,Baillie,B or B-Dog,7,BorderCollie
+Sun Jul 21 18:18:53 EDT 2019,Dog,Sebastian,Bash,0.333333333,Maltipoo
+Sun Jul 21 18:18:56 EDT 2019,Cat,Mika Joe,Mika,9,Siamese
+Sun Jul 21 18:19:09 EDT 2019,Dog,Tess,Tess,13,BorderColliemix
+Sun Jul 21 18:19:15 EDT 2019,Dog,Zorro,Z,8,Long-hairedChihuahua
+Sun Jul 21 18:19:17 EDT 2019,Dog,Deacon ,Deac ,11,Chesapeakebayretriever
+Sun Jul 21 18:19:35 EDT 2019,Cat,Sir charles chickenhock chaplin the teleporting dot,Charlie,11,Unknown
+Sun Jul 21 18:19:38 EDT 2019,Cat,Ally,Al,4,Cat
+Sun Jul 21 18:19:40 EDT 2019,Rabbit,Gandalf,Gandalf,10,Lionhead
+Sun Jul 21 18:19:40 EDT 2019,Cat,Lucas Adam Wilkins,Luke,10,Tabby
+Sun Jul 21 18:19:54 EDT 2019,Dog,Robert Ferguson Mooney,Bobby,6,GoldenRetriever
+Sun Jul 21 18:19:57 EDT 2019,Dog,James buchanan barnes,Bucky,2,Unknown
+Sun Jul 21 18:20:04 EDT 2019,Dog,Buddy Boy,Buddy,16,CockerSpaniel
+Sun Jul 21 18:20:17 EDT 2019,Cat,Cleo,Dump,2,Cat
+Sun Jul 21 18:20:26 EDT 2019,Dog,Belle Watling,Belle,2,Maltese
+Sun Jul 21 18:20:32 EDT 2019,Dog,Magladon wagladon,Maggie,1,OldEnglishsheepdog
+Sun Jul 21 18:20:37 EDT 2019,Dog,Bella,Bella,14,Unknown
+Sun Jul 21 18:20:41 EDT 2019,Horse,Half pint,Half pint ,6,Unknown
+Sun Jul 21 18:20:42 EDT 2019,Cat,Leah Suji Wilkins,The Squeak aka Squeakerfish,10,Tabby
+Sun Jul 21 18:20:53 EDT 2019,Dog,Sophie,Sophie,11,GoldenRetriever
+Sun Jul 21 18:20:55 EDT 2019,Cat,Mitsy,Mitsy,4,Unknown
+Sun Jul 21 18:20:57 EDT 2019,Dog,Stewart Little,Stewie,16,Pomeranian
+Sun Jul 21 18:20:59 EDT 2019,Dog,Sadie,Sadie,0.916666667,GoldenRetriever
+Sun Jul 21 18:21:00 EDT 2019,Dog,Ashley Wilkes,Ash,11,Yorkie Mix
+Sun Jul 21 18:21:03 EDT 2019,Cow,Daisy the cow,Daisy,3,Unknown
+Sun Jul 21 18:21:07 EDT 2019,Dog,Oliver Jospeh Andrew,Oliver,11.5,GoldenRetrievermix
+Sun Jul 21 18:21:14 EDT 2019,Dog,Rhett,Rhetters,12,EnglishSpringerSpaniel
+Sun Jul 21 18:21:15 EDT 2019,Cat,Emma May Wilkins,Emma,4,Tortie
+Sun Jul 21 18:21:21 EDT 2019,Cat,Hashtag Anamara Mainecoon,Hashtag,6,MaineCoon
+Sun Jul 21 18:21:22 EDT 2019,Fish,Caroline Gravel,Gravel,2,BettaFish
+Sun Jul 21 18:21:22 EDT 2019,Dog,Lily,Lil,5,GoldenRetriever
+Sun Jul 21 18:21:27 EDT 2019,Cat,Arthur Fonzarelli,Fonzie ,12,PartMainecoon
+Sun Jul 21 18:21:29 EDT 2019,Cat,Vriska Serket,Vriska,8,Domesticshorthair
+Sun Jul 21 18:21:31 EDT 2019,Cat,Fabio ,Fabio,3,Unknown
+Sun Jul 21 18:21:34 EDT 2019,Dog,Cookie,CookieMonster,8,ShihTzu
+Sun Jul 21 18:21:36 EDT 2019,Dog,Brutus ,Brutus,10,GreatPyreneesmix
+Sun Jul 21 18:21:40 EDT 2019,Dog,Ralph ,Ralph ,0.333333333,GoldenRetriever
+Sun Jul 21 18:21:43 EDT 2019,Dog,Kurt,Kurtis,2,Blackmouthcur
+Sun Jul 21 18:21:45 EDT 2019,Dog,Lyra Cristina,Lyra,0,Mixed Breeds
+Sun Jul 21 18:21:51 EDT 2019,Dog,Bailey bear,Baby Girl,6,Labradormix
+Sun Jul 21 18:21:53 EDT 2019,Dog,Brooklyn,Brooklyn,2,Beagle
+Sun Jul 21 18:21:55 EDT 2019,Cat,Isabella,Izzy,11,Tortoiseshell
+Sun Jul 21 18:21:57 EDT 2019,Dog,Champion Craig,Champ,14,Beaglemix
+Sun Jul 21 18:21:59 EDT 2019,Cat,Kelly,Kelly,13,Unknown
+Sun Jul 21 18:22:02 EDT 2019,Dog,Lennox,Lenny,4,ShihTzu
+Sun Jul 21 18:22:10 EDT 2019,Dog,Sullivan Otis,Sulley ,10,CatahoulaLeopard
+Sun Jul 21 18:22:11 EDT 2019,Cat,oreo vanilla cookie ,nene,11,Unknown
+Sun Jul 21 18:22:13 EDT 2019,Cat,Chessie ,Chess,12,Siamese
+Sun Jul 21 18:22:18 EDT 2019,Dog,Hank,Hanky panky,1,Blackmouthcur
+Sun Jul 21 18:22:20 EDT 2019,Dog,Allie Nichols,Allie,5,Muttmix
+Sun Jul 21 18:22:21 EDT 2019,Dog,Lila,Lila,5,Newfoundland
+Sun Jul 21 18:22:25 EDT 2019,Cat,Bubbles,Bubs,11,Chartreux
+Sun Jul 21 18:22:27 EDT 2019,Dog,Liberty Louise,Libby,9,EnglishSpringerSpaniel
+Sun Jul 21 18:22:29 EDT 2019,Cat,Sushi Charrito,Sush,2,Tuxedo cat
+Sun Jul 21 18:22:31 EDT 2019,Cat,Mouse,MousePotato,3,Unknown
+Sun Jul 21 18:22:32 EDT 2019,Cat,Kate,Katie,19,Tortie/Tortishell
+Sun Jul 21 18:22:34 EDT 2019,Dog,Jimmy,JimmyJamSunshineMan,5,ShihTzu
+Sun Jul 21 18:22:38 EDT 2019,Dog,Rocky,Rocko,9,Rottweiler
+Sun Jul 21 18:22:46 EDT 2019,Dog,Sheldon Michael ,Shel,7,Westin/minpin
+Sun Jul 21 18:22:47 EDT 2019,Dog,Jackson,Pupper,3,AustralianCattleDog
+Sun Jul 21 18:22:51 EDT 2019,Cat,Midnight,Keek,19,Americanshorthair
+Sun Jul 21 18:22:53 EDT 2019,Dog,Maxwell Amos,Max,10,CatahoulaLeopard
+Sun Jul 21 18:22:59 EDT 2019,Cat,angelina ,whitey,5,Unknown
+Sun Jul 21 18:23:01 EDT 2019,Dog,Margaret Lewis,Maggie,11,Muttmix
+Sun Jul 21 18:23:02 EDT 2019,Dog,Ginger,Geeper Creeper,10,GoldenRetrievermix
+Sun Jul 21 18:23:02 EDT 2019,Others,Johannes venereal Versmear,Venny,0.038461538,Unknown
+Sun Jul 21 18:23:02 EDT 2019,Dog,Gator,Tate ,8,RottweilerMix
+Sun Jul 21 18:23:04 EDT 2019,Dog,Badger,Badger,12,Dachshund
+Sun Jul 21 18:23:05 EDT 2019,Dog,Beauregard,Beau,22,GoldenRetriever
+Sun Jul 21 18:23:05 EDT 2019,Dog,Buffy,Buffy and/or Buffalo,8,Beaglemix
+Sun Jul 21 18:23:05 EDT 2019,Dog,duque,duque,1,Mixed Breeds
+Sun Jul 21 18:23:05 EDT 2019,Dog,Mika,Mika,5,Husky
+Sun Jul 21 18:23:21 EDT 2019,Dog,Scarlett,Little Girl,8,BorderCollie
+Sun Jul 21 18:23:21 EDT 2019,Dog,Macy,Macy,11,GoldenRetrievermix
+Sun Jul 21 18:23:21 EDT 2019,Dog,Gromit Walker,Gromit,8,GoldenRetriever
+Sun Jul 21 18:23:21 EDT 2019,Cat,Ms. Kitty,Ms. Kitty,16,Unknown
+Sun Jul 21 18:23:25 EDT 2019,Dog,Gracie Lou Freebush ,Gracie,9,BlackLabMix
+Sun Jul 21 18:23:25 EDT 2019,Dog,River,River,0.269230769,Husky
+Sun Jul 21 18:23:27 EDT 2019,Ferret,Leo,LeHOE,1,Unknown
+Sun Jul 21 18:23:40 EDT 2019,Dog,Olaf,Olaf,4,Chihuahua
+Sun Jul 21 18:23:41 EDT 2019,Dog,Button,Buttons (sometimes with a french accent),2,Beagle
+Sun Jul 21 18:23:42 EDT 2019,Dog,Stevie James,Steve,9,Maltipoo
+Sun Jul 21 18:23:44 EDT 2019,Dog,Mila,Crusty,14,Rottweiler
+Sun Jul 21 18:23:45 EDT 2019,Dog,Murphy,Murph,5,GoldenRetriever
+Sun Jul 21 18:23:46 EDT 2019,Cat,Tiger ,tiggy,5,Unknown
+Sun Jul 21 18:23:46 EDT 2019,Cat,Edna Lou,Breadna,5,Unknown
+Sun Jul 21 18:23:47 EDT 2019,Cat,Princess Purdy ,Purdy,11,DomesticLonghair
+Sun Jul 21 18:23:56 EDT 2019,Cat,Squidward ,Squid,1,Domesticshorthair
+Sun Jul 21 18:24:03 EDT 2019,Dog,Oscar the Amazing VelcroDog,Oscar,12,Terriermix
+Sun Jul 21 18:24:04 EDT 2019,Dog,Poppy,Poppy,4,ShihTzu
+Sun Jul 21 18:24:07 EDT 2019,Cat,daisy dukerson,Daisy,5,Unknown
+Sun Jul 21 18:24:13 EDT 2019,Cat,Tigger,Tigger,17,Tabby
+Sun Jul 21 18:24:22 EDT 2019,Cat,Bubbles,Bubby,6,Unknown
+Sun Jul 21 18:24:27 EDT 2019,Cat,Prince Charlie ,Charlie,11,DomesticLonghair
+Sun Jul 21 18:24:36 EDT 2019,Dog,Ellie Mae,Ellie,13,CockerSpaniel
+Sun Jul 21 18:24:37 EDT 2019,Dog,Snowy,Snow,11,ShihTzu
+Sun Jul 21 18:24:42 EDT 2019,Dog,Bruno,Bruno,4,BorderCollie
+Sun Jul 21 18:24:50 EDT 2019,Cat,Twitch,Twitch,11,Domesticshorthair
+Sun Jul 21 18:24:53 EDT 2019,Dog,Mona,Mona,12,Bluetickbeagle
+Sun Jul 21 18:24:59 EDT 2019,Cat,harley davidson,har mar,9,Unknown
+Sun Jul 21 18:25:06 EDT 2019,Cat,Ted Kennedy ,Teddy,1,Domesticshorthair
+Sun Jul 21 18:25:15 EDT 2019,Dog,Yaz,Yazzy,11,GoldenRetrievermix
+Sun Jul 21 18:25:23 EDT 2019,Dog,Princess Leia Organa,Prince,Deceased,Muttmix
+Sun Jul 21 18:25:28 EDT 2019,Dog,Oakley ,"Oak, oakey-doke",3,ShihTzu
+Sun Jul 21 18:25:37 EDT 2019,Dog,Tinkerbell ,Tinky,4,Chihuahua
+Sun Jul 21 18:25:38 EDT 2019,Cat,Bella,Bella,4,MaineCoonmix
+Sun Jul 21 18:25:39 EDT 2019,Cat,Fup ,Fup,10,N/A
+Sun Jul 21 18:25:48 EDT 2019,Dog,Beckett,Beckett or Becky,9,GoldenRetriever
+Sun Jul 21 18:25:54 EDT 2019,Cat,Fudge,Fubdge,3,Ginger
+Sun Jul 21 18:25:56 EDT 2019,Cat,Lady Luck,Lucky,11,Domesticshorthair
+Sun Jul 21 18:26:02 EDT 2019,Cat,Moose,Moose,4,MaineCoonmix
+Sun Jul 21 18:26:17 EDT 2019,Dog,Logan,Logan,10,BlackLabMix
+Sun Jul 21 18:26:19 EDT 2019,Dog,Daisy Grace,Daisy,8,Mixed Breeds
+Sun Jul 21 18:26:24 EDT 2019,Cat,Leela,The Cat,10,Domesticshorthair
+Sun Jul 21 18:26:42 EDT 2019,Cat,Ellie,Ellie-phant,9,Calico
+Sun Jul 21 18:26:44 EDT 2019,Cat,Her Royal Highness the Princess Blaze,Blaze,9,Domesticshorthair
+Sun Jul 21 18:27:03 EDT 2019,Cat,Phillipe Robert Jean Luc Tugboat “Toot! Toot!”,Phillip,4,Manxcat
+Sun Jul 21 18:27:12 EDT 2019,Cat,Alexander DapperCat,Alex,9,Domesticshorthair
+Sun Jul 21 18:27:20 EDT 2019,Dog,Lila Betterhalf ,Lila,13,Greyhound
+Sun Jul 21 18:27:23 EDT 2019,Cat,Darling,Baby Girl,14,Manxcat
+Sun Jul 21 18:27:24 EDT 2019,Cat,Smokey,Mr Moke,12,BritishShorthair
+Sun Jul 21 18:27:40 EDT 2019,Cat,Jezebel ,Jez,14,Himalayan
+Sun Jul 21 18:27:44 EDT 2019,Dog,Tula Jean,Tula,1,Unknown
+Sun Jul 21 18:27:48 EDT 2019,Cat,Edison D. Cat,Eddie,9,Domesticshorthair
+Sun Jul 21 18:27:50 EDT 2019,Cat,Redford,Rasa,12,Unknown
+Sun Jul 21 18:27:55 EDT 2019,Dog,Odin,Odin,1,Mixed Breeds
+Sun Jul 21 18:27:57 EDT 2019,Dog,Annie Piker,Annie,8,Greyhound
+Sun Jul 21 18:28:00 EDT 2019,Dog,Rusty,Rusty,4,GoldenRetriever
+Sun Jul 21 18:28:05 EDT 2019,Cat,Thomas ,“Tom” “Old Man”,18,Domesticshorthair
+Sun Jul 21 18:28:15 EDT 2019,Cat,Fleckchen,Monster,7,EuropeanShorthair
+Sun Jul 21 18:28:19 EDT 2019,Dog,Stella Luna,Stella,4,Labradormix
+Sun Jul 21 18:28:23 EDT 2019,Cat,Fay Fuller,Fay,0.269230769,Unknown
+Sun Jul 21 18:28:26 EDT 2019,Dog,Pancho Villa,Pacho,12,Pug
+Sun Jul 21 18:28:34 EDT 2019,Dog,Waldo,Waldo,9,Cockapoo
+Sun Jul 21 18:28:41 EDT 2019,Others,,,,Unknown
+Sun Jul 21 18:28:44 EDT 2019,Cat,Luna,Kuschelmaus,8,EuropeanShorthair
+Sun Jul 21 18:28:48 EDT 2019,Dog,Yadier,Yadi,4,GoldenRetriever
+Sun Jul 21 18:29:05 EDT 2019,Others,DJ Roomba ,DJ Roomba ,,Unknown
+Sun Jul 21 18:29:09 EDT 2019,Dog,Ruby Gem,Ruby,4,Terriermix
+Sun Jul 21 18:29:10 EDT 2019,Dog,BuddyGus,Buddy or Boo,1.666666667,GoldenRetriever
+Sun Jul 21 18:29:12 EDT 2019,Dog,Homer ,Homie,5,SpringerSpaniel
+Sun Jul 21 18:29:15 EDT 2019,Dog,Pippie,Pippie or Pippo,2,Pitbull
+Sun Jul 21 18:29:18 EDT 2019,Dog,Parker,,6,Beagle
+Sun Jul 21 18:29:19 EDT 2019,Dog,Chipper Doodle,Chip,12,ChocolateLabrador
+Sun Jul 21 18:29:20 EDT 2019,Dog,Jack,Jack,7,LabradorRetriever
+Sun Jul 21 18:29:26 EDT 2019,Dog,"Xena, Warrior Pinscher ",Xena,14,MiniaturePinscher
+Sun Jul 21 18:29:35 EDT 2019,Dog,Gabby,Gabby,2,GoldenRetriever
+Sun Jul 21 18:29:44 EDT 2019,Dog,Rosebud,Rosie,10,Beagle
+Sun Jul 21 18:29:56 EDT 2019,Dog,Cooper,Coopee ,10,Yorkie Mix
+Sun Jul 21 18:30:00 EDT 2019,Dog,Shakota,Shakota,12,SiberianHusky
+Sun Jul 21 18:30:09 EDT 2019,Dog,Wilbur,Wilby,7,FrenchBulldog
+Sun Jul 21 18:30:10 EDT 2019,Dog,Finn T. Dog,Finn,0.416666667,Weimaraner
+Sun Jul 21 18:30:11 EDT 2019,Cat,Wilma ,Wilma Jean the Queen ,2,Orangetabby(DSH)
+Sun Jul 21 18:30:30 EDT 2019,Dog,Baylee,"Baylee Boo, Taps",2,Unknown
+Sun Jul 21 18:30:32 EDT 2019,Dog,Sprocket,"Bark, sprock, spark",15,Muttmix
+Sun Jul 21 18:30:56 EDT 2019,Cat,Peppercorn Ale,Pepper,14,Unknown
+Sun Jul 21 18:31:01 EDT 2019,Cat,Stanley,Stan the handsome man ,1,Orangetabby(DSH)
+Sun Jul 21 18:31:53 EDT 2019,Bird,Ahanu ,Ahanu ,13,Caique
+Sun Jul 21 18:31:54 EDT 2019,Dog,Sophie,Sophie,13,Maltesemix
+Sun Jul 21 18:32:00 EDT 2019,Dog,Sasha,Chunk ,1,Labradormix
+Sun Jul 21 18:32:27 EDT 2019,Bird,Perkins the Parakeer,Perkins,3,Parakeet
+Sun Jul 21 18:32:57 EDT 2019,Dog,Kookie (pronounced cookie) Pants,Noodle,15,JackRussellTerrier
+Sun Jul 21 18:33:30 EDT 2019,Dog,Miss Maisy Cakes,Maisy,1,RescueMutt
+Sun Jul 21 18:33:38 EDT 2019,Dog,Han Solo,Solo,3,EnglishCockerSpaniel
+Sun Jul 21 18:33:57 EDT 2019,Dog,Lillith Anne,Lily,6,AlaskanHusky
+Sun Jul 21 18:34:02 EDT 2019,Dog,Michelangelo,Mikey,11,EnglishCockerSpaniel
+Sun Jul 21 18:34:09 EDT 2019,Dog,Freddie Beagle ,Fred or Freddie ,11,Beagle
+Sun Jul 21 18:34:18 EDT 2019,Dog,Pieper,Pooper,4,Unknown
+Sun Jul 21 18:34:31 EDT 2019,Fish,Toilet Mimosa Gillan ,Togimi ,0.5,BettaFish
+Sun Jul 21 18:34:39 EDT 2019,Dog,Jacob,Jake,6,AlaskanHusky
+Sun Jul 21 18:34:41 EDT 2019,Lizard,Drazil Marie,Drazil ,4,BeardedDragonLizard
+Sun Jul 21 18:35:02 EDT 2019,Dog,Titus Augustus,Tidy,9,AmericanFoxhound
+Sun Jul 21 18:35:05 EDT 2019,Dog,,Cirrus,2,Poodle
+Sun Jul 21 18:35:15 EDT 2019,Dog,Shelby,Shelby,14,LabradorRetriever
+Sun Jul 21 18:35:30 EDT 2019,Dog,,Nimbus,0.5,Poodle
+Sun Jul 21 18:35:30 EDT 2019,Dog,Finn,Finn,1,CavalierKingCharlesSpaniel
+Sun Jul 21 18:35:31 EDT 2019,Cat,Kitten Kitten Kittycat,Kitty,14,AmericanLonghair
+Sun Jul 21 18:35:37 EDT 2019,Dog,Tessie Joan (of Arc),Tessie ,7,AmericanFoxhound
+Sun Jul 21 18:35:37 EDT 2019,Dog,Ginger,Ginger,12,GoldenRetriever
+Sun Jul 21 18:35:47 EDT 2019,Dog,Sadie,Sadie,6,GoldenRetriever
+Sun Jul 21 18:35:53 EDT 2019,Dog,Flicka,Flicky,12,LabradorRetriever
+Sun Jul 21 18:35:57 EDT 2019,Dog,Koda Kingslayer,Koda,2,GoldenRetriever
+Sun Jul 21 18:35:57 EDT 2019,Dog,Flicka,Flicky,12,LabradorRetriever
+Sun Jul 21 18:36:12 EDT 2019,Dog,Maggie,Ms America ,7,GoldenRetriever
+Sun Jul 21 18:36:15 EDT 2019,Dog,Henry (after Dorian Grey),Henry,1,Brittany
+Sun Jul 21 18:36:26 EDT 2019,Dog,Megan,Puppy,10,Muttmix
+Sun Jul 21 18:36:27 EDT 2019,Cat,Dante’s InFURno,Dante,7,MaineCoon
+Sun Jul 21 18:36:39 EDT 2019,Cat,Gatsby,Gatsby,0,"Stray,black"
+Sun Jul 21 18:36:41 EDT 2019,Cat,Tyrone,Tyrone,0.5,Unknown
+Sun Jul 21 18:36:48 EDT 2019,Dog,Hopper T. Dog,Hops,6,GoldenRetriever
+Sun Jul 21 18:36:55 EDT 2019,Dog,Snickers,Snickers,10,Beaglemix
+Sun Jul 21 18:36:57 EDT 2019,Cat,Tommy toe,Tommy,3,Unknown
+Sun Jul 21 18:37:04 EDT 2019,Cat,Wheels,Wheels,16,Unknown
+Sun Jul 21 18:37:06 EDT 2019,Dog,Venkman,Venk,5,GoldenRetriever
+Sun Jul 21 18:37:07 EDT 2019,Cat,Maisie ,Maisie,0,"Stray,black"
+Sun Jul 21 18:37:21 EDT 2019,Dog,Murphy,Murph,0.041666667,CockerSpaniel
+Sun Jul 21 18:37:24 EDT 2019,Dog,Maggie,Schmieg,12,GoldenRetriever
+Sun Jul 21 18:37:27 EDT 2019,Cat,Lin Meow Miranda,Lin,3,Americanshorthair
+Sun Jul 21 18:37:38 EDT 2019,Dog,Jasmine,Jasmine,13,GoldenRetriever
+Sun Jul 21 18:37:52 EDT 2019,Dog,Hurley Pearly Sky-Sky,Hurley,7,ShihTzu
+Sun Jul 21 18:37:53 EDT 2019,Dog,Queso,Queso,14,GoldenRetriever
+Sun Jul 21 18:38:00 EDT 2019,Dog,Breezy Anne,Breezy,5,GermanShepherd
+Sun Jul 21 18:38:08 EDT 2019,Dog,Riley,Riley,7,GoldenRetriever
+Sun Jul 21 18:38:18 EDT 2019,Fish,Fishy Fishy Fishy III,Fishy,0.75,BettaFish
+Sun Jul 21 18:38:23 EDT 2019,Dog,Homer J,Homer,10,BasenjiMix
+Sun Jul 21 18:38:28 EDT 2019,Dog,Tucker,Tucker,7,GoldenRetriever
+Sun Jul 21 18:38:57 EDT 2019,Cat,Kitty Vegas,Vegas,6,DomesticLonghair
+Sun Jul 21 18:39:09 EDT 2019,Dog,Abby,Abby,3,Pitbull
+Sun Jul 21 18:39:15 EDT 2019,Dog,Cooper Triple Bogey,Coop,0.173076923,GoldenRetriever
+Sun Jul 21 18:39:16 EDT 2019,Dog,Shelby,Shelby,1,BlueTickCoonHoundMix
+Sun Jul 21 18:39:18 EDT 2019,Cat,Dr Gaius Baltar,Gusgus,10,Russian Blue
+Sun Jul 21 18:39:27 EDT 2019,Dog,Oakley Dalton,Oaks,6,Unknown
+Sun Jul 21 18:39:29 EDT 2019,Dog,Lucy Lou ,Goose,9,GoldenRetriever
+Sun Jul 21 18:39:32 EDT 2019,Others,April,April,14,Unknown
+Sun Jul 21 18:39:33 EDT 2019,Cat,Vasquez ,Vasquez ,7,DomesticShorthair-tortoise
+Sun Jul 21 18:39:34 EDT 2019,Dog,Niles Crane,Niles,4,BorderCollie
+Sun Jul 21 18:39:39 EDT 2019,Dog,Little Lucky One,Lucky,13,Chihuahua
+Sun Jul 21 18:39:40 EDT 2019,Dog,Benjamin Sebastian,Benjamin,7,Colliebassethoundmix.
+Sun Jul 21 18:39:46 EDT 2019,Dog,Siris Maximus,Sirius,5,AlaskanHusky
+Sun Jul 21 18:40:00 EDT 2019,Dog,Blaze,Blaze,5,LabradorRetriever
+Sun Jul 21 18:40:07 EDT 2019,Dog,Brody ,Brody,11,Yorkie Mix
+Sun Jul 21 18:40:17 EDT 2019,Cat,Ripley,Chubby Chubs,4,Domesticshorthair
+Sun Jul 21 18:40:25 EDT 2019,Dog,Director of Chaos,D.O.C.,4,Boxer
+Sun Jul 21 18:40:36 EDT 2019,Cat,Josh Joshua Joshylin,Josh,6,Tuxedo cat
+Sun Jul 21 18:40:40 EDT 2019,Cat,Lisa,Lisa,12,Unknown
+Sun Jul 21 18:40:55 EDT 2019,Dog,Cody,Codes,11,GoldenRetriever
+Sun Jul 21 18:40:57 EDT 2019,Cat,Nepeta ,Nepeta,2,Shorthair
+Sun Jul 21 18:41:12 EDT 2019,Dog,Emma,Rotta,6,Mittelspitz
+Sun Jul 21 18:41:13 EDT 2019,Cat,Leeloo Dallas Multipass,Leeloo,9,LaPerm
+Sun Jul 21 18:41:16 EDT 2019,Dog,Isabella Grace,Bella,7,Maltese
+Sun Jul 21 18:41:19 EDT 2019,Dog,Cookie Boogie,Boogie,3,Unknown
+Sun Jul 21 18:41:21 EDT 2019,Cat,Cataria,Tarie,2,Unknown
+Sun Jul 21 18:41:23 EDT 2019,Dog,Salina,Salina,2,Houndmix
+Sun Jul 21 18:41:34 EDT 2019,Dog,Theodore James,Theo,5,Maltese
+Sun Jul 21 18:41:41 EDT 2019,Dog,Ofelia,Ofie Lofie,15,NorwichTerrier
+Sun Jul 21 18:41:43 EDT 2019,Dog,Hermie,Hermie,3.5,ChocolateLabmix
+Sun Jul 21 18:42:02 EDT 2019,Lizard,Turtle,Turtle,5,LeopardGecko
+Sun Jul 21 18:42:14 EDT 2019,Dog,Jackson Baines Hardin,Jackson,14,Shepherdmix
+Sun Jul 21 18:42:21 EDT 2019,Cat,Tali'zorah vas Normandy,Tali,9,LaPerm
+Sun Jul 21 18:42:24 EDT 2019,Dog,Rudy,Rudy,12,BlackLabMix
+Sun Jul 21 18:42:37 EDT 2019,Rodent,Teddy,Teddy,3,GuineaPig
+Sun Jul 21 18:42:40 EDT 2019,Dog,Chuchi,Baby Chu,9,ToyPoodle
+Sun Jul 21 18:42:50 EDT 2019,Dog,Belle Silver,Bobo,3,Brittany
+Sun Jul 21 18:42:50 EDT 2019,Fish,Fish,Swish,7,GoldFish
+Sun Jul 21 18:42:59 EDT 2019,Dog,Phoebe Buffay,Phoeb,4.5,StaffordshireTerrier
+Sun Jul 21 18:43:03 EDT 2019,Dog,Precious Presley ,Presley ,1,Labradormix
+Sun Jul 21 18:43:19 EDT 2019,Cat,Boots,Fuckoff,10,Blackcatwithwhitefeet
+Sun Jul 21 18:43:19 EDT 2019,Dog,Sarah Jessica Parker,Parker,8,Beagle
+Sun Jul 21 18:43:49 EDT 2019,Dog,Princess Leah ,Leah,8,Miniatureschnauzer
+Sun Jul 21 18:43:52 EDT 2019,Cat,Zeus,Zeus,2,Unknown
+Sun Jul 21 18:44:10 EDT 2019,Dog,Mr Duke of Carol Stream,Booboo,10,LabradorRetriever
+Sun Jul 21 18:44:27 EDT 2019,Dog,Bruno Mars ,Bruno,4,ShihTzu
+Sun Jul 21 18:44:35 EDT 2019,Cat,Persephone,Persey,2,Unknown
+Sun Jul 21 18:44:35 EDT 2019,Dog,Reggie,Reg,8,BorderCollie
+Sun Jul 21 18:44:47 EDT 2019,Cat,Momo,Momo,9,Domesticshorthair
+Sun Jul 21 18:44:48 EDT 2019,Dog,Twixie,Gooben,2,Messbreed
+Sun Jul 21 18:44:50 EDT 2019,Dog,Kody,Kode,10,GoldenRetriever
+Sun Jul 21 18:44:57 EDT 2019,Dog,Maverick Clinton ,Maverick,10,LabradorRetriever
+Sun Jul 21 18:45:02 EDT 2019,Cat,Abbey Road,Abbey,3,Long-hairdomestic
+Sun Jul 21 18:45:15 EDT 2019,Cat,Naga,Naga,6,Domesticshorthair
+Sun Jul 21 18:45:15 EDT 2019,Dog,Sven,Bean,5,GermanShepherd
+Sun Jul 21 18:45:21 EDT 2019,Dog,Lola,Lola,11,Poodlemix
+Sun Jul 21 18:45:30 EDT 2019,Dog,Sophie,Sophie,2,Rottweiler
+Sun Jul 21 18:45:31 EDT 2019,Cat,Stinky Pete,Pete and/or Stinky,18,Justaregularcat
+Sun Jul 21 18:45:38 EDT 2019,Cat,Gozer,Gozey,12,Blackcat
+Sun Jul 21 18:45:39 EDT 2019,Dog,Lily Potter,Lil,2,GermanShepherd
+Sun Jul 21 18:45:51 EDT 2019,Dog,Dougie McFly,Dougie,11,CairnTerrier
+Sun Jul 21 18:45:56 EDT 2019,Dog,RileyRoo,Riley,2,Muttmix
+Sun Jul 21 18:46:04 EDT 2019,Dog,Dobby,Boober ,4,PembrokeWelshCorgi
+Sun Jul 21 18:46:11 EDT 2019,Cat,Sir Edward Julius Robert Kittybutt III,Eddie,16,Tigercat
+Sun Jul 21 18:46:37 EDT 2019,Fish,Chu-chu,Chu-chu,11,GoldFish
+Sun Jul 21 18:47:06 EDT 2019,Dog,Lando,Lando,5,BerneseMountainDog
+Sun Jul 21 18:47:16 EDT 2019,Dog,Tucker Paul,Tuck,6,Pitbull
+Sun Jul 21 18:47:56 EDT 2019,Dog,Schnitzel Von Krumm,Ninnel,11,MiniatureDachshund
+Sun Jul 21 18:48:09 EDT 2019,Dog,Wrigley,Wriglry pigley,13,Beagle
+Sun Jul 21 18:48:39 EDT 2019,Dog,Wally,Wal,0.333333333,GoldenRetriever
+Sun Jul 21 18:48:55 EDT 2019,Dog,Snickers,Doodle,11,Beagle
+Sun Jul 21 18:49:14 EDT 2019,Dog,Charlie,Charlie,9,Cockapoo
+Sun Jul 21 18:49:15 EDT 2019,Dog,Pepper,Pep,0.791666667,CockerSpaniel
+Sun Jul 21 18:49:16 EDT 2019,Dog,Brownie,Brownie ,13,Beagle
+Sun Jul 21 18:49:31 EDT 2019,Cat,Maow,Kitkat,14,Unknown
+Sun Jul 21 18:49:35 EDT 2019,Dog,Echo,Beck,3,Corgimix
+Sun Jul 21 18:49:52 EDT 2019,Dog,Banky,Banky,10,BassetHound
+Sun Jul 21 18:49:55 EDT 2019,Dog,Koda,Koda,6,Chihuahua
+Sun Jul 21 18:50:09 EDT 2019,Dog,Clifford,Cliff,6,LabradorRetriever
+Sun Jul 21 18:50:11 EDT 2019,Dog,Coco,Coco Bear,7,Morkiemix
+Sun Jul 21 18:50:15 EDT 2019,Dog,Charlie,Charlie,8,Pitbull
+Sun Jul 21 18:50:20 EDT 2019,Dog,Mojo,Moj,5,Chiweenie
+Sun Jul 21 18:50:27 EDT 2019,Horse,Wizarding Wonder,Wizwo,12,ShirexTB
+Sun Jul 21 18:50:40 EDT 2019,Dog,Hank,Hank,2,Boxermix
+Sun Jul 21 18:51:00 EDT 2019,Horse,Thunderhawk,Thunder,21,Spanishmustang
+Sun Jul 21 18:51:11 EDT 2019,Dog,Sebastian,Fritz,15,Italiangreyhoundmix
+Sun Jul 21 18:51:22 EDT 2019,Horse,Cielo,Piglet ,4,Unknown
+Sun Jul 21 18:51:37 EDT 2019,Cat,Bebop Vincent,Beebs,5,Domesticshorthair
+Sun Jul 21 18:51:49 EDT 2019,Horse,Thalia,Thalia,4,Unknown
+Sun Jul 21 18:52:08 EDT 2019,Horse,Morganna la Fey,Morganna,15,Unknown
+Sun Jul 21 18:52:12 EDT 2019,Cat,Maja,Maja,14,Grey
+Sun Jul 21 18:52:13 EDT 2019,Dog,Hank,Hanky,2,Yellowlab
+Sun Jul 21 18:52:28 EDT 2019,Dog,Ella,Ells Bells,14.5,CockerSpaniel
+Sun Jul 21 18:52:30 EDT 2019,Dog,Frappuccino,Frappie,7,Labradoodle
+Sun Jul 21 18:52:35 EDT 2019,Horse,Texas Pony Smoke,Monster,2,Unknown
+Sun Jul 21 18:52:40 EDT 2019,Dog,Gracie,Grace,12,ShihTzu
+Sun Jul 21 18:52:53 EDT 2019,Horse,Khan,Khan,3,Spanishmustang
+Sun Jul 21 18:52:57 EDT 2019,Dog,Phoebe,Phoebe,2,Goldendoodle
+Sun Jul 21 18:53:03 EDT 2019,Dog,Uma Strawn McGuire,Uma,4,GoldenRetrievermix
+Sun Jul 21 18:53:06 EDT 2019,Dog,Buster,Boop squared,13,Terrierist
+Sun Jul 21 18:53:11 EDT 2019,Horse,Reno,Reno,,Unknown
+Sun Jul 21 18:53:19 EDT 2019,Cat,Sketchy Missouri,Sketchy,12,Tortoiseshell
+Sun Jul 21 18:53:21 EDT 2019,Dog,Eva Marie,Eva,3,Chihuahua
+Sun Jul 21 18:53:26 EDT 2019,Horse,Boogieman,Boogie,5,Unknown
+Sun Jul 21 18:53:30 EDT 2019,Dog,Mia Hamm,Mia,11,GoldenRetriever
+Sun Jul 21 18:53:33 EDT 2019,Cat,Charlie,Charile,18,Tabby
+Sun Jul 21 18:53:38 EDT 2019,Dog,alia atreides,Allie,5,Muttmix
+Sun Jul 21 18:53:51 EDT 2019,Horse,Legacy,Legacy,15,Unknown
+Sun Jul 21 18:54:20 EDT 2019,Horse,Mambo no. 5,Mambo,2,Spanishmustang
+Sun Jul 21 18:54:31 EDT 2019,Cat,Zoey,Zoe,4,Unknown
+Sun Jul 21 18:54:32 EDT 2019,Dog,lexie,lex,0.833333333,GoldenRetriever
+Sun Jul 21 18:54:37 EDT 2019,Horse,Mato Ma’hu’i,Mato,2,Unknown
+Sun Jul 21 18:54:43 EDT 2019,Dog,Bernard,Bernard ,5,Boxer
+Sun Jul 21 18:55:05 EDT 2019,Horse,Starflower’s Jezebel,Jezebel,4,Spanishmustang
+Sun Jul 21 18:55:09 EDT 2019,Cat,Jenna Nicole Rhea Lopez Horn,Jenna Jenna,8,Unknown
+Sun Jul 21 18:55:09 EDT 2019,Dog,Myles - his roman name is Squirtacus Mylonius,Myles,10,Cockapoo
+Sun Jul 21 18:55:22 EDT 2019,Horse,Diamond Lily,Lily,7,Unknown
+Sun Jul 21 18:55:28 EDT 2019,Dog,Millie,Millie,9.5,Shepherdmix
+Sun Jul 21 18:55:37 EDT 2019,Horse,Gypsy Rose Lee,Gypsy,6,Unknown
+Sun Jul 21 18:55:39 EDT 2019,Fish,Butters,Butters,0.019230769,GoldFish
+Sun Jul 21 18:55:42 EDT 2019,Dog,Bodhi,Bo,6,GoldenRetriever
+Sun Jul 21 18:55:55 EDT 2019,Dog,Mooch,Mooch,9,Terriermix
+Sun Jul 21 18:55:55 EDT 2019,Dog,Piper,Pipes,4,Woodle(wheatonterrier/poodle)
+Sun Jul 21 18:56:06 EDT 2019,Cat,Ramona,Ramona,12,Unknown
+Sun Jul 21 18:56:07 EDT 2019,Dog,Charles,Charlie,10,Corgi
+Sun Jul 21 18:56:16 EDT 2019,Horse,Morning Glory,Glory,,Unknown
+Sun Jul 21 18:56:18 EDT 2019,Dog,Willow,Willow,3,Sheepadoodle
+Sun Jul 21 18:56:28 EDT 2019,Horse,Morning Mist,misty ,,Unknown
+Sun Jul 21 18:56:28 EDT 2019,Dog,Glamis Schedule K1,Kona,5,GoldenRetriever
+Sun Jul 21 18:56:50 EDT 2019,Dog,Bandit Raye,Bandi,12,Farmdog
+Sun Jul 21 18:56:51 EDT 2019,Horse,Syndicated Copper,Copper,,Unknown
+Sun Jul 21 18:57:02 EDT 2019,Cat,Cleo,Cleo,13,DSH
+Sun Jul 21 18:57:06 EDT 2019,Cat,Sebastian Ninja Nutjob,Sebastian,11,Domesticshorthair
+Sun Jul 21 18:57:27 EDT 2019,Dog,Anderson,Andy,12,Labradormix
+Sun Jul 21 18:58:08 EDT 2019,Dog,Mars Harambe,Pickle,3,Catahoulamix
+Sun Jul 21 18:58:08 EDT 2019,Others,"Butler, You Glorious Vacuuming Bastard",Butler ,1,iRobot
+Sun Jul 21 18:58:15 EDT 2019,Dog,Claudio Atlas Wolfric,Claudio ,8,Dachshund
+Sun Jul 21 18:58:32 EDT 2019,Rabbit,Flufy,Flufy,10,Lionhead
+Sun Jul 21 18:58:42 EDT 2019,Dog,Lawson H Dog,Hogan,16,Briard
+Sun Jul 21 18:58:49 EDT 2019,Cat,Smudge the Second,Deuce,4,Himalayan
+Sun Jul 21 19:00:08 EDT 2019,Dog,Tucker,"Tucker, dude, bud ",1,Bulldog
+Sun Jul 21 19:00:39 EDT 2019,Cat,Echo,Echo,18,Unknown
+Sun Jul 21 19:00:49 EDT 2019,Dog,Ames,Ames,5,Husky
+Sun Jul 21 19:01:02 EDT 2019,Dog,Franc,Franc,0.333333333,Mastiffcross
+Sun Jul 21 19:01:09 EDT 2019,Cat,Winnie,Winnie,0.333333333,Unknown
+Sun Jul 21 19:01:31 EDT 2019,Cat,Tiggy,,0.333333333,Unknown
+Sun Jul 21 19:02:05 EDT 2019,Dog,Oliver Jackson ,Oliver/Baby/Little Man,5.5,Morkie
+Sun Jul 21 19:02:07 EDT 2019,Dog,Dolly Doodle Dogger,Dolly,6,Labradoodle
+Sun Jul 21 19:02:14 EDT 2019,Cat,Ann Perkins ,Ann ,0.5,Mixed
+Sun Jul 21 19:02:32 EDT 2019,Dog,Cassie,Cassie,5,Mixed Breeds
+Sun Jul 21 19:02:36 EDT 2019,Cat,Kisa Marie,Kisa,6,Unknown
+Sun Jul 21 19:02:45 EDT 2019,Dog,Logan,Logan brogran,2,RhodesianRidgeback
+Sun Jul 21 19:02:45 EDT 2019,Dog,Basil,Basil,7,GermanShepherdmix
+Sun Jul 21 19:02:52 EDT 2019,Dog,Marble,Marble,5,Plotthoundmix
+Sun Jul 21 19:03:05 EDT 2019,Dog,Hollie,Hollie,14,Westie
+Sun Jul 21 19:03:15 EDT 2019,Dog,Cash Money,Cashie,2,LabradorRetriever
+Sun Jul 21 19:03:29 EDT 2019,Dog,Seamus,Shamie Bameee,11,RhodesianRidgeback
+Sun Jul 21 19:03:39 EDT 2019,Cat,William Robert,Billy,3,Unknown
+Sun Jul 21 19:03:50 EDT 2019,Dog,Nash,Nash,2,LabradorRetriever
+Sun Jul 21 19:03:52 EDT 2019,Cat,Spoons,Spoons,3,Calico
+Sun Jul 21 19:03:58 EDT 2019,Cat,Arizona,Arizona,7,Domesticshorthair/orangetabby
+Sun Jul 21 19:04:11 EDT 2019,Dog,Sian Ben Ryan,Sian or Sisi,14,Westie
+Sun Jul 21 19:04:21 EDT 2019,Dog,Bear 2,Bear,7.5,RetrieverMix
+Sun Jul 21 19:04:22 EDT 2019,Cat,Banjo,Banj,3,DSH
+Sun Jul 21 19:04:37 EDT 2019,Rodent,Fossedini Heraldo Macduff,Fosse,10,Chinchilla
+Sun Jul 21 19:04:43 EDT 2019,Cat,Princess Melanie,Melanie,5,DomesticLonghair
+Sun Jul 21 19:04:54 EDT 2019,Cat,Tiffany Marie,Tiffany,13,DSH
+Sun Jul 21 19:05:00 EDT 2019,Dog,Charles Barrath McIntyre,Barry,6,BassetHound
+Sun Jul 21 19:05:33 EDT 2019,Dog,Margeurite Larioux Gonzales,Maggie,6,Chihuahuamix
+Sun Jul 21 19:05:37 EDT 2019,Dog,Rusty,Rusty,2,Foxredlab
+Sun Jul 21 19:05:50 EDT 2019,Dog,Starfire,Star,15,Maltesepoodle
+Sun Jul 21 19:05:52 EDT 2019,Dog,Nova,Nova,2.5,Pomeranianmix
+Sun Jul 21 19:05:52 EDT 2019,Dog,Dinty,The Dint,5,Terriermix
+Sun Jul 21 19:06:26 EDT 2019,Cat,Hamilton,Hammy Bits,3,Unknown
+Sun Jul 21 19:06:28 EDT 2019,Dog,Kadie Jo,Kadie Jo,6,LabradorRetriever
+Sun Jul 21 19:06:41 EDT 2019,Cat,Incandenza,Ink,3,Unknown
+Sun Jul 21 19:06:43 EDT 2019,Cat,Fitzgerald,Fitz,8,Domesticshorthair
+Sun Jul 21 19:07:21 EDT 2019,Cat,Zelda,Zelda,8,Domesticshorthair
+Sun Jul 21 19:07:26 EDT 2019,Dog,Daisy Duke,Daisy,4,Siberianmix
+Sun Jul 21 19:08:00 EDT 2019,Rodent,Stewie,Stewie,2,GuineaPig
+Sun Jul 21 19:08:23 EDT 2019,Dog,Sunny Sunday Sky,Sunny,15.5,Beagle
+Sun Jul 21 19:08:33 EDT 2019,Rodent,Francisco,Cisco,2,GuineaPig
+Sun Jul 21 19:08:36 EDT 2019,Horse,Dream On Chip,Diva,15,Appaloosa
+Sun Jul 21 19:08:53 EDT 2019,Dog,Bailey,Bailey,3,BorderColliemix
+Sun Jul 21 19:09:10 EDT 2019,Horse,Tundra,Tundra,12,"Mixedbreed(Appaloosa,paint,Tennesseewalker)"
+Sun Jul 21 19:09:48 EDT 2019,Dog,Bosco Spaghettio,Bosco,9,BorderColliemix
+Sun Jul 21 19:09:50 EDT 2019,Cat,Agnes Marie,Aggie turd,2,Unknown
+Sun Jul 21 19:10:03 EDT 2019,Dog,Tansei,Duffus,7,ShibaInu
+Sun Jul 21 19:10:27 EDT 2019,Cat,Edith,Eduf Monster,1,Unknown
+Sun Jul 21 19:10:38 EDT 2019,Cat,Mini,Mimi,13,Tuxedo cat
+Sun Jul 21 19:11:02 EDT 2019,Cat,Theodore ,Ted,4,persian
+Sun Jul 21 19:11:27 EDT 2019,Dog,Molly,Molly,16,GoldenRetriever
+Sun Jul 21 19:11:29 EDT 2019,Dog,Duke Dukington,Duka,3,Chihuahuamix
+Sun Jul 21 19:11:58 EDT 2019,Cat,Oliver Newton,Ollie,4,MaineCoon
+Sun Jul 21 19:12:20 EDT 2019,Dog,Prince Phillip the 2nd,"Phillip, Daddy-o",12,WestHighlandTerrier
+Sun Jul 21 19:12:29 EDT 2019,Cat,Starla,Starla,4,Domesticshorthair
+Sun Jul 21 19:13:27 EDT 2019,Dog,Petey,Petey poopoo head,11,WestHighlandTerrier
+Sun Jul 21 19:13:56 EDT 2019,Dog,President Nixon ,Nixy ,8,Mixed Breeds
+Sun Jul 21 19:14:02 EDT 2019,Dog,Daisy Doodle Fat Kid with Butt Spots,Daisy,4,Houndmix
+Sun Jul 21 19:14:06 EDT 2019,Dog,Benry of Willowbrook,Benry,8,GoldenRetriever
+Sun Jul 21 19:14:43 EDT 2019,Dog,Qoda,Qoda,2.5,GoldenRetriever
+Sun Jul 21 19:15:16 EDT 2019,Dog,Ziggy Starsog,Zig,1.5,Houndmix
+Sun Jul 21 19:15:17 EDT 2019,Dog,Samuel Labrador,Sam,13,LabradorRetriever
+Sun Jul 21 19:16:14 EDT 2019,Hamster,Princess Consuela Banana Hammock,Banana,Deceased,Unknown
+Sun Jul 21 19:17:40 EDT 2019,Dog,Bentley Boy,Bentley,13,ShihTzu
+Sun Jul 21 19:17:42 EDT 2019,Dog,Taco Belle ,Taco,Unknown,Taco
+Sun Jul 21 19:17:43 EDT 2019,Dog,Pluto,Pluto,Deceased,GoldenRetriever
+Sun Jul 21 19:18:09 EDT 2019,Hamster,Scooter Computer,Scooter,2,Unknown
+Sun Jul 21 19:18:54 EDT 2019,Dog,Toby,Toby,6,Beaglemix
+Sun Jul 21 19:19:07 EDT 2019,Dog,Harlee ,Harlee,3,AnatolianShepherd
+Sun Jul 21 19:20:33 EDT 2019,Dog,Nessa,Nessa,1,GoldenRetriever
+Sun Jul 21 19:21:17 EDT 2019,Dog,Biscuit Bandit ,Bandit,3,LabradorRetriever
+Sun Jul 21 19:21:25 EDT 2019,Cat,Sophie,Fuzzbutt,2,Unknown
+Sun Jul 21 19:21:30 EDT 2019,Dog,The Real Slim Sadie ,Sadie,1.5,GoldenRetriever
+Sun Jul 21 19:21:30 EDT 2019,Dog,Quincy Sugarplum,Quincy,3,GoldenRetriever
+Sun Jul 21 19:21:51 EDT 2019,Dog,Skipper Doo,Skip,4,Yorkie
+Sun Jul 21 19:21:58 EDT 2019,Dog,Sam Ruffalo,Sam,6,GoldenLabrador
+Sun Jul 21 19:22:04 EDT 2019,Dog,Brutus Buckeye,Brutus,11,GoldenRetriever
+Sun Jul 21 19:22:48 EDT 2019,Dog,crespo ,crespo or baby 😂,12,ShihTzu
+Sun Jul 21 19:22:58 EDT 2019,Dog,Rossignol,Rozzie,Deceased,SiberianHusky
+Sun Jul 21 19:23:27 EDT 2019,Hamster,Peaches,Peaches,3,Unknown
+Sun Jul 21 19:23:55 EDT 2019,Dog,Pepper,Pepper,4,Mixed Breeds
+Sun Jul 21 19:24:04 EDT 2019,Dog,Amaya,Maya,6,SiberianHusky
+Sun Jul 21 19:24:21 EDT 2019,Cat,Eloise ,Ellie,10,Unknown
+Sun Jul 21 19:24:47 EDT 2019,Cat,Olive,Ollie,4,Unknown
+Sun Jul 21 19:25:04 EDT 2019,Cat,Kiki Buntain,Kiki,18,Mutt
+Sun Jul 21 19:25:15 EDT 2019,Dog,Tiger ,Tiger,12,Unknown
+Sun Jul 21 19:25:26 EDT 2019,Dog,Bonnie,Bonnie,8,Westie
+Sun Jul 21 19:26:21 EDT 2019,Dog,Abby,Abby,11,CavalierKingCharlesSpaniel
+Sun Jul 21 19:26:35 EDT 2019,Lizard,Gomez,Gomie,10,Highyellowleopardgecko
+Sun Jul 21 19:26:48 EDT 2019,Dog,Cooper,Coop,7,LabradorRetriever
+Sun Jul 21 19:27:36 EDT 2019,Dog,Chase,Chase,3,Huskymix
+Sun Jul 21 19:27:37 EDT 2019,Hamster,Steve Hammond,Steve,0.333333333,RussianCampbell
+Sun Jul 21 19:27:51 EDT 2019,Dog,Riley Jenkins,Riley,1.5,GoldenRetriever
+Sun Jul 21 19:27:52 EDT 2019,Dog,Montgomery T Dog ,"Monty, monkey, monkeyrunk, ",2,Dalmatianmix
+Sun Jul 21 19:28:36 EDT 2019,Dog,Nana Roo,Nana,5,GermanShepherd
+Sun Jul 21 19:28:52 EDT 2019,Cat,Ella Grey,Ella,7,Unknown
+Sun Jul 21 19:29:30 EDT 2019,Dog,Callie,Cal Gal (the golden),3,GoldenRetriever
+Sun Jul 21 19:29:31 EDT 2019,Dog,Rocco Norbert,Rocco,10,GoldenRetrievermix
+Sun Jul 21 19:29:34 EDT 2019,Dog,Jack,Jack,3,Terriermix
+Sun Jul 21 19:29:51 EDT 2019,Dog,Ted,Ted,0.5,WelshTerrier
+Sun Jul 21 19:29:52 EDT 2019,Snake,Desiree,Desiree,11,Rosyboa
+Sun Jul 21 19:30:01 EDT 2019,Dog,Jaida Lynn,Jaida,12,BlackLabMix
+Sun Jul 21 19:30:16 EDT 2019,Snake,Gaia,Gaia,10,Dumeril’sboa
+Sun Jul 21 19:30:38 EDT 2019,Dog,Daisy Lulu,Daisy,9,ToyPoodle
+Sun Jul 21 19:30:57 EDT 2019,Cat,Phillip,Phillip,16,Yellowbuddytabby?
+Sun Jul 21 19:31:00 EDT 2019,Cat,Sunni,Sunni,10,Birman
+Sun Jul 21 19:31:26 EDT 2019,Cat,Nymeria,Nym,5,DMH
+Sun Jul 21 19:31:39 EDT 2019,Cat,Scarlett,Scar,8,N/A
+Sun Jul 21 19:31:50 EDT 2019,Cat,Ink,Ink,0.5,DMH
+Sun Jul 21 19:32:07 EDT 2019,Cat,Drew,Drewbeans,7,Unknown
+Sun Jul 21 19:32:20 EDT 2019,Dog,Titus ,Titus,7,LabradorRetriever
+Sun Jul 21 19:32:35 EDT 2019,Cat,Midna,Midna,8,DSH
+Sun Jul 21 19:32:39 EDT 2019,Dog,Cookie Asparagus ,Cookie,11,ChihuahuaJackRussellTerrier
+Sun Jul 21 19:32:41 EDT 2019,Dog,Tessa Leigh,Tessa,11,Labradormix
+Sun Jul 21 19:32:48 EDT 2019,Dog,Ali,Ali,5,Greyhound
+Sun Jul 21 19:32:56 EDT 2019,Dog,Daisy,Daisy/Dandelion,4,Labradormix
+Sun Jul 21 19:33:02 EDT 2019,Dog,Lucky,Luck luck ,5,LabradorRetriever
+Sun Jul 21 19:33:14 EDT 2019,Cat,Rex,Rex,7,MaineCoon
+Sun Jul 21 19:33:23 EDT 2019,Dog,Harper Jean,Harper Jean,1.5,GermanShepherdmix
+Sun Jul 21 19:33:25 EDT 2019,Cat,Maverick,Maverick,2,Unknown
+Sun Jul 21 19:33:26 EDT 2019,Hermit Crab,Rork,Rork,2,Unknown
+Sun Jul 21 19:33:40 EDT 2019,Cat,Tina Fay,Tina,6,Unknown
+Sun Jul 21 19:33:43 EDT 2019,Cat,Sophie,Sophie,4,DSH
+Sun Jul 21 19:33:48 EDT 2019,Dog,Max-well,Max,6,GoldenRetriever
+Sun Jul 21 19:33:53 EDT 2019,Dog,Mica,Mica,6,Labradormix
+Sun Jul 21 19:34:11 EDT 2019,Cat,Patches,Patches ,10,Tuxedo cat
+Sun Jul 21 19:34:13 EDT 2019,Cat,Asch,Asch,4,DSH
+Sun Jul 21 19:35:11 EDT 2019,Rodent,Yuri,Yuri,1,Rat
+Sun Jul 21 19:35:36 EDT 2019,Rodent,Ravio,Ravio,1,Rat
+Sun Jul 21 19:35:42 EDT 2019,Dog,Sylvester Balboa,Sly,6,GoldenRetriever
+Sun Jul 21 19:35:55 EDT 2019,Dog,Mia Roo ,Mia,11,AustralianShepherd
+Sun Jul 21 19:36:12 EDT 2019,Rodent,Melody,Melody,1,Winterwhitehamster
+Sun Jul 21 19:36:14 EDT 2019,Dog,Casper Tiberus,Casp,4,Mixed Breeds
+Sun Jul 21 19:36:16 EDT 2019,Dog,Chummy,Chumbles,5,Labradoodle
+Sun Jul 21 19:36:32 EDT 2019,Dog,Luna Bean ,Luna,7,Italiangreyhoundmix
+Sun Jul 21 19:36:40 EDT 2019,Rodent,Brown Gerbil,Brown Gerb,2,Gerbil
+Sun Jul 21 19:36:52 EDT 2019,Cat,Gabby Comacho,Cho Cho,16,Domesticshorthair
+Sun Jul 21 19:37:03 EDT 2019,Rodent,White Gerbil,White Gerb,2,Gerbil
+Sun Jul 21 19:37:07 EDT 2019,Dog,Sofie Tooter Scooter ,Sofie,7,Chihuahua
+Sun Jul 21 19:37:16 EDT 2019,Dog,Mojo,Mojo,5,Labradoodle
+Sun Jul 21 19:37:26 EDT 2019,Dog,Grace,Grace,1,Mixed Breeds
+Sun Jul 21 19:37:34 EDT 2019,Cat,Misha ,Misha ,8,Tabby
+Sun Jul 21 19:37:42 EDT 2019,Dog,Frankie,Frankie,1,Mixed Breeds
+Sun Jul 21 19:37:45 EDT 2019,Rodent,Dollar dollar bills y'all,Bill,2,GuineaPig
+Sun Jul 21 19:37:52 EDT 2019,Dog,Osa,Osa,9,Akitahuskymix
+Sun Jul 21 19:37:57 EDT 2019,Dog,Dixie,Dixie,12.5,Pitbull
+Sun Jul 21 19:38:14 EDT 2019,Cat,Barnabas ,Bucky,0.916666667,Mix
+Sun Jul 21 19:38:15 EDT 2019,Dog,Nina,Nina,7,WestHighlandTerrier
+Sun Jul 21 19:38:27 EDT 2019,Cat,Bitsy,Bitsy,15,Domesticshorthair
+Sun Jul 21 19:39:10 EDT 2019,Dog,Rachel,Rachel ,8,Schnauzer
+Sun Jul 21 19:40:12 EDT 2019,Dog,Piper,Piper,9,LabradorRetriever
+Sun Jul 21 19:40:13 EDT 2019,Dog,Bella,Belly,10,Yorkie
+Sun Jul 21 19:40:20 EDT 2019,Dog,Queen Khaleesi,Queenie,12,MountainDogmix
+Sun Jul 21 19:40:38 EDT 2019,Cat,Pumpkin,Pumpkin,6,Unknown
+Sun Jul 21 19:40:55 EDT 2019,Dog,Bridget ,"Bridgy, Pookie bridge ",15,Muttmix
+Sun Jul 21 19:40:58 EDT 2019,Dog,Bodacious ,Bodie,14,LabradorRetriever
+Sun Jul 21 19:41:21 EDT 2019,Dog,Mama Rose,Rosie,7,Pitbull
+Sun Jul 21 19:41:25 EDT 2019,Dog,Augustus,Gus,8,GoldenRetriever
+Sun Jul 21 19:41:35 EDT 2019,Cat,Sunshine,Sunshine,7,Tigerstripe(orange)
+Sun Jul 21 19:42:52 EDT 2019,Dog,Tater,Tater,0.25,Labradormix
+Sun Jul 21 19:42:55 EDT 2019,Cat,Millicent ,Millie,6,Unknown
+Sun Jul 21 19:43:11 EDT 2019,Hedgehog,Gustavus Ericius Hedgehog of the North,Gus,1.5,Unknown
+Sun Jul 21 19:43:16 EDT 2019,Dog,Beverly Ann,Beverlana,13,GoldenRetriever
+Sun Jul 21 19:43:40 EDT 2019,Dog,Cora Smalls,Cora,3,Havanese
+Sun Jul 21 19:43:40 EDT 2019,Dog,Jasper,Jasper,16,Dalmatianmix
+Sun Jul 21 19:43:41 EDT 2019,Cat,Dust,Dust,1,Unknown
+Sun Jul 21 19:43:50 EDT 2019,Dog,Caleb, caliber ,1.5,BlueTickCoonHound
+Sun Jul 21 19:44:10 EDT 2019,Dog,Tonka,"Tonks, Tonkers, Sir Tail",8,Newfoundland
+Sun Jul 21 19:44:29 EDT 2019,Bird,Spike,Spiker-doodle,13,Cockatiel
+Sun Jul 21 19:44:40 EDT 2019,Cat,Ash,Ashy boy ,9,Unknown
+Sun Jul 21 19:44:52 EDT 2019,Cat,Blossom ,Moose,6,Britishlonghair
+Sun Jul 21 19:44:52 EDT 2019,Cat,Violet ,Violet ,14,Shorthair
+Sun Jul 21 19:45:10 EDT 2019,Cat,Thor ,Thor,4,Unknown
+Sun Jul 21 19:45:14 EDT 2019,Dog,Hank,Baby,2,Boxer
+Sun Jul 21 19:45:27 EDT 2019,Dog,Brandy,Puddin,5,Labradormix
+Sun Jul 21 19:45:42 EDT 2019,Cat,Lily,Lillibutt,11,Shorthair
+Sun Jul 21 19:45:54 EDT 2019,Dog,Sir Squeaksalot the Second,Twoie,9,ChineseCrestedPowderOuff
+Sun Jul 21 19:46:29 EDT 2019,Cat,Buddy,Buddy Boi,4,Shorthair
+Sun Jul 21 19:48:10 EDT 2019,Dog,Colby Jack,Jack,5,GermanShepherd
+Sun Jul 21 19:48:15 EDT 2019,Dog,Cooper,Coop,0.115384615,Labradoodle
+Sun Jul 21 19:48:26 EDT 2019,Dog,Murphy,Murph,1,Goldendoodle
+Sun Jul 21 19:49:35 EDT 2019,Dog,Phineas,,7,Irishsoft-coatedwheatenterrier
+Sun Jul 21 19:49:39 EDT 2019,Dog,Peach,Peach,2,Mixed Breeds
+Sun Jul 21 19:49:55 EDT 2019,Dog,moose alexander,Moose,0.666666667,Maltipoo
+Sun Jul 21 19:50:15 EDT 2019,Cat,eliza goose,eliza,2,Grey
+Sun Jul 21 19:50:18 EDT 2019,Rodent,Nibbles,Nibsey,5,GuineaPig
+Sun Jul 21 19:50:35 EDT 2019,Cat,Chichi,Chichi,9,Tabby
+Sun Jul 21 19:50:47 EDT 2019,Cat,Isabella,Izzy,4,Unknown
+Sun Jul 21 19:50:56 EDT 2019,Dog,Ruby,Ruebs,6,RhodesianRidgeback
+Sun Jul 21 19:51:44 EDT 2019,Dog,Ruby,Ruby,4,LabradorRetriever
+Sun Jul 21 19:52:21 EDT 2019,Dog,Min Ottende Bold,Otte,9,BlackLabMix
+Sun Jul 21 19:53:18 EDT 2019,Dog,Min fine Nimina Beana,Mina,6,YellowLabrador
+Sun Jul 21 19:53:31 EDT 2019,Dog,Lucy,Lu,3,GreatPyrenees
+Sun Jul 21 19:53:31 EDT 2019,Cat,Belvedere,Biff,16,shorthairmackereltabby
+Sun Jul 21 19:53:51 EDT 2019,Cat,heaven,Kitty,8,Tortoiseshell
+Sun Jul 21 19:54:23 EDT 2019,Dog,lucy lu,luey,4,BassetHound
+Sun Jul 21 19:54:57 EDT 2019,Dog,Katniss Underfoot,Katniss,9,Pitbull
+Sun Jul 21 19:56:27 EDT 2019,Dog,Sadie,Sayd,13,BorderCollie
+Sun Jul 21 19:56:29 EDT 2019,Dog,Coco  Chanel mademoiselle ,Coco,5,GoldenRetriever
+Sun Jul 21 19:56:48 EDT 2019,Dog,Maggie,Mags,8,BorderCollie
+Sun Jul 21 19:58:07 EDT 2019,Dog,Gunner baker,Gunner ,12,LabradorRetriever
+Sun Jul 21 19:58:37 EDT 2019,Rabbit,Lady Sybil,Lady,1.75,HollandLop
+Sun Jul 21 19:58:44 EDT 2019,Cat,Ashley Williams,Ash,8,MaineCoon
+Sun Jul 21 19:58:49 EDT 2019,Dog,April in Paris ,Paris ,6,GoldenRetriever
+Sun Jul 21 19:58:56 EDT 2019,Rabbit,Colby,,3,Unknown
+Sun Jul 21 19:59:00 EDT 2019,Cat,Mister,Mister,2,Americanshorthair
+Sun Jul 21 19:59:19 EDT 2019,Cat,Goku,Tutu,2,Unknown
+Sun Jul 21 19:59:38 EDT 2019,Fish,Miles,Miles,5,GoldFish
+Sun Jul 21 19:59:43 EDT 2019,Cat,Fuzzball,Fuzzybutt,10,Americanshorthair
+Sun Jul 21 19:59:54 EDT 2019,Dog,Felix,Felix,2,Unknown
+Sun Jul 21 20:00:18 EDT 2019,Cat,Benjamin,Ben,14,Unknown
+Sun Jul 21 20:00:00 EDT 2019,Dog,Woodruff,Woody,10,SaintBernardmix
+Sun Jul 21 20:00:31 EDT 2019,Cat,Tibby,Tib or Monster ,3,Unknown
+Sun Jul 21 20:01:12 EDT 2019,Dog,Kitty take your gloves off,Reba ,8,GoldenRetriever
+Sun Jul 21 20:02:12 EDT 2019,Cat,Honey,Honey,7,Tabby
+Sun Jul 21 20:02:25 EDT 2019,Dog,Mulligan,Mull,12,GoldenRetriever
+Sun Jul 21 20:02:32 EDT 2019,Dog,Loki,Loki aka goof ball ,0.666666667,GoldenRetriever
+Sun Jul 21 20:03:25 EDT 2019,Dog,Okemo,Okemo,8,AustralianCattleDog
+Sun Jul 21 20:03:28 EDT 2019,Dog,Beau,Beau,1.5,GoldenRetrievermix
+Sun Jul 21 20:04:23 EDT 2019,Cat,Lucy,Lucy,6,Unknown
+Sun Jul 21 20:04:33 EDT 2019,Dog,Zack attack,Zack,10,GoldenRetriever
+Sun Jul 21 20:05:02 EDT 2019,Dog,Kendall,Kendall,4,Labradormix
+Sun Jul 21 20:05:13 EDT 2019,Dog,Bailey,Bailey,1,Labradormix
+Sun Jul 21 20:05:25 EDT 2019,Dog,Ranger,Ranger,11,GermanShepherdmix
+Sun Jul 21 20:05:27 EDT 2019,Dog,Dan,Dan,12,BasenjiMix
+Sun Jul 21 20:05:31 EDT 2019,Dog,Sir Maximillion of Binghamton,Max,10,GoldenRetriever
+Sun Jul 21 20:05:35 EDT 2019,Dog,Freya,Freya,3,Pointermix
+Sun Jul 21 20:05:57 EDT 2019,Dog,Jackson,Jax,14,GoldenRetrievermix
+Sun Jul 21 20:06:09 EDT 2019,Dog,Kurama,Kdog,3,Unknown
+Sun Jul 21 20:06:13 EDT 2019,Dog,Luchik,Luchik or Luci,5,WhiteGermanShepherd-Husky
+Sun Jul 21 20:06:24 EDT 2019,Dog,Pippi Hyde,Pippi,11,CockerSpaniel
+Sun Jul 21 20:06:35 EDT 2019,Cat,Scarlett,Purrincess Kitty,13,Domesticshorthair
+Sun Jul 21 20:06:50 EDT 2019,Dog,Pearly,Pearl,5.5,Huskymix
+Sun Jul 21 20:07:01 EDT 2019,Cat,Sebastian,Monkey,12,Domesticshorthair
+Sun Jul 21 20:07:17 EDT 2019,Dog,Walter,Walty,6,SpanielMix
+Sun Jul 21 20:07:22 EDT 2019,Cat,Reeses Pieces,Reesie,2,Domesticshorthair
+Sun Jul 21 20:07:48 EDT 2019,Dog,Buddy of Bailey's Irish Cream,Buddy,11,BlackLabMix
+Sun Jul 21 20:08:05 EDT 2019,Dog,Belle,Belle,15,GoldenRetriever
+Sun Jul 21 20:08:05 EDT 2019,Cat,Sushi Roll,Sushi,1.5,AmericanBobtail
+Sun Jul 21 20:08:26 EDT 2019,Dog,Zoe Marie,Zoe,6,GermanShepherdmix
+Sun Jul 21 20:08:47 EDT 2019,Dog,Wilson,Wilson,4,Labradormix
+Sun Jul 21 20:09:27 EDT 2019,Cat,Mochi,Mochi,1.5,AmericanBobtail
+Sun Jul 21 20:09:30 EDT 2019,Dog,Reesie ,Reesie,14,Yorkie Mix
+Sun Jul 21 20:09:48 EDT 2019,Cat,Sasuke,Sasuke ,6,Mixed
+Sun Jul 21 20:09:51 EDT 2019,Cat,Sasuke,Sasuke ,6,Mixed
+Sun Jul 21 20:10:07 EDT 2019,Dog,Bocephus Ray,Bo,6,GermanShepherdmix
+Sun Jul 21 20:10:17 EDT 2019,Dog,Gunner,Gunny,5,Yellowlab
+Sun Jul 21 20:10:24 EDT 2019,Dog,Stella,Stella,12,Daschundmix
+Sun Jul 21 20:10:24 EDT 2019,Dog,Bailey's Irish Cream,Bailey,13,BlackLabMix
+Sun Jul 21 20:10:27 EDT 2019,Cat,Abigail,Abby,8,Siamese
+Sun Jul 21 20:10:53 EDT 2019,Dog,Poppy,Pops,16,JackRussellTerrier
+Sun Jul 21 20:11:12 EDT 2019,Dog,Nina,Beans,12,FlatCoatedRetriever
+Sun Jul 21 20:12:20 EDT 2019,Cat,Boris,Boris,3,Spinx
+Sun Jul 21 20:12:21 EDT 2019,Cat,Smoochey ,Moo moo cow/ moochey ,18,Domesticshorthair
+Sun Jul 21 20:13:16 EDT 2019,Cat,Toast Malone,Toast ,5,Unknown
+Sun Jul 21 20:13:34 EDT 2019,Cat,Hex,Hex,8,Unknown
+Sun Jul 21 20:14:01 EDT 2019,Cat,Smudge of Grey,Smudge,7,Unknown
+Sun Jul 21 20:14:01 EDT 2019,Dog,Charlotte,Char,4,Beaglemix
+Sun Jul 21 20:14:02 EDT 2019,Dog,Ms. Cuddles,Cuddles,13.75,Chiffonmix
+Sun Jul 21 20:14:28 EDT 2019,Dog,Wayne Rooney,Roo,13,BorderCollie
+Sun Jul 21 20:14:33 EDT 2019,Dog,Snack,Snack,2,RottweilerMix
+Sun Jul 21 20:14:45 EDT 2019,Cat,Skipper,Skips,16,Unknown
+Sun Jul 21 20:14:50 EDT 2019,Cat,Nacho Bell Grande,"Bean, nacho, ",1,Yes
+Sun Jul 21 20:15:53 EDT 2019,Dog,Hazel,"Zelly, ZZ, Hayzelly",3,GoldenRetriever
+Sun Jul 21 20:15:56 EDT 2019,Dog,Luna Calamity Barnes,Luna,9,Muttmix
+Sun Jul 21 20:16:18 EDT 2019,Dog,Hiro Barnes,Hiro,5,Muttmix
+Sun Jul 21 20:16:32 EDT 2019,Dog,Ramsey,Ramsey,0.333333333,LabradorRetriever
+Sun Jul 21 20:16:33 EDT 2019,Dog,Stella Diane,Stella,6,Havanesemix
+Sun Jul 21 20:16:54 EDT 2019,Dog,Trigger ,Trig,4,LabradorRetriever
+Sun Jul 21 20:17:22 EDT 2019,Cat,Noodle,Noodle,3,Calico/domesticshorthair
+Sun Jul 21 20:18:31 EDT 2019,Dog,Héloïse,Héloïse ,10,Papillonmix
+Sun Jul 21 20:19:46 EDT 2019,Dog,Scout McGee,Scout,12,Spitz
+Sun Jul 21 20:20:21 EDT 2019,Dog,Milo,Milo,2,GoldenRetriever
+Sun Jul 21 20:20:34 EDT 2019,Dog,Kolbie,Kolbie,10,Beagle
+Sun Jul 21 20:20:51 EDT 2019,Dog,Rhyannon's Princess Nikita,Nikki,10.5,SiberianHusky
+Sun Jul 21 20:20:54 EDT 2019,Cat,Scram,Scrammies,2,Domestic medium hair
+Sun Jul 21 20:21:13 EDT 2019,Cat,Darwin,Cat,7,Unknown
+Sun Jul 21 20:21:16 EDT 2019,Cat,Leo,Leo,16,Unknown
+Sun Jul 21 20:21:27 EDT 2019,Cat,Kanga,Kanga,4,Calico/Tabby
+Sun Jul 21 20:21:37 EDT 2019,Rabbit,Winona,Winnie,2,Unknown
+Sun Jul 21 20:22:00 EDT 2019,Cat,Bugaloo Bonzai,Bug,7,Unknown
+Sun Jul 21 20:22:17 EDT 2019,Dog,Malcolm P. Dog,Malcolm,17,Mixed Breeds
+Sun Jul 21 20:23:13 EDT 2019,Dog,Maxwell T. Bone,Max (Alias: BrownDog),11,ChocolateLabrador
+Sun Jul 21 20:24:23 EDT 2019,Cat,Patches,Patch,8,Unknown
+Sun Jul 21 20:24:32 EDT 2019,Dog,Indy,Indy,8,Poodlemix
+Sun Jul 21 20:24:39 EDT 2019,Dog,Cody Fluffball,Cody,11,GoldenRetriever
+Sun Jul 21 20:24:58 EDT 2019,Dog,Fudge,Fudgie ,6,Pugmix
+Sun Jul 21 20:25:32 EDT 2019,Dog,Mia,Mia,13,GoldenRetriever
+Sun Jul 21 20:26:25 EDT 2019,Cat,Louie,Louie,4,Unknown
+Sun Jul 21 20:26:41 EDT 2019,Cat,Mitzi Junebug Kandinsky,Mitzi,8,Unknown
+Sun Jul 21 20:27:05 EDT 2019,Dog,Megan Gabriela Ortega,Moo,11,Boxer
+Sun Jul 21 20:27:09 EDT 2019,Cat,Bernie,Bernie (Bernard if naughty),2,DomesticLonghair
+Sun Jul 21 20:27:11 EDT 2019,Dog,Bel,Bel,7,CockerSpaniel
+Sun Jul 21 20:27:23 EDT 2019,Dog,Artie,Artie Party,14,GoldenRetriever
+Sun Jul 21 20:27:35 EDT 2019,Dog,Snickers,Snickers,9,Beaglemix
+Sun Jul 21 20:27:37 EDT 2019,Cat,Hazel,Hazel,4,Domesticshorthair
+Sun Jul 21 20:27:45 EDT 2019,Dog,Blue,Blue,7,BlueHeelermix
+Sun Jul 21 20:28:14 EDT 2019,Dog,Wally,WaWa,2,GoldenRetrievermix
+Sun Jul 21 20:28:28 EDT 2019,Dog,Copper,Copper,10,Chihuahuamix
+Sun Jul 21 20:29:13 EDT 2019,Cat,Harold,Harry,0.115384615,Cat
+Sun Jul 21 20:29:27 EDT 2019,Lizard,Birdie,Baby liz,7,Unknown
+Sun Jul 21 20:30:52 EDT 2019,Cat,Sir Jonathan Pooh Cat,Jonathan,10,persian
+Sun Jul 21 20:31:32 EDT 2019,Dog,Juliet,Jules,2,Pitbull
+Sun Jul 21 20:31:52 EDT 2019,Cat,Scout,Scout,9,Tabby
+Sun Jul 21 20:32:07 EDT 2019,Dog,Dasher,Dash,8,Spanador
+Sun Jul 21 20:32:17 EDT 2019,Dog,Grace,Gracie,5,LabradorRetriever
+Sun Jul 21 20:32:35 EDT 2019,Dog,Ruby,Ruby,12,Muttmix
+Sun Jul 21 20:32:36 EDT 2019,Bird,Nugget,Nugget,2,RingneckDove
+Sun Jul 21 20:32:50 EDT 2019,Dog,Levi,Lee,6,AustralianShepherd
+Sun Jul 21 20:33:33 EDT 2019,Dog,Elle Loki Bean,Bellie,1,Boxermix
+Sun Jul 21 20:34:19 EDT 2019,Dog,Dorthea Dix,Doge,5,GoldenRetriever
+Sun Jul 21 20:34:21 EDT 2019,Dog,Layla Bo Peep,Layla,0.333333333,Puggle
+Sun Jul 21 20:34:38 EDT 2019,Dog,Rocky,Rocky,12,Beaglemix
+Sun Jul 21 20:35:09 EDT 2019,Dog,Tillith,Tilly/TillBear,8,Houndmix
+Sun Jul 21 20:36:00 EDT 2019,Dog,Rollo,Rollo,3.5,Yellowlab
+Sun Jul 21 20:37:12 EDT 2019,Dog,Nisku,Nisku,2,GermanShepherdmix
+Sun Jul 21 20:37:25 EDT 2019,Cat,Cat,Cat,8,DomesticLonghair
+Sun Jul 21 20:37:45 EDT 2019,Cat,Peaches,Peaches,5,persian
+Sun Jul 21 20:37:54 EDT 2019,Dog,Kadie Jo,Sadie or Tato,5,YellowLabradorRetriever
+Sun Jul 21 20:38:06 EDT 2019,Dog,Lady,Lady,9,BerneseMountainDog
+Sun Jul 21 20:38:20 EDT 2019,Dog,Sammy Q,Sam,10,GoldenRetrievermix
+Sun Jul 21 20:38:34 EDT 2019,Cat,Cookie,Cookaroo ,9,SiameseMix
+Sun Jul 21 20:39:00 EDT 2019,Cat,Pepper,Bebs ,4,TabbyMix
+Sun Jul 21 20:39:58 EDT 2019,Cat,ipod,ipod,12,Unknown
+Sun Jul 21 20:40:28 EDT 2019,Cat,hank the cowcat,Hank,12,Unknown
+Sun Jul 21 20:40:55 EDT 2019,Dog,Oliver Phish,Oliver,2,Pitbull
+Sun Jul 21 20:41:12 EDT 2019,Dog,Cleopatra,Cleo,6,Italianmastiff
+Sun Jul 21 20:41:18 EDT 2019,Dog,Birdie,Birdir,1,Labradoodle
+Sun Jul 21 20:41:57 EDT 2019,Dog,Murphy,Murph,0.583333333,GoldenRetriever
+Sun Jul 21 20:42:36 EDT 2019,Dog,Ryder,Ryder,14,Yellowlab
+Sun Jul 21 20:42:55 EDT 2019,Dog,Talani Snowmageddon ,Milo,0.375,GoldenRetriever
+Sun Jul 21 20:42:57 EDT 2019,Dog,Winnie the Blue,Winnie,0.916666667,Pitbull
+Sun Jul 21 20:43:32 EDT 2019,Dog,Scarlett,Scarlett,0.25,CavalierKingCharlesSpaniel
+Sun Jul 21 20:43:34 EDT 2019,Dog,Gus,Gus,11,GoldenRetriever
+Sun Jul 21 20:43:20 EDT 2019,Dog,Dixie Marie,Dixie,8,SaintBernard
+Sun Jul 21 20:43:39 EDT 2019,Dog,Heidi,Heidi,2,SaintBernard
+Sun Jul 21 20:44:00 EDT 2019,Dog,Phin,Phin,2,SaintBernard
+Sun Jul 21 20:44:19 EDT 2019,Dog,Jager,Jager,12,LabradorRetriever
+Sun Jul 21 20:45:08 EDT 2019,Dog,Brown Bear,Bear,7,Unknown
+Sun Jul 21 20:45:47 EDT 2019,Dog,Lucy,Lucy,4,GoldenRetriever
+Sun Jul 21 20:46:36 EDT 2019,Dog,Kahlua ,Chicky-chix,0.833333333,Muttmix
+Sun Jul 21 20:46:46 EDT 2019,Cat,Epinephrine,Epi,9,Mix
+Sun Jul 21 20:47:04 EDT 2019,Dog,Baylei,Stinky,1,Labrador
+Sun Jul 21 20:47:20 EDT 2019,Dog,Baylei,Stinky,1,Labrador
+Sun Jul 21 20:47:21 EDT 2019,Cat,That Cat,T.C.,9,Mix
+Sun Jul 21 20:48:03 EDT 2019,Dog,Rocky,Rocky,5,Labradormix
+Sun Jul 21 20:48:04 EDT 2019,Bird,Buddy Ryan ,Buddy,12,Unknown
+Sun Jul 21 20:48:25 EDT 2019,Dog,Abigail,Abby,4,Pitbull
+Sun Jul 21 20:48:36 EDT 2019,Dog,Kira ,Kira/Squishy ,15,Beagle
+Sun Jul 21 20:48:39 EDT 2019,Dog,Sammy,Sam,6,GoldenLabrador
+Sun Jul 21 20:49:39 EDT 2019,Dog,Piper Marie,Piper,4,Newfoundlandmix
+Sun Jul 21 20:50:01 EDT 2019,Dog,Charlene ,Charlie,12,Labradormix
+Sun Jul 21 20:52:01 EDT 2019,Dog,Thor Mighty God of Thunder,Thor,9,Dachshundmix
+Sun Jul 21 20:52:26 EDT 2019,Dog,Cody Anne,Cody,2,GoldenRetriever
+Sun Jul 21 20:52:39 EDT 2019,Cat,Caesar ,Jeff-jeff,9,Unknown
+Sun Jul 21 20:52:49 EDT 2019,Dog,Tessa,Tessa,11,GermanShepherd
+Sun Jul 21 20:53:31 EDT 2019,Cat,Theia,"Kitty, booger butt, fluffybutt",11,Domesticlonghaired
+Sun Jul 21 20:53:52 EDT 2019,Cat,Minerva Mcgonagall ,Minna,5,Tabby
+Sun Jul 21 20:55:20 EDT 2019,Dog,Lily,Lily,10,Shepherdmix
+Sun Jul 21 20:55:28 EDT 2019,Dog,Butters,Butters,9,Shepherdmix
+Sun Jul 21 20:55:56 EDT 2019,Dog,Marigold,Marigold,8,Heinz57
+Sun Jul 21 20:55:56 EDT 2019,Dog,Prince Romeo,Romey,8,MiniaturePinscher
+Sun Jul 21 20:56:23 EDT 2019,Cat,Teacher’s Pet,Teeps,2,Unknown
+Sun Jul 21 20:56:41 EDT 2019,Cat,Wimpy,Wimpy,2,Unknown
+Sun Jul 21 20:56:54 EDT 2019,Cat,Lucy,Lucy,2,Unknown
+Sun Jul 21 20:58:03 EDT 2019,Dog,"Snickers the First, Head Woofer",Snickers,6,Yorkie Mix
+Sun Jul 21 20:58:53 EDT 2019,Dog,Lucky,Lucky,3,BlueHeelermix
+Sun Jul 21 20:59:08 EDT 2019,Dog,Ares,Ares,8,Bulldog
+Sun Jul 21 20:59:37 EDT 2019,Cat,Skylar,"Sweet boii, my beautiful baby boy",3,Unknown
+Sun Jul 21 20:59:41 EDT 2019,Dog,Maximillian ,Max,13,GoldenRetriever
+Sun Jul 21 20:59:43 EDT 2019,Dog,Rogue,Rogue,6,BorderColliemix
+Sun Jul 21 21:00:34 EDT 2019,Cat,Sweety,Sweety,Unknown,DomesticLonghair
+Sun Jul 21 21:00:56 EDT 2019,Cat,Benny,Ben,4,Domesticshorthair
+Sun Jul 21 21:00:57 EDT 2019,Dog,Ace,,1,AmericanHairlessTerrier
+Sun Jul 21 21:01:22 EDT 2019,Dog,Ava,,4,AmericanHairlessTerrier
+Sun Jul 21 21:01:46 EDT 2019,Dog,Winnifred,Winnie,6,ShihTzu
+Sun Jul 21 21:02:35 EDT 2019,Dog,Mika,Mika,8,Labradormix
+Sun Jul 21 21:03:21 EDT 2019,Dog,Charlie Elizabeth Begonias ,Charlie,5,Labradoodle
+Sun Jul 21 21:04:15 EDT 2019,Dog,Jack Ass,Jackie,5,BorderColliemix
+Sun Jul 21 21:05:02 EDT 2019,Cat,Bean,Cat,7,Unknown
+Sun Jul 21 21:05:33 EDT 2019,Cat,Skipps,Skipper,1,Unknown
+Sun Jul 21 21:06:08 EDT 2019,Cat,Carly Q Cat,Carl,5,Unknown
+Sun Jul 21 21:06:44 EDT 2019,Dog,Dan,Digger,13,Pug
+Sun Jul 21 21:07:24 EDT 2019,Dog,Koko,Koko,4,FrenchBulldog
+Sun Jul 21 21:07:41 EDT 2019,Dog,Archibald,Archie,2,GoldenRetriever
+Sun Jul 21 21:07:48 EDT 2019,Dog,Sassie,Sassie,19,Poodle
+Sun Jul 21 21:08:10 EDT 2019,Dog,Zoe,Zoe,12,ShihTzu
+Sun Jul 21 21:09:22 EDT 2019,Dog,Bobo,Bobes ,10,Muttmix
+Sun Jul 21 21:09:51 EDT 2019,Cat,Sofi,Sofi May Bofi,2,Calico
+Sun Jul 21 21:11:03 EDT 2019,Dog,Isiah Thomas,Izzy,0.25,MaineCoon
+Sun Jul 21 21:11:45 EDT 2019,Dog,Sir Pete the Pup,Pete,12,Chihuahua
+Sun Jul 21 21:11:58 EDT 2019,Dog,Roux Stir,Roux,8,Catahoulamix
+Sun Jul 21 21:12:25 EDT 2019,Dog,Lucy Scramble ,Lucy,5,Boxer
+Sun Jul 21 21:13:17 EDT 2019,Dog,Junebug ,Junebug,10,Shepherdmix
+Sun Jul 21 21:13:25 EDT 2019,Dog,Crinkle,Crink-a-dink,7,RhodesianRidgeback
+Sun Jul 21 21:17:44 EDT 2019,Frog,George,George,Unknown,Metamorphic
+Sun Jul 21 21:18:58 EDT 2019,Dog,Smokey,Spooky,14,Muttmix
+Sun Jul 21 21:19:25 EDT 2019,Dog,Daisy Mae,Daisy,3,Labradormix
+Sun Jul 21 21:20:10 EDT 2019,Dog,Crimson,Crimson,9,Beaglemix
+Sun Jul 21 21:20:33 EDT 2019,Dog,Tide,Tide Dog,9,Beaglemix
+Sun Jul 21 21:21:55 EDT 2019,Others,Kendall Jenner ,Ken,23,Human
+Sun Jul 21 21:21:17 EDT 2019,Dog,Sophie,Sophie,10,Labradormix
+Sun Jul 21 21:21:17 EDT 2019,Dog,Sir Nigel Petrie of the Poofybottom Clan,Nigel,12,Pomeranianmix
+Sun Jul 21 21:23:39 EDT 2019,Dog,Tobi,"Bobo, Tib Tob, Tibbi Bibbi, Corn Chip",10,Newfoundlandmix
+Sun Jul 21 21:24:35 EDT 2019,Dog,Bruin ,Bru ,7,GoldenRetriever
+Sun Jul 21 21:26:37 EDT 2019,Dog,Lucinda Jean,Lucy,1,GoldenRetriever
+Sun Jul 21 21:27:05 EDT 2019,Dog,Dave,Dave,4.5,GoldenRetriever
+Sun Jul 21 21:28:50 EDT 2019,Dog,Harper Valley,Harper,0.25,Dachshund
+Sun Jul 21 21:29:31 EDT 2019,Cat,calleigh Marie ,Calleigh,14,DSH
+Sun Jul 21 21:29:36 EDT 2019,Dog,Buster Brown,Buster,11,Muttmix
+Sun Jul 21 21:29:44 EDT 2019,Fish,Øptifish,Øptifish,0.038461538,GoldFish
+Sun Jul 21 21:29:56 EDT 2019,Dog,Leila ,Leila!!,5,Pointer
+Sun Jul 21 21:29:59 EDT 2019,Dog,Trixie,Trixie Treat,3,GoldenRetriever
+Sun Jul 21 21:31:25 EDT 2019,Dog,Archer,Archibald ,9,Labradormix
+Sun Jul 21 21:32:22 EDT 2019,Dog,Josie Pancakes Fluffybottom,Josie,8,Heinz57
+Sun Jul 21 21:35:58 EDT 2019,Cat,Tiger Jack,Jack,6.75,Tabby
+Sun Jul 21 21:36:38 EDT 2019,Cat,William Orange,Willie,6.75,Tabby
+Sun Jul 21 21:39:23 EDT 2019,Dog,Zeus,Zu,1.5,GreatDane
+Sun Jul 21 21:39:27 EDT 2019,Dog,Shooter,Shooter,8,BlueHeeler
+Sun Jul 21 21:39:42 EDT 2019,Dog,Ellie,Ellie,8,Yellowlab
+Sun Jul 21 21:40:04 EDT 2019,Dog,Macie,Mace,8,GoldenRetriever
+Sun Jul 21 21:40:28 EDT 2019,Dog,Maddie,Bubbis,17,ShihTzu
+Sun Jul 21 21:41:51 EDT 2019,Cat,Motown,Mo,8,DomesticLonghair
+Sun Jul 21 21:43:51 EDT 2019,Fish,Spot,Spot,0.5,BettaFish
+Sun Jul 21 21:43:53 EDT 2019,Dog,Squirt,Squirt,7,Bulldog
+Sun Jul 21 21:43:30 EDT 2019,Dog,Samantha Marie,Sammie,8,Muttmix
+Sun Jul 21 21:44:06 EDT 2019,Dog,Quincy,Quincy,5,Chowmix
+Sun Jul 21 21:44:39 EDT 2019,Dog,Cajun ,Cajun ,6.5,GoldenLabrador
+Sun Jul 21 21:45:10 EDT 2019,Dog,Duke,Dukie Doo,3,Pitbull
+Sun Jul 21 21:45:51 EDT 2019,Dog,Daisy,Daisy Dee,3,Pitbull
+Sun Jul 21 21:46:02 EDT 2019,Dog,Nico,Nico,4,Pugmix
+Sun Jul 21 21:46:06 EDT 2019,Dog,Chance McCoy ,Chance,10,GoldenRetriever
+Sun Jul 21 21:46:34 EDT 2019,Dog,Kobi,Kobi,11,Pitbull
+Sun Jul 21 21:47:08 EDT 2019,Dog,Maila ,Maila Moose,1,SouthAfricanMastiff
+Sun Jul 21 21:48:10 EDT 2019,Horse,Domino,Dommi,6,Paint
+Sun Jul 21 21:48:44 EDT 2019,Dog,Phineas,Phin,3,LabradorRetriever
+Sun Jul 21 21:48:57 EDT 2019,Dog,Cody,Vody,20,LabradorRetriever
+Sun Jul 21 21:50:37 EDT 2019,Dog,Perry,Perry,3,LabradorRetriever
+Sun Jul 21 21:50:38 EDT 2019,Bird,Gregory Peck,Greggie,2,BantamCochin-Chicken-Hen
+Sun Jul 21 21:50:54 EDT 2019,Dog,Call it a night Sir Dudley,Dudley,5,GoldenRetriever
+Sun Jul 21 21:51:39 EDT 2019,Dog,Madison Brooke,Maddy,7,FoxhoundMix
+Sun Jul 21 21:51:56 EDT 2019,Cat,Pandors,Pandora,10,Unknown
+Sun Jul 21 21:52:15 EDT 2019,Dog,Like Francis,Luke,8,Treeing Walker Coonhound
+Sun Jul 21 21:52:12 EDT 2019,Cat,Bo Bo,Bo,4,Unknown
+Sun Jul 21 21:52:39 EDT 2019,Cat,Zooey,Zooey,8,Unknown
+Sun Jul 21 21:53:22 EDT 2019,Cat,Mollie ,Mollie,2,Evil
+Sun Jul 21 21:53:43 EDT 2019,Cat,JJ,JJ,0.5,Unknown
+Sun Jul 21 21:54:07 EDT 2019,Cat,Jenson Button. (Last name pronounced Boo Tawn),"Boo Bear, JB, or Button (Pronounced Boo Tawn)",8,Mix
+Sun Jul 21 21:55:29 EDT 2019,Dog,Pilikia,Pili,14,Chihuahua
+Sun Jul 21 21:57:00 EDT 2019,Dog,Mia Pieper,Mia,3,BlackLabMix
+Sun Jul 21 21:55:40 EDT 2019,Cat,Nova Blake,Nova,1,Tabby
+Sun Jul 21 21:59:31 EDT 2019,Dog,Pepper Potts,Pepper,6,GoldenRetriever
+Sun Jul 21 22:00:00 EDT 2019,Dog,Scruffy,Scruffy,Deceased,Muttmix
+Sun Jul 21 21:59:44 EDT 2019,Cat,Nikolai Maranov,Mr. M,12,MaineCoon
+Sun Jul 21 22:00:09 EDT 2019,Cat,Django,Django,16,Tuxedo cat
+Sun Jul 21 22:01:49 EDT 2019,Dog,Princess Jessi,Jessi,7,Unknown
+Sun Jul 21 22:00:27 EDT 2019,Dog,Mowgli,,1,LabradorRetriever
+Sun Jul 21 22:00:40 EDT 2019,Luna,,,2,Lab
+Sun Jul 21 22:01:12 EDT 2019,Dog,Wille,Willie,8,Unknown
+Sun Jul 21 22:02:15 EDT 2019,Dog,Otto,Otto,1.5,Doberman/BassetHound
+Sun Jul 21 22:02:35 EDT 2019,Cat,Momma Martha,Martha,5,DSH
+Sun Jul 21 22:03:14 EDT 2019,Dog,Optimus,Opti,7,Maltese
+Sun Jul 21 22:05:50 EDT 2019,Dog,Memphis Mumford ,Memphis,2,CaneCorsoMastiff
+Sun Jul 21 22:05:56 EDT 2019,Cat,Antoine,Toine,8,Tabbycat
+Sun Jul 21 22:06:28 EDT 2019,Dog,Louie,Louie,6,Labradormix
+Sun Jul 21 22:06:33 EDT 2019,Cat,Hunter Pounce,Caracat,8,Shorthaircat
+Sun Jul 21 22:06:50 EDT 2019,Dog,Anna,Anna,5,Unknown
+Sun Jul 21 22:07:20 EDT 2019,Dog,Chester,Chester,13,NovaScotiaDuckToller
+Sun Jul 21 22:07:30 EDT 2019,Dog,Zeus Theodore,Zeus,7,Schnoodle
+Sun Jul 21 22:07:42 EDT 2019,Dog,Ripley,Ripley,13,GoldenRetriever
+Sun Jul 21 22:07:45 EDT 2019,Dog,Beau,Beau,4,Goldendoodle
+Sun Jul 21 22:08:06 EDT 2019,Dog,Lucy,Lucy,9,GoldenRetriever
+Sun Jul 21 22:08:45 EDT 2019,Dog,Penelope ,Penny,3,Maltese
+Sun Jul 21 22:08:45 EDT 2019,Dog,Callie,Cal,4,GoldenRetriever
+Sun Jul 21 22:08:21 EDT 2019,Dog,Jake,Jakey poo poo head,2,Goldendoodle
+Sun Jul 21 22:09:28 EDT 2019,Dog,Willie,Willie,2.5,Labradormix
+Sun Jul 21 22:12:41 EDT 2019,Dog,package,package,1,Dalmatianmix
+Sun Jul 21 22:12:53 EDT 2019,Cat,Algernon ,"Algy, Gu",11,Unknown
+Sun Jul 21 22:13:07 EDT 2019,Cat,Pickles!,Pickles or Pumpkin or Cutie Pie or Little Darlin,3,KittyMeow-Torti
+Sun Jul 21 22:13:08 EDT 2019,Cat,jiblit,tiny jib ,1,Unknown
+Sun Jul 21 22:13:19 EDT 2019,Dog,Luna,Luna,5,Yorkie
+Sun Jul 21 22:13:39 EDT 2019,Dog,Delilah,Lila,4,LabradorRetriever
+Sun Jul 21 22:15:54 EDT 2019,Cat,Celie,Celie,7,Tabby
+Sun Jul 21 22:16:07 EDT 2019,Cat,Sophie,Sophie,7,Tabby
+Sun Jul 21 22:16:17 EDT 2019,Cat,Oliver Wendell Holmes,Oliver,9,Unknown
+Sun Jul 21 22:16:30 EDT 2019,Dog,Josephine ,Josie,4,BorderColliemix
+Sun Jul 21 22:17:49 EDT 2019,Dog,Russell D.,Rusty,9,Muttmix
+Sun Jul 21 22:17:51 EDT 2019,Dog,Excalibur Insubordinate O’Mallie IX ,Cali ,2,GoldenRetriever
+Sun Jul 21 22:18:57 EDT 2019,Dog,Darth Vada Mae,Vada,7,BorderColliemix
+Sun Jul 21 22:19:02 EDT 2019,Cat,Felix,Felix,12,Domesticshorthair
+Sun Jul 21 22:19:32 EDT 2019,Dog,Butterscotch,Butters,9.5,Muttmix
+Sun Jul 21 22:19:55 EDT 2019,Dog,Emma Jean Jelly Bean,Emma,13,ShihTzu
+Sun Jul 21 22:19:58 EDT 2019,Cat,Binky,Binky,2,Domesticshorthair
+Sun Jul 21 22:20:17 EDT 2019,Cat,Sox,Sox,10,Domesticshorthair
+Sun Jul 21 22:21:23 EDT 2019,Dog,Rigby,Rigs,6,BostonTerrier
+Sun Jul 21 22:22:12 EDT 2019,Dog,Sir Scribbles Of the Shire,Scribbles,5,ShihTzu
+Sun Jul 21 22:21:58 EDT 2019,Cat,Herbert Fitzgerald,Bertie,3,Ragdoll
+Sun Jul 21 22:22:22 EDT 2019,Cat,Gary,Gary,3,Tabby
+Sun Jul 21 22:22:27 EDT 2019,Cat,Cassandra,Cassie,7,SiameseMix
+Sun Jul 21 22:23:01 EDT 2019,Cat,Moose,Moose,0.166666667,Calico
+Sun Jul 21 22:23:27 EDT 2019,Dog,Tele,Tele,11,LabradorRetriever
+Sun Jul 21 22:23:52 EDT 2019,Dog,Maggie,Pooper,14,Dachshund
+Sun Jul 21 22:24:45 EDT 2019,Cat,Daniel,Daniel,16,OrientalShorthair
+Sun Jul 21 22:25:26 EDT 2019,Cat,Kitty,Kitty,16,DSH
+Sun Jul 21 22:25:40 EDT 2019,Dog,Daisy Mae,Daisy,11,GoldenRetriever
+Sun Jul 21 22:27:53 EDT 2019,Dog,Bug,Bug,6,JackRussellTerrier
+Sun Jul 21 22:28:08 EDT 2019,Dog,Rayven,Ray,6,GermanShepherd
+Sun Jul 21 22:28:12 EDT 2019,Dog,puppy girl,Puppy,4,JackRussellTerrier
+Sun Jul 21 22:28:28 EDT 2019,Dog,beyoncé ,beyoncé ,2,Chihuahua
+Sun Jul 21 22:30:21 EDT 2019,Dog,Pippa Mad,Pippa,2,Havanese
+Sun Jul 21 22:30:35 EDT 2019,Dog,Tails Balboa,Tails ,14,Chihuahua
+Sun Jul 21 22:31:00 EDT 2019,Dog,Tara Balboa,Tara,6,Chihuahua
+Sun Jul 21 22:35:26 EDT 2019,Dog,Mia,Mimi,1,Chihuahua
+Sun Jul 21 22:34:11 EDT 2019,Dog,Slainte,Slainte,12,Chiweenie
+Sun Jul 21 22:35:49 EDT 2019,Cat,Persephone,Persnuffy,11,Unknown
+Sun Jul 21 22:35:50 EDT 2019,Cat,Piper,Pipes,1,Unknown
+Sun Jul 21 22:36:42 EDT 2019,Cat,Belle,Tiny Kitten,12,Unknown
+Sun Jul 21 22:37:27 EDT 2019,Cat,Nyx,Nyxapooski,8,Unknown
+Sun Jul 21 22:38:48 EDT 2019,Dog,Clyde Frog the Dog,Clyde ,3.75,YellowLabrador
+Sun Jul 21 22:38:04 EDT 2019,Cat,Baby Tiger,Tiger bub,11,Unknown
+Sun Jul 21 22:38:43 EDT 2019,Cat,Havoc,BB,2,Unknown
+Sun Jul 21 22:40:35 EDT 2019,Dog,Asher,Ashie,9,GoldenRetriever
+Sun Jul 21 22:40:37 EDT 2019,Dog,Miley,Miley,13.5,Muttmix
+Sun Jul 21 22:40:40 EDT 2019,Cat,Tux,Monsieur Tux,2,Unknown
+Sun Jul 21 22:41:00 EDT 2019,Horse,Paisley Desert Melody ,Melody,7,Mustang(horse)
+Sun Jul 21 22:41:06 EDT 2019,Dog,Suzie,Suzie,5,ChocolateLabrador
+Sun Jul 21 22:41:27 EDT 2019,Dog,Joshua,Joshie,9,GoldenRetriever
+Sun Jul 21 22:42:08 EDT 2019,Dog,Kona Kai,Kona,2,Muttmix
+Sun Jul 21 22:42:19 EDT 2019,Cat,Simba,Simba,6,DSH(Heorange)
+Sun Jul 21 22:43:03 EDT 2019,Dog,Charlie,Charlie,11,BostonTerriermix
+Sun Jul 21 22:43:10 EDT 2019,Turtle,Lucky,Lucky,Unknown,Deserttortoise
+Sun Jul 21 22:43:40 EDT 2019,Cat,Duncan,Duncan,5.5,N/A
+Sun Jul 21 22:44:09 EDT 2019,Dog,Lucky,Lucky,4,LabradorRetriever
+Sun Jul 21 22:44:24 EDT 2019,Dog,Lily Ann ,Lily,3,GoldenRetriever
+Sun Jul 21 22:44:37 EDT 2019,Dog,Robbie,Robbie,10,WestHighlandTerrier
+Sun Jul 21 22:44:38 EDT 2019,Dog,Chance ,Chance,4,LabradorRetriever
+Sun Jul 21 22:45:29 EDT 2019,Cat,Mir Hector,Mir,11.5,Domesticshorthair
+Sun Jul 21 22:45:37 EDT 2019,Cat,Clover,Clo,2.5,Unknown
+Sun Jul 21 22:46:05 EDT 2019,Cat,Lacerta Grace,Laci,11,Domesticshorthair
+Sun Jul 21 22:46:08 EDT 2019,Dog,McGregor,Gregs,11,ScottishTerrier
+Sun Jul 21 22:46:10 EDT 2019,Cat,Mosephus,Mo,3.5,Unknown
+Sun Jul 21 22:46:50 EDT 2019,Dog,Maggie,"Mags, maggals",6,Corgi
+Sun Jul 21 22:46:55 EDT 2019,Dog,Boo Radley Beauregard ,Boo,5,Houndmix
+Sun Jul 21 22:48:01 EDT 2019,Cat,Pictor James,Pictor ,8,LynxpointSiamese
+Sun Jul 21 22:48:12 EDT 2019,Cat,Yellowie,Old man,19,Unknown
+Sun Jul 21 22:48:30 EDT 2019,Cat,Sylvio,Syl,14,Unknown
+Sun Jul 21 22:48:30 EDT 2019,Dog,Jean Louise,Scout,2.5,GoldenRetriever
+Sun Jul 21 22:48:54 EDT 2019,Cat,Cooper Kent DeGroat,Cooper,1,Tuxedo cat
+Sun Jul 21 22:49:17 EDT 2019,Dog,Java Joe,Joe,0.134615385,Corgi
+Sun Jul 21 22:49:40 EDT 2019,Dog,Heidi hoho,Heidi,7,Rescue
+Sun Jul 21 22:50:53 EDT 2019,Dog,Finlay Heisenberg ,Finn,8,ShihTzu
+Sun Jul 21 22:51:01 EDT 2019,Cat,Porkchop ,Porkie,4,Rescue
+Sun Jul 21 22:51:05 EDT 2019,Dog,Nala Belle,Nala,11,GoldenRetriever
+Sun Jul 21 22:51:36 EDT 2019,Cat,Lila,Lielee,10,Long-hairdomestic
+Sun Jul 21 22:52:13 EDT 2019,Dog,Matelin Paco Junior,Mate,9,AustralianShepherd
+Sun Jul 21 22:51:45 EDT 2019,Cat,Applesauce ,Apple,2,Rescue
+Sun Jul 21 22:52:47 EDT 2019,Dog,Eddie ,Eddie,8,Chihuahua
+Sun Jul 21 22:52:17 EDT 2019,Dog,Sir Thompson Squigglebutt,Tommy,7,Chihuahua
+Sun Jul 21 22:53:16 EDT 2019,Dog,Miss Kasey Bubbles ,Kasey,8,EnglishSetter
+Sun Jul 21 22:53:44 EDT 2019,Dog,Angel ,Angel,9,GoldenRetriever
+Sun Jul 21 22:54:06 EDT 2019,Dog,Loosie,Goose,15,Whippet
+Sun Jul 21 22:54:17 EDT 2019,Bird,Ruby,Ruby,2,Parakeet
+Sun Jul 21 22:54:39 EDT 2019,Dog,Sophie,Sophie,14,Whippet
+Sun Jul 21 22:55:13 EDT 2019,Lizard,Robert ,Robbie,1,LeopardGecko
+Sun Jul 21 22:55:17 EDT 2019,Dog,Douglas,Douglas,10,BassetHound
+Sun Jul 21 22:55:36 EDT 2019,Dog,Zoi,Z,1,EnglishSetter
+Sun Jul 21 22:55:53 EDT 2019,Cat,Menke,Menke,4,Manx
+Sun Jul 21 22:56:01 EDT 2019,Dog,Jasper,Jasper,14,Whippet
+Sun Jul 21 22:56:23 EDT 2019,Dog,Rupert,Roo,3,BassetHound
+Sun Jul 21 22:56:57 EDT 2019,Dog,Spencer,Spence,10,Pointer
+Sun Jul 21 22:57:32 EDT 2019,Dog,Sir Clyde Bootsie Sideeye,Clyde ,11,Chihuahua
+Sun Jul 21 22:58:00 EDT 2019,Dog,Daisy Mae,Daisy,7,Goldendoodle
+Sun Jul 21 23:01:49 EDT 2019,Dog,Teddy Bear,Teddy,11,Chowmix
+Sun Jul 21 23:06:09 EDT 2019,Dog,Edward Gene ,Eddy,15,GoldenRetriever
+Sun Jul 21 23:05:40 EDT 2019,Dog,Peaches Monroe,Peaches,4,JackRussellTerrier
+Sun Jul 21 23:06:19 EDT 2019,Dog,Sir Nicholas,Nick,9,Corgimix
+Sun Jul 21 23:06:25 EDT 2019,Dog,Eowyn,Eo,13,ShihTzu
+Sun Jul 21 23:06:41 EDT 2019,Dog,Jayden,Denden,8,ShihTzu
+Sun Jul 21 23:06:55 EDT 2019,Dog,Joey,Jo,1,GoldenRetriever
+Sun Jul 21 23:08:33 EDT 2019,Dog,Walker Texas Ranger ,Wally,1,LabradorRetriever
+Sun Jul 21 23:08:52 EDT 2019,Dog,Mike Mussina ,Moose,1,LabradorRetriever
+Sun Jul 21 23:10:08 EDT 2019,Cat,Azuca,Zucchini,8,Unknown
+Sun Jul 21 23:13:48 EDT 2019,Cat,Lady Bluebelle,Bluebelle,16,DMH
+Sun Jul 21 23:12:08 EDT 2019,Dog,Demon Deacon,Deke,13,GoldenRetriever
+Sun Jul 21 23:12:01 EDT 2019,Dog,benny the tiny von hudehoff,Benny,5,Yorkie Mix
+Sun Jul 21 23:14:17 EDT 2019,Dog,Jacky,Jack,3,GoldenRetriever
+Sun Jul 21 23:14:47 EDT 2019,Dog,Gigi,Gigi,10,GoldenRetriever
+Sun Jul 21 23:15:03 EDT 2019,Dog,Liontamer’s Nelson M Mandela ,Nelson ,2,RhodesianRidgeback
+Sun Jul 21 23:15:17 EDT 2019,Dog,Toby,Toby,12,GoldenRetriever
+Sun Jul 21 23:15:32 EDT 2019,Dog,Sugar,Sugar,13,Mixed Breeds
+Sun Jul 21 23:15:36 EDT 2019,Cat,Rey,Rey,2,Unknown
+Sun Jul 21 23:15:36 EDT 2019,Dog,Mackley,Mackey,4,AmericanBulldog
+Sun Jul 21 23:15:44 EDT 2019,Cat,Gordon BaNarNar,Gordon,6,Tabby
+Sun Jul 21 23:15:49 EDT 2019,Dog,Sugar,Sugar,5,GoldenRetriever
+Sun Jul 21 23:16:18 EDT 2019,Dog,Minnie,Minnie,10,Minpin
+Sun Jul 21 23:18:09 EDT 2019,Dog,Meeko letang,Bubby,3,Roughcollie
+Sun Jul 21 23:20:18 EDT 2019,Cat,"Mephistopheles, der leibhaftige Teufel, Lord of the Underworld, Bringer of Darkness  ",Felix,11,DSH
+Sun Jul 21 23:20:55 EDT 2019,Dog,Oddjob,Jobby,11,Puggle
+Sun Jul 21 23:20:57 EDT 2019,Cat,River,River,8,DSHOrangeTabby
+Sun Jul 21 23:22:54 EDT 2019,Dog,Charleston Wesley,Charlie,1,Goldendoodle
+Sun Jul 21 23:23:18 EDT 2019,Dog,Shelby,Shelb ,0,Muttmix
+Sun Jul 21 23:23:43 EDT 2019,Dog,Barracuda ,Cuda ,0.25,GoldenShepherdmix
+Sun Jul 21 23:24:03 EDT 2019,Hamster,Lilapution Marie,Lilla,0,Unknown
+Sun Jul 21 23:24:07 EDT 2019,Dog,Daisy,Daisy,5,Labradormix
+Sun Jul 21 23:24:08 EDT 2019,Dog,Moose Van Haus Huenink,Moose,3,Rottweiler
+Sun Jul 21 23:24:26 EDT 2019,Dog,Princess Bella Marie,Bella,11,MiniDachshund/Beaglemix
+Sun Jul 21 23:24:28 EDT 2019,Hamster,Turtle Dove,Turtle,0,Syrian
+Sun Jul 21 23:24:42 EDT 2019,Dog,Geno Stoneycreek Pugh,Beans,2,Rottweiler
+Sun Jul 21 23:24:44 EDT 2019,Cat,Axel daxel,Axel,9,Shorthairdomestic
+Sun Jul 21 23:25:05 EDT 2019,Fish,Michael Lee,Michael ,0.916666667,BettaFish
+Sun Jul 21 23:25:12 EDT 2019,Cat,Babe Ruthy,Babe,9,Domesticshorthair
+Sun Jul 21 23:25:14 EDT 2019,Dog,Sadie Mae,Sadie,6,GermanShorthairedPointer
+Sun Jul 21 23:25:38 EDT 2019,Rodent,Stanley,Stan Bug,0,Chinchilla
+Sun Jul 21 23:25:54 EDT 2019,Dog,Ruby Sue,Ruby,3,BlueTickCoonHound
+Sun Jul 21 23:26:27 EDT 2019,Rabbit,Richard Fineman,Richie,4,Unknown
+Sun Jul 21 23:27:49 EDT 2019,Dog,Zoey,Zoey/zozo,8,GoldenRetriever
+Sun Jul 21 23:28:39 EDT 2019,Dog,Apollo,Apollo,10,Boxer
+Sun Jul 21 23:28:51 EDT 2019,Dog,Petey,Pete,11,Labradormix
+Sun Jul 21 23:29:32 EDT 2019,Cat,Scuto,Scutie,10,Burmese
+Sun Jul 21 23:29:12 EDT 2019,Dog,Sadie Blue,Sadie,9,BorderColliemix
+Sun Jul 21 23:29:47 EDT 2019,Dog,Mira,Weetum,13.5,Labradormix
+Sun Jul 21 23:30:23 EDT 2019,Dog,Ginger,Ginger,9,Staffordshiremix
+Sun Jul 21 23:30:28 EDT 2019,Cat,Cookie Dough,Miss Dough,6,Cat
+Sun Jul 21 23:30:56 EDT 2019,Turtle,Kachu,Kachu,4,Tortoise
+Sun Jul 21 23:32:49 EDT 2019,Dog,Hairy Potter,Hairy,12,Smolterrier
+Sun Jul 21 23:34:59 EDT 2019,Dog,Cricket,Crickita ,12,Dachshundmix
+Sun Jul 21 23:34:50 EDT 2019,Dog,Xenia Marie,Xenia,8,GermanShepherd
+Sun Jul 21 23:35:12 EDT 2019,Rodent,Potato,Tot,3,GuineaPig
+Sun Jul 21 23:35:33 EDT 2019,Dog,Daisy Mae,Daisy,12,CairnTerrier
+Sun Jul 21 23:37:32 EDT 2019,Dog,Ashe,Ashe,3,Chinchilla
+Sun Jul 21 23:40:44 EDT 2019,Fish,Mr. Moesby,Mr. Moesby,3,GoldFish
+Sun Jul 21 23:39:18 EDT 2019,Fish,Helen,Helen,3,GoldFish
+Sun Jul 21 23:41:25 EDT 2019,Dog,Skylar,Sky dog,15,MiniAussie
+Sun Jul 21 23:43:06 EDT 2019,Dog,Maybus Dogstoevsky,Maybe,11,Treeing Walker Coonhound
+Sun Jul 21 23:43:44 EDT 2019,Dog,Kahlua ,"Louie, LouLou, KaHULA, FlufferNutter",7,MiniAussie
+Sun Jul 21 23:44:05 EDT 2019,Cat,Foster,Foster,13,Domestic Shorthair Tabby
+Sun Jul 21 23:44:34 EDT 2019,Cat,Reese,Reese,13,DomesticShorthair-Tortoiseshell
+Sun Jul 21 23:44:48 EDT 2019,Dog,Maggie pie thatcher,Maggie,0.333333333,Bluelacy
+Sun Jul 21 23:46:11 EDT 2019,Dog,Ashildr,Ashy,1,Boxer
+Sun Jul 21 23:46:18 EDT 2019,Dog,Elsa,Stinky poo poo,4.5,GermanShepherd
+Sun Jul 21 23:46:58 EDT 2019,Dog,Belle,Stinky poo poo,4.5,GoldenRetriever
+Sun Jul 21 23:47:36 EDT 2019,Cat,Mufasa,Mufasa,14,Yellowtabbylonghair
+Sun Jul 21 23:47:52 EDT 2019,Dog,Zeus,Zeusy,8,JackRussellTerrier
+Sun Jul 21 23:48:14 EDT 2019,Rodent,Niblet,Fat pig,4,GuineaPig
+Sun Jul 21 23:48:57 EDT 2019,Dog,Molly,Miss Pants,6,Labradormix
+Sun Jul 21 23:49:11 EDT 2019,Cat,Valerie Spaceship Pizza Party,Bubba,6,Domesticshorthair
+Sun Jul 21 23:49:53 EDT 2019,Hamster,Penelope ,Penne,1,Syrian
+Sun Jul 21 23:49:54 EDT 2019,Cat,Peanut,Peenie paneenie,0.333333333,Calico
+Sun Jul 21 23:51:39 EDT 2019,Cat,Jupiter,  Monsieur Jups,6,Domesticshorthair
+Sun Jul 21 23:52:38 EDT 2019,Dog,Chip,"Chippy, Chipper, Dumbo, or Chipper Dipper",13.5,Yellowlab
+Mon Jul 22 00:00:19 EDT 2019,Dog,Chewustuffer Asshole,Chewy,2,GoldenRetriever
+Mon Jul 22 00:00:59 EDT 2019,Dog,Sailor Moon,Either Sailor or Moon,4,Newfoundland
+Mon Jul 22 00:01:01 EDT 2019,Dog,Navigator’s Sipsey River PrinceS,Sipsey,11,LabradorRetriever
+Mon Jul 22 00:01:03 EDT 2019,Dog,Buddy,Bud,9,BorderCollie
+Mon Jul 22 00:01:40 EDT 2019,Dog,Brown Butter Biscuit,Biscuit,12,LabradorRetriever
+Mon Jul 22 00:02:05 EDT 2019,Dog,Millie,Lil mil,13,ShihTzu
+Mon Jul 22 00:03:31 EDT 2019,Dog,Jonah,Jonah,5,Labradormix
+Mon Jul 22 00:04:10 EDT 2019,Dog,Diggs,Diggs,9,AustralianCattleDog
+Mon Jul 22 00:04:21 EDT 2019,Bird,Gudlaguba,guba,2,Unknown
+Mon Jul 22 00:04:38 EDT 2019,Dog,Herman,"Hermie, Herm-Derm, Herbie, Herm-Worm",14,Dachshund
+Mon Jul 22 00:05:07 EDT 2019,Cat,Isis,Isis,9,Domesticshorthair
+Mon Jul 22 00:05:56 EDT 2019,Dog,Datsyuk,Datsyuk,0,Shepherdmix
+Mon Jul 22 00:06:28 EDT 2019,Dog,Nightwing ,Nightwing,6,LhasaApso/Maltese
+Mon Jul 22 00:06:38 EDT 2019,Dog,Isabella,Bella,5,GermanShepherdmix
+Mon Jul 22 00:07:10 EDT 2019,Dog,Princess Buttercup,Prince,4,LhasaApso/Maltese
+Mon Jul 22 00:10:07 EDT 2019,Dog,Sir Jake of Zoar,Jake,11,Yellowlab
+Mon Jul 22 00:10:13 EDT 2019,Cat,Michael Theodore Wazowski,Mike,2,Fuzzball
+Mon Jul 22 00:12:11 EDT 2019,Dog,Scout,Scout,6,KingCharles
+Mon Jul 22 00:11:14 EDT 2019,Dog,Aluxe,Aluxe,14,Poodle
+Mon Jul 22 00:12:40 EDT 2019,Dog,Brownie,Brownie ,11,KingCharles
+Mon Jul 22 00:17:48 EDT 2019,Cat,Catsby,Catsby,12,Domesticshorthair
+Mon Jul 22 00:18:13 EDT 2019,Rabbit,Clementine the Lemon,Clem,7,Unknown
+Mon Jul 22 00:19:38 EDT 2019,Dog,Shelby May,Shelbs,6.1,Terriermix
+Mon Jul 22 00:20:59 EDT 2019,Dog,Mr. Henry Midas Darcy,Henry,7,GoldenRetriever
+Mon Jul 22 00:21:36 EDT 2019,Cat,Hermes,Hermes,10,Unknown
+Mon Jul 22 00:23:35 EDT 2019,Dog,Annie Reese,Annie,11,Huskymix
+Mon Jul 22 00:28:23 EDT 2019,Dog,Blackjack,Blackjack,3,Labradormix
+Mon Jul 22 00:29:08 EDT 2019,Cat,Dolly Madison ,Dolly,11,Americanshorthair
+Mon Jul 22 00:29:49 EDT 2019,Cat,Franklin Roosevelt ,Franklin,16,Siamese
+Mon Jul 22 00:31:05 EDT 2019,Cat,Abby,Abby,2.5,Unknown
+Mon Jul 22 00:33:18 EDT 2019,Dog,Jaden,Jaden,8,Unknown
+Mon Jul 22 00:34:03 EDT 2019,Dog,Sophie,Soph,9,GoldenRetriever
+Mon Jul 22 00:36:23 EDT 2019,Cat,Elizabeth Bennet,"Elizabeth, no!",13,DomesticLonghair
+Mon Jul 22 00:35:16 EDT 2019,Cat,Amadeus,Booboo,13,DomesticLonghair
+Mon Jul 22 00:39:02 EDT 2019,Dog,Petey,Petey,11,GoldenRetriever
+Mon Jul 22 00:39:30 EDT 2019,Dog,Jack,Jackson,11,GoldenRetriever
+Mon Jul 22 00:41:50 EDT 2019,Dog,Bella,Bell,8,Puggle
+Mon Jul 22 00:45:40 EDT 2019,Dog,Starsky Buford,Starsky,7,FoxhoundMix
+Mon Jul 22 00:46:20 EDT 2019,Rodent, Beatrice,Trixie,5,Mexicanblacktailed
+Mon Jul 22 00:46:48 EDT 2019,Dog,Quito,Kiki,4,Labradormix
+Mon Jul 22 00:47:08 EDT 2019,Dog,Wiggins,Wiggs,3,BlackLabMix
+Mon Jul 22 00:47:43 EDT 2019,Bird,Aretha,The broody one,1,Blackstarhen
+Mon Jul 22 00:49:03 EDT 2019,Snake,Stanley,Stanley,1,Ballpython
+Mon Jul 22 00:49:37 EDT 2019,Dog,Bella,Smelly Belly,13,Weimaraner
+Mon Jul 22 00:50:08 EDT 2019,Hermit Crab,Golddigger,Goldie,Unknown,Australian
+Mon Jul 22 00:51:27 EDT 2019,Dog,Maple,"Mapie, Mapes",0,ShibaInu
+Mon Jul 22 00:51:57 EDT 2019,Dog,Sara,Sara,7,PolishTatraSheepdog
+Mon Jul 22 00:53:31 EDT 2019,Insect,Professor McGongall (the queen),Hogwarts (the hive),0,Bees
+Mon Jul 22 00:54:17 EDT 2019,Dog,Clementine,Clem,5.5,Coonhound
+Mon Jul 22 00:54:30 EDT 2019,Dog,Ali May,Ali,12,Labradormix
+Mon Jul 22 00:54:36 EDT 2019,Dog,Aspen,Ass-pen,3,Coonhound
+Mon Jul 22 00:54:47 EDT 2019,Dog,Amber,Amber,2,GermanShorthairedPointer
+Mon Jul 22 00:54:56 EDT 2019,Rodent,Diego,Dego Bear,3,GuineaPig
+Mon Jul 22 00:55:09 EDT 2019,Rodent,Linus,Linus,1,GuineaPig
+Mon Jul 22 00:55:10 EDT 2019,Dog,Coquine,Ti-Chat,15,Maltese
+Mon Jul 22 00:55:15 EDT 2019,Rodent,Colby,Colbs,3,GuineaPig
+Mon Jul 22 00:57:00 EDT 2019,Dog,Medley May ,Med head/big medley,8,GreatDane
+Mon Jul 22 00:57:27 EDT 2019,Dog,Maggie,Mag bag ,3,GreatDane
+Mon Jul 22 00:58:21 EDT 2019,Dog,Finn Jethro,Finny,7,Poodle
+Mon Jul 22 00:59:00 EDT 2019,Dog,Tallulah Lilac,Lulah,4,Poodle
+Mon Jul 22 01:00:04 EDT 2019,Dog,Bear,Bear,6,Huskymix
+Mon Jul 22 01:00:45 EDT 2019,Cat,Fuji,Worm,9,Domestichousecat
+Mon Jul 22 01:03:06 EDT 2019,Dog,Emily,Emily,7,AmericanPitbull
+Mon Jul 22 01:02:22 EDT 2019,Dog,Winifred Yankeestaff Arnone,Winnie,13,BulldogMix
+Mon Jul 22 01:04:54 EDT 2019,Dog,Bella,Bella,9,ShihTzu
+Mon Jul 22 01:07:07 EDT 2019,Dog,Mocha Latte,Moch,2,PitbullMix
+Mon Jul 22 01:06:53 EDT 2019,Dog,Bentley Rockstaff Jardine Arnone,Bentley,0.833333333,BulldogMix
+Mon Jul 22 01:07:27 EDT 2019,Cat,Lili,Lili,11,Russian Blue
+Mon Jul 22 01:07:34 EDT 2019,Dog,Freddie Mercury,Freddie,15,Schnauzer
+Mon Jul 22 01:08:03 EDT 2019,Dog,Einstein Pancake,Einstein ,11,ShihTzu
+Mon Jul 22 01:08:14 EDT 2019,Cat,Kit Marlowe,Marlowe,11,Domestic Shorthair Tabby
+Mon Jul 22 01:09:01 EDT 2019,Dog,Sir Eggs Benedict,Benny,2.5,PembrokeWelshCorgi
+Mon Jul 22 01:09:08 EDT 2019,Dog,Bandit ,Ban ban,8,Husky
+Mon Jul 22 01:10:56 EDT 2019,Cat,Beauregard Montgomery Cat,Beau,3,BlackandWhite
+Mon Jul 22 01:09:46 EDT 2019,Dog,Mac,Mac,5,BorderCollie
+Mon Jul 22 01:10:21 EDT 2019,Dog,Shepherd E Stoltzfus,Shep,5,BorderCollie
+Mon Jul 22 01:13:02 EDT 2019,Dog,Cinnamon,Chinamon,4,GoldenLabrador
+Mon Jul 22 01:13:03 EDT 2019,Rabbit,Greta,Greta,13,MiniRex
+Mon Jul 22 01:19:23 EDT 2019,Dog,Rocky Ciroc,Ciroc,6,BichonFrise
+Mon Jul 22 01:20:08 EDT 2019,Cat,Cloudy,Cloudy,9,Unknown
+Mon Jul 22 01:20:25 EDT 2019,Cat,Sunny,Sunny,5,Unknown
+Mon Jul 22 01:24:08 EDT 2019,Dog,Jack,Jack,2,MiniatureDachshund
+Mon Jul 22 01:23:08 EDT 2019,Dog,Baldrick of Blackadder Bob,Bob,14,Miniatureschnauzer
+Mon Jul 22 01:24:49 EDT 2019,Dog,Danny,Danny,Deceased,Pomeranianmix
+Mon Jul 22 01:29:14 EDT 2019,Dog,Troy,Sweetie,9,PitbullMix
+Mon Jul 22 01:39:57 EDT 2019,Dog,Lavender,Lav,8,Pitbull
+Mon Jul 22 01:40:19 EDT 2019,Dog,Buddy,Mr. B,6,GoldenRetriever
+Mon Jul 22 01:42:07 EDT 2019,Dog,Chase,Chase,6,Boxer
+Mon Jul 22 01:43:17 EDT 2019,Dog,Charlotte,Charlie,8,BorderCollie
+Mon Jul 22 01:43:05 EDT 2019,Dog,Ice,Ice,14,Shepherdmix
+Mon Jul 22 01:44:45 EDT 2019,Fish,Alpha (the Beta),Alpha,0.083333333,BettaFish
+Mon Jul 22 01:45:08 EDT 2019,Dog,Dolly,Dolly,7.5,Labradormix
+Mon Jul 22 01:48:15 EDT 2019,Dog,Geoffrey,Geoffrey ,1,Maltipoo
+Mon Jul 22 01:50:54 EDT 2019,Rabbit,Aragorn,Strider,5,Dwarflop
+Mon Jul 22 01:51:43 EDT 2019,Rabbit,Arwen ,Arwen ,4,Lionheaddwarflop
+Mon Jul 22 01:52:22 EDT 2019,Dog,Holly ,Holly,8.5,GoldenRetriever
+Mon Jul 22 01:57:04 EDT 2019,Dog,coco pollybird,Coco,10,CockerSpaniel
+Mon Jul 22 01:58:19 EDT 2019,Dog,Tim,Tim,12,Beagle
+Mon Jul 22 02:01:17 EDT 2019,Dog,Magui Josefina Primera Mercado,Moñoñito,16,EnglishCockerSpaniel
+Mon Jul 22 01:59:47 EDT 2019,Turtle,Robustiana,Robby,5,Unknown
+Mon Jul 22 02:02:03 EDT 2019,Dog,Scooby,Scoob,Unknown,AmericancockerSpaniel
+Mon Jul 22 02:02:51 EDT 2019,Dog,Balto José,Bartolo,6,Unknown
+Mon Jul 22 02:03:28 EDT 2019,Bird,Lulú Anastasia,Pollo,16,Unknown
+Mon Jul 22 02:07:52 EDT 2019,Dog,Xena Badass McAwesome Princess Flufflepuffs of the Ashen Fields of Mordor,Xena,6,GoldenRetriever
+Mon Jul 22 02:08:03 EDT 2019,Dog,Wilbur,Wilby,6,FrenchBulldog
+Mon Jul 22 02:08:45 EDT 2019,Dog,Rowena Ravenclaw,Puppy,3,RhodesianRidgeback
+Mon Jul 22 02:09:28 EDT 2019,Dog,Magnificent,Maggie,7,KingCharlesmix
+Mon Jul 22 02:08:57 EDT 2019,Dog,Nova,Scoosh ,0.583333333,CockerSpaniel
+Mon Jul 22 02:10:40 EDT 2019,Dog,Penny,Penny,12,RatTerrierMix
+Mon Jul 22 02:11:01 EDT 2019,Cat,Jasper,Jasper,8,Unknown
+Mon Jul 22 02:11:58 EDT 2019,Dog,Maisie taters ,Maisie,2,Houndmix
+Mon Jul 22 02:12:40 EDT 2019,Dog,Guinness ,Guinness ,9,AustralianShepherd
+Mon Jul 22 02:12:47 EDT 2019,Dog,Johnny Bee,Johnny ,5,Boxermix
+Mon Jul 22 02:12:55 EDT 2019,Cat,Emma,Emma-zoo ,21,Calico
+Mon Jul 22 02:13:17 EDT 2019,Dog,Mayflower,May,12,LabradorRetriever
+Mon Jul 22 02:13:05 EDT 2019,Cat,Benjamin,Ben,6,Unknown
+Mon Jul 22 02:13:39 EDT 2019,Dog,Roscoe,Roscoe,13,Beagle
+Mon Jul 22 02:13:40 EDT 2019,Cat,Pitted bear ,Pits ,6,Unknown
+Mon Jul 22 02:14:16 EDT 2019,Cat,Lily,Lily,20,Unknown
+Mon Jul 22 02:13:58 EDT 2019,Cat,Maggie,Maggie,19,Unknown
+Mon Jul 22 02:15:01 EDT 2019,Cat,Tom,Tomsl,18,BritishShorthair
+Mon Jul 22 02:15:22 EDT 2019,Cat,Gerri,Gerri,17,BritishShorthair
+Mon Jul 22 02:23:31 EDT 2019,Dog,Ashley,Ashley,5,EnglishCockerSpaniel
+Mon Jul 22 02:22:47 EDT 2019,Cat,Moritz,Mori,8,None
+Mon Jul 22 02:24:37 EDT 2019,Dog,Janis,Janis,7,Unknown
+Mon Jul 22 02:29:52 EDT 2019,Dog,Leonardo,Leo,7,Pekingese
+Mon Jul 22 02:25:28 EDT 2019,Rabbit,Cheeky,Twatty,5,Unknown
+Mon Jul 22 02:33:54 EDT 2019,Cat,Tyler,Doofus,11,Domesticshorthair
+Mon Jul 22 02:33:18 EDT 2019,Dog,Ceili Kibbles,Ceili (pronounced K-Lee),10,GoldenRetriever
+Mon Jul 22 02:34:31 EDT 2019,Cat,Kiki,Kikster,11,Domesticshorthair
+Mon Jul 22 02:36:33 EDT 2019,Dog,Charlie,Charlie,0.416666667,BerneseMountainDog
+Mon Jul 22 02:36:59 EDT 2019,Cat,Oreo,Oreo,0.25,Shorthair
+Mon Jul 22 02:37:42 EDT 2019,Cat,Ichi,Itch,8,Unknown
+Mon Jul 22 02:37:27 EDT 2019,Fish,Mussel ,Muss,3,Unknown
+Mon Jul 22 02:37:53 EDT 2019,Dog,Mango,Mango,2,Unknown
+Mon Jul 22 02:38:18 EDT 2019,Hamster,Muffin,Muffin,2,Unknown
+Mon Jul 22 02:44:19 EDT 2019,Dog,Rufus,Roofie,14,GoldenRetriever
+Mon Jul 22 02:45:58 EDT 2019,Dog,Daisy,Daze,0.333333333,GoldenRetriever
+Mon Jul 22 02:44:49 EDT 2019,Dog,Lily,Lils,13,GoldenRetriever
+Mon Jul 22 02:45:27 EDT 2019,Dog,Bertie,Bertie Boy,0.333333333,GoldenRetriever
+Mon Jul 22 02:52:41 EDT 2019,Dog,Max,Bear,7,Akita
+Mon Jul 22 02:52:58 EDT 2019,Dog,Molly,Moo,7,Beagle
+Mon Jul 22 02:53:22 EDT 2019,Dog,Poppy,Poppy dog,2,GoldenRetriever
+Mon Jul 22 02:53:41 EDT 2019,Dog,Daisy,Daisy dog,2,GoldenRetriever
+Mon Jul 22 02:57:55 EDT 2019,Cat,Nica-Nu,Nica-NO-GIVE-THAT-BACKQ,1.75,BritishShorthair
+Mon Jul 22 02:59:50 EDT 2019,Cat,Meredith,Mer,8,Unknown
+Mon Jul 22 02:58:30 EDT 2019,Dog,Koda,Koda,9,GoldenRetriever
+Mon Jul 22 02:59:03 EDT 2019,Dog,Elwood,Elwood,9,GoldenRetriever
+Mon Jul 22 02:59:32 EDT 2019,Dog,Jake,Jakey,9,GoldenRetriever
+Mon Jul 22 03:00:09 EDT 2019,Cat,Blizzard,White,13,Unknown
+Mon Jul 22 03:01:31 EDT 2019,Cat,Hemingway,Hemi,9,Unknown
+Mon Jul 22 03:00:25 EDT 2019,Cat,George,Porge,11,Unknown
+Mon Jul 22 03:00:32 EDT 2019,Dog,Miles,Miles,8,LabradorRetriever
+Mon Jul 22 03:05:20 EDT 2019,Cat,Sherbert,Sherbert ,1,Unknown
+Mon Jul 22 03:13:31 EDT 2019,Cat,Liesje,Liesje,5,Tortoiseshell
+Mon Jul 22 03:23:21 EDT 2019,Dog,Indiana ,Indy,10,SpringerSpaniel
+Mon Jul 22 03:24:04 EDT 2019,Cat,Diego Maradona,Degs,3,Unknown
+Mon Jul 22 03:23:44 EDT 2019,Dog,Maximus Harvey ,Max,2,GoldenRetriever
+Mon Jul 22 03:24:29 EDT 2019,Cat,Paco ,PAC man ,2,Unknown
+Mon Jul 22 03:26:43 EDT 2019,Dog,Douglas Ray Richardson the Third ,Doug ,6,Redheeled
+Mon Jul 22 03:39:52 EDT 2019,Rodent,Wilbur,Wilbur,1,GuineaPig
+Mon Jul 22 03:39:23 EDT 2019,Rodent,Vincent,Vinnie,1,GuineaPig
+Mon Jul 22 03:49:47 EDT 2019,Dog,Harley,Gnarly,4,Pug
+Mon Jul 22 03:50:40 EDT 2019,Turtle,Taco,Taco,0.583333333,RussianTortoise
+Mon Jul 22 03:51:05 EDT 2019,Dog,Buster,Busty ,14,JackRussellTerrier
+Mon Jul 22 03:51:26 EDT 2019,Dog,Alfie,Alfie Dude,14,JackRussellTerrier
+Mon Jul 22 03:53:43 EDT 2019,Dog,Mila,Mila,9,Mixed Breeds
+Mon Jul 22 03:59:18 EDT 2019,Dog,Zero,Boydog,10,RhodesianRidgeback
+Mon Jul 22 04:09:59 EDT 2019,Rabbit,Cirkeline,Cirkeline,7,Mixed
+Mon Jul 22 04:14:20 EDT 2019,Dog,Bella Nina; Thomas James; Archie,Bella; Tom; Archie,7,GermanShepherdmix
+Mon Jul 22 04:20:07 EDT 2019,Cat,"Mao. (As in Chairman Mao,  not miaow or Mayo. ",Mao ,14,Moggy
+Mon Jul 22 04:21:49 EDT 2019,Dog,Briggs,Briggy,10,Labradormix
+Mon Jul 22 04:19:27 EDT 2019,Dog,Mya (The Dog),My,13,Yellowlab
+Mon Jul 22 04:20:03 EDT 2019,Cat,Dee Dee ,Dee,13,Unknown
+Mon Jul 22 04:20:57 EDT 2019,Dog,Neela,Neely ,8,ShihTzu
+Mon Jul 22 04:22:46 EDT 2019,Dog,Hank,Hankle ,2,BlueHeelermix
+Mon Jul 22 04:24:03 EDT 2019,Dog,Button,Button,7,Cockalier
+Mon Jul 22 04:23:05 EDT 2019,Dog,Missy Princess,Missy,14,CockerSpaniel
+Mon Jul 22 04:23:39 EDT 2019,Dog,Prince,Prince,7,GermanShepherdmix
+Mon Jul 22 04:29:55 EDT 2019,Dog,Samuel,Sam,8,GoldenRetriever
+Mon Jul 22 04:30:15 EDT 2019,Cat,Wolfe,Buddu,11.5,Domesticshorthair
+Mon Jul 22 04:31:13 EDT 2019,Cat,Muppet,Muppy,6,Tabby
+Mon Jul 22 04:31:51 EDT 2019,Bird,Bruce,Brucey,10,Budgerigar
+Mon Jul 22 04:58:42 EDT 2019,Dog,Precious Fudge,Miss Precious,12,ChocolateLabmix
+Mon Jul 22 04:48:56 EDT 2019,Dog,truffles ,truffs ,11,Chocolatepoodle
+Mon Jul 22 04:49:25 EDT 2019,Dog,woodland ,Woody,4,Long-hairedChihuahua
+Mon Jul 22 05:00:19 EDT 2019,Rodent,Tomasa,Tommy,1,Rat
+Mon Jul 22 04:59:29 EDT 2019,Dog,Heath M&M,Mr. Peaf,8,AustralianCattleDog
+Mon Jul 22 05:00:09 EDT 2019,Dog,Mosley,Mr. Mosley,6,Pitbull
+Mon Jul 22 05:01:43 EDT 2019,Dog,Peter,Mr. Peter,3,Unknown
+Mon Jul 22 05:00:44 EDT 2019,Cat,Miss Lucy,Lucy,4,Siamese
+Mon Jul 22 05:01:11 EDT 2019,Cat,Miss Molly,Molly,3,Unknown
+Mon Jul 22 05:02:58 EDT 2019,Cat,Luna,Luna,4.5,Ragdoll
+Mon Jul 22 05:15:44 EDT 2019,Dog,Sammy,Sammy,12,ShihTzu
+Mon Jul 22 05:19:16 EDT 2019,Dog,Theodore Barkalot,Teddy,8,BichonHavanese
+Mon Jul 22 05:38:11 EDT 2019,Bird,Delphine,,2,Speckledys-Hen
+Mon Jul 22 06:02:49 EDT 2019,Dog,d'Artagnan,Dart,17,Pug
+Mon Jul 22 06:22:29 EDT 2019,Cat,Fire,Fire,0.25,Shorthair
+Mon Jul 22 06:23:01 EDT 2019,Cat,Ash,Ash,0.25,Shorthair
+Mon Jul 22 06:23:45 EDT 2019,Cat,Kami,Kam,1,Longhair
+Mon Jul 22 06:24:24 EDT 2019,Cat,Kit Kat,Kit,0.166666667,Mediumhair
+Mon Jul 22 06:38:42 EDT 2019,Dog,Celsius Pele Amadeus Cartier,Celsius,11,LabradorRetriever
+Mon Jul 22 06:39:00 EDT 2019,Dog,Lando Calrisian,Lando,4,LabradorRetriever
+Mon Jul 22 06:39:29 EDT 2019,Dog,Obi-Wan,Obi,2,LabradorRetriever
+Mon Jul 22 06:39:36 EDT 2019,Dog,Titus Sirius Icarus Cartier,Titus,10,LabradorRetriever
+Mon Jul 22 06:40:25 EDT 2019,Dog,Samuel T Dogg,Sam,8,LabradorRetriever
+Mon Jul 22 06:44:43 EDT 2019,Cat,Puka Shell,Puka,3,Unknown
+Mon Jul 22 06:45:21 EDT 2019,Cat,Lily Pad,Lily,1.5,Unknown
+Mon Jul 22 06:45:42 EDT 2019,Dog,Oreo Ann,Oreo,11,Unknown
+Mon Jul 22 06:46:12 EDT 2019,Dog,Oliver,Ollie,7,Unknown
+Mon Jul 22 06:47:51 EDT 2019,Dog,Stamford,Stamford,10,BichonFriseMix
+Mon Jul 22 07:03:56 EDT 2019,Dog,Bentley,Bentley,4,ChocolateLabrador
+Mon Jul 22 07:06:17 EDT 2019,Dog,Lulu,Lulu,10,JackRussellTerrier
+Mon Jul 22 07:07:29 EDT 2019,Dog,Ella,Elephant,8,RetrieverMix
+Mon Jul 22 07:08:00 EDT 2019,Dog,Roxy,Roxy,5,GermanShepherd
+Mon Jul 22 07:14:32 EDT 2019,Cat,Andrew Angela,Andie,1.5,Americanshorthair
+Mon Jul 22 07:15:08 EDT 2019,Cat,Cricket,Creekee,8,Americanshorthair
+Mon Jul 22 07:16:37 EDT 2019,Dog,Desmond,Dez,8,BlackLabMix
+Mon Jul 22 07:17:12 EDT 2019,Cat,Tallulah May ,Chunky butt,2,Americanshorthair
+Mon Jul 22 07:21:29 EDT 2019,Dog,Stella,Stella,9,Hunterwaymix
+Mon Jul 22 07:22:32 EDT 2019,Cat,Snowflake ,Snow / Snowy,11,Maincoonex
+Mon Jul 22 07:24:56 EDT 2019,Dog,Sheena ,Beena,12,GoldenRetriever
+Mon Jul 22 07:25:03 EDT 2019,Cat,Rico,Rico,13,Unknown
+Mon Jul 22 07:25:19 EDT 2019,Cat,Sirius Black ,Chonk,4,Unknown
+Mon Jul 22 07:25:41 EDT 2019,Cat,Bellatrix Lestrange,Bella,2,Unknown
+Mon Jul 22 07:28:29 EDT 2019,Dog,Perry the Poodle,Perry,2,StandardPoodle
+Mon Jul 22 07:29:16 EDT 2019,Dog,Cody the Corgi,Cody,3,PembrokeWelshCorgi
+Mon Jul 22 07:37:09 EDT 2019,Cat,Princess Penelope Pineapple Pizza,Kitty,3,Calico
+Mon Jul 22 07:39:11 EDT 2019,Cat,Mel,Melzinga,3,Unknown
+Mon Jul 22 07:41:28 EDT 2019,Dog,Ginevra Molly,Ginny,0.346153846,GoldenRetriever
+Mon Jul 22 07:42:04 EDT 2019,Cat,Mel de Melissa Duarte Brandizzi,Mel,3,Unknown
+Mon Jul 22 07:43:23 EDT 2019,Cat,Mila Vilela Brandizzi,Mila,1,Unknown
+Mon Jul 22 07:46:02 EDT 2019,Cat,Sushi,Baby / Sushi Burger ,14,Blackcat
+Mon Jul 22 07:50:18 EDT 2019,Dog,Riley,"Riley or Ri (pronounced RHY), but then there’s a bunch of nicknames like (Riley Roo, Roo, Ri Ri, Bud, Buddy, Bub, etc)",4,Husky
+Mon Jul 22 07:53:15 EDT 2019,Dog,Cleopatra,Cleo,3,Greyhound
+Mon Jul 22 07:59:18 EDT 2019,Dog,Coco,Coco,10,Corgi
+Mon Jul 22 08:01:33 EDT 2019,Dog,Captain,Captain aka Cappie,14,Husky
+Mon Jul 22 08:02:45 EDT 2019,Dog,Buddy,Buddy,8,Muttmix
+Mon Jul 22 08:06:50 EDT 2019,Dog,Magnolia Mae,Maggie,2,Corgi
+Mon Jul 22 08:12:00 EDT 2019,Dog,Sam,Sammy,5,BorderCollie
+Mon Jul 22 08:12:12 EDT 2019,Frog,Lily,Lily,1,Unknown
+Mon Jul 22 08:15:57 EDT 2019,Dog,Zoey,Zo,4,Muttmix
+Mon Jul 22 08:18:34 EDT 2019,Cat,Sammy,Sammy,9,Unknown
+Mon Jul 22 08:19:17 EDT 2019,Cat,Tika,Tika,8,Unknown
+Mon Jul 22 08:22:29 EDT 2019,Cat,Prince William,William,9,Unknown
+Mon Jul 22 08:26:00 EDT 2019,Dog,Chip,Chippers ,2,GoldenRetriever
+Mon Jul 22 08:30:12 EDT 2019,Insect,Rosie,Rosie,6,Spider
+Mon Jul 22 08:30:42 EDT 2019,Cat,Zoey,Zoey,5,Tabby
+Mon Jul 22 08:31:19 EDT 2019,Cat,Stella Lou,Stella,2,Tabby
+Mon Jul 22 08:33:48 EDT 2019,Dog,Snickers,Snick ,8,LabradorRetriever
+Mon Jul 22 08:34:20 EDT 2019,Dog,Max,Max,12.5,LabradorRetriever
+Mon Jul 22 08:46:17 EDT 2019,Dog,Leeloo,Leeloo,2,Labradoodle
+Mon Jul 22 08:50:34 EDT 2019,Dog,Owen,Owen,13,RhodesianRidgeback
+Mon Jul 22 08:52:29 EDT 2019,Dog,Daisy Mae,Daisy,11,GoldenRetriever
+Mon Jul 22 08:57:14 EDT 2019,Cat,Maria ,Maria ,8.5,Mix
+Mon Jul 22 08:57:35 EDT 2019,Dog,Sunshine,Sunny,4,Pyrador
+Mon Jul 22 08:57:38 EDT 2019,Cat,Penelope ,Penelope ,9,Calico
+Mon Jul 22 08:58:09 EDT 2019,Lizard,Pebbles,Peb,4,LeopardGecko
+Mon Jul 22 08:58:45 EDT 2019,Dog,Freskin,Fattima Bouffants,13,LabradorRetriever
+Mon Jul 22 08:59:57 EDT 2019,Dog,Philippa,Pippa,4,AmericanHairlessTerrier
+Mon Jul 22 09:00:56 EDT 2019,Dog,Lillie (Lilian now that she’s older),Lillie,5,Boxer
+Mon Jul 22 09:01:53 EDT 2019,Cat,Callie,Callie,15,Unknown
+Mon Jul 22 09:02:20 EDT 2019,Dog,"Dr. Wolf Barker, MD PhD DOG",Wolfie,7,Mixed Breeds
+Mon Jul 22 09:02:28 EDT 2019,Dog,Toby,Tobias,10,BichonFrise
+Mon Jul 22 09:02:39 EDT 2019,Cat,Mackintosh,Milo,10,Streetcorner
+Mon Jul 22 09:02:54 EDT 2019,Dog,Alice,Alicima Bouffants,11,BichonFrise
+Mon Jul 22 09:03:31 EDT 2019,Dog,DeeDee,Deedle Dumpling,10,BichonFrise
+Mon Jul 22 09:03:51 EDT 2019,Dog,Oliver,Oliver,12,BichonFrise
+Mon Jul 22 09:04:13 EDT 2019,Dog,Reuben,Reuben,12,BichonFrise
+Mon Jul 22 09:04:37 EDT 2019,Dog,Mowgli," Mowgli, Mr. Tude (when he's sassy)",3.5,Yorkie Mix
+Mon Jul 22 09:04:44 EDT 2019,Dog,Toby,Toby,12,LabradorRetriever
+Mon Jul 22 09:05:13 EDT 2019,Rodent,Salt,Salt,2,Gerbil
+Mon Jul 22 09:05:29 EDT 2019,Rodent,Pepper,Pepper,2,Gerbil
+Mon Jul 22 09:05:55 EDT 2019,Cat,Shaka,Shaka,9,Siamese
+Mon Jul 22 09:06:13 EDT 2019,Cat,Zia,Zia,12,Siamese
+Mon Jul 22 09:06:44 EDT 2019,Dog,Buddy,Buddy,11,Muttmix
+Mon Jul 22 09:06:48 EDT 2019,Dog,Bella Sitka LASTNAME,"Bell, Bella, Pretty",15,MiniatureAmericanEskimo
+Mon Jul 22 09:07:38 EDT 2019,Dog,Monty,Montgomery of Fitzgerald,8,LabradorRetriever
+Mon Jul 22 09:09:07 EDT 2019,Dog,Luna Lastname,"Luna, Loon, Loonie, Miss Loon, Wiggles",0.75,Doxin
+Mon Jul 22 09:09:35 EDT 2019,Bird,Vaillante,Vaillant,5,Unknown
+Mon Jul 22 09:10:10 EDT 2019,Dog,Echo Last Name,Echo,12,MiniatureAmericanEskimo
+Mon Jul 22 09:18:21 EDT 2019,Dog,Nuffin,Nuffin,6,GoldenRetriever
+Mon Jul 22 09:20:52 EDT 2019,Cat,Tauriel,Tauriel,4.5,Domesticshorthair
+Mon Jul 22 09:21:11 EDT 2019,Cat,Garbanzo,Bean,4,Domesticshorthair
+Mon Jul 22 09:24:15 EDT 2019,Dog,Mars,Chano ,9,Corgi
+Mon Jul 22 09:29:51 EDT 2019,Dog,Calhoun Richard Anderson du Nord,Cal,3.5,GoldenRetriever
+Mon Jul 22 09:37:06 EDT 2019,Dog,Charlie Brown,"Charlie, Charizard, Charles",10,LabradorRetriever
+Mon Jul 22 09:37:54 EDT 2019,Dog,Bixby Lucas,Bixby,1,BlackLabMix
+Mon Jul 22 09:38:26 EDT 2019,Cat,Luna Linetti,Luna,1,Blackcat
+Mon Jul 22 09:38:31 EDT 2019,Dog,Taco,"Taca Taca, snorticus",13,FrenchBulldog
+Mon Jul 22 09:40:22 EDT 2019,Dog,Belle,Jelly Belly,3,Beaglemix
+Mon Jul 22 09:42:01 EDT 2019,Dog,Jimmy,Jimmy,3,JackRussellTerrier
+Mon Jul 22 09:43:51 EDT 2019,Hamster,Wobbles,Wobbles,0.833333333,SyrianHamster
+Mon Jul 22 09:45:15 EDT 2019,Cat,Buddha,Buddha,15,Domesticshorthair
+Mon Jul 22 09:47:32 EDT 2019,Dog,Miles,Miles,10,RedboneCoonhound
+Mon Jul 22 09:49:21 EDT 2019,Dog,Eleanor Rose,Elly,5,GoldenRetriever
+Mon Jul 22 09:50:04 EDT 2019,Cat,Charlotte May,Charlotte ,4,Brownandwhitetabby
+Mon Jul 22 09:56:32 EDT 2019,Dog,Cooper Jay Nigel Winston,Cooper,8,Yorkie Mix
+Mon Jul 22 09:57:20 EDT 2019,Dog,Buddy Augusto,Buddy,14,CockerSpaniel
+Mon Jul 22 10:01:05 EDT 2019,Dog,Dash,Dash,7,Pitbull
+Mon Jul 22 10:01:06 EDT 2019,Cat,Calvin Coolidge Cat,Cal,17,Siamese
+Mon Jul 22 10:02:00 EDT 2019,Cat,Gracie Coolidge Cat,Gracie,16,Russian Blue
+Mon Jul 22 10:09:54 EDT 2019,Dog,Opie,Dope/ Opie,11,GoldenRetriever
+Mon Jul 22 10:16:47 EDT 2019,Dog,Georgia ,Georgia ,3,Unknown
+Mon Jul 22 10:19:29 EDT 2019,Cat,Emile,Mealsies,6,FrenchCharteux
+Mon Jul 22 10:20:00 EDT 2019,Cat,Zoe,Zoe,3,Mixedbreedcat
+Mon Jul 22 10:20:15 EDT 2019,Cat,Malcolm,Mal,3,Tabby
+Mon Jul 22 10:21:02 EDT 2019,Dog,Dino,Dino,1,Keeshound
+Mon Jul 22 10:20:41 EDT 2019,Cat,Molly,Molly magoo,1,Mixed Breeds
+Mon Jul 22 10:21:33 EDT 2019,Cat,Bruce Springsteen,Bruce,24,Cat
+Mon Jul 22 10:31:03 EDT 2019,Dog,Penny,Penny,10,Beaglemix
+Mon Jul 22 10:31:37 EDT 2019,Cat,Raven,Raven,6,Blackshorthaircat
+Mon Jul 22 10:32:13 EDT 2019,Cat,Clarabelle,Clarabelle,7,Polydactylshorthaircat
+Mon Jul 22 10:37:11 EDT 2019,Dog,Alex’s Fiesty Girl Bailey Balogh,Bailey,10.5,GoldenRetriever
+Mon Jul 22 10:42:15 EDT 2019,Dog,Rey,Reymundo,2.5,JackRussellmix
+Mon Jul 22 10:43:25 EDT 2019,Dog,Uwe,Uwe,4,GoldenRetriever
+Mon Jul 22 10:51:17 EDT 2019,Dog,Millie Betty,Mill,1.5,Dalmatian
+Mon Jul 22 10:51:53 EDT 2019,Dog,Henry,Henny,1,Dalmatian
+Mon Jul 22 10:53:33 EDT 2019,Dog,Daisy Mae,Daisy,13,Muttmix
+Mon Jul 22 10:54:13 EDT 2019,Dog,Chamomile June,Cammie,9,CockerSpaniel
+Mon Jul 22 10:54:55 EDT 2019,Dog,Chapman,Chapman,15,BlackLabMix
+Mon Jul 22 10:55:36 EDT 2019,Dog,Tucker,Tucker,0.75,MiniAustralianShepard
+Mon Jul 22 11:01:04 EDT 2019,Dog,Chappelle,Mutt,6,Dachshundmix
+Mon Jul 22 11:30:25 EDT 2019,Cat,Wilhelmina Rae,Willa,5,Unknown
+Mon Jul 22 11:30:58 EDT 2019,Cat,Frances Louise,Frankie,6,Unknown
+Mon Jul 22 11:31:20 EDT 2019,Cat,Victoria Susan,Tori,6,Unknown
+Mon Jul 22 11:31:40 EDT 2019,Cat,Ossana Mae,Ossie,5,Unknown
+Mon Jul 22 11:34:27 EDT 2019,Dog,Bella,Bella,11,GreaterSwissMountainDog
+Mon Jul 22 11:35:00 EDT 2019,Dog,Toby Wan Kenobi,Toby,1,GoldenRetriever
+Mon Jul 22 11:38:08 EDT 2019,Dog,Daisy,Daisy,12,LabradorRetriever
+Mon Jul 22 11:39:11 EDT 2019,Dog,Beaucoup du Chien,Beau,Deceased,Newfoundland
+Mon Jul 22 11:39:57 EDT 2019,Dog,Pumpkin,Pumpkin,Deceased,YellowLabrador
+Mon Jul 22 11:40:33 EDT 2019,Dog,Poquit,Poquit,Deceased,ChocolateLabrador
+Mon Jul 22 11:41:09 EDT 2019,Cat,Orange Laurie,Orie,Deceased,Unknown
+Mon Jul 22 11:41:34 EDT 2019,Cat,Sunset,Sunny,Deceased,Unknown
+Mon Jul 22 11:45:50 EDT 2019,Dog,Rosie,Rosie,9,GoldenRetriever
+Mon Jul 22 11:46:38 EDT 2019,Cat,Matilda,Matilda ,4,DSH(tuxedo)
+Mon Jul 22 11:50:24 EDT 2019,Dog,Murphy,Murphy,10,Yorkie Mix
+Mon Jul 22 11:52:39 EDT 2019,Dog,Giacomo Science,Giacomo,6,BerneseMountainDog
+Mon Jul 22 11:52:39 EDT 2019,Dog,"Zuul, minion of Gozer",Zuul,5,PitbullMix
+Mon Jul 22 11:52:41 EDT 2019,Dog,Trogdor Jealous,Dora,14,Mixed Breeds
+Mon Jul 22 11:52:52 EDT 2019,Cat,Idalou,Lou,7,Domesticshorthair
+Mon Jul 22 11:52:59 EDT 2019,Dog,Professor Tuxedo,Tux,1,BerneseMountainDog
+Mon Jul 22 11:53:29 EDT 2019,Dog,Bodie,Bodie,8,GoldenRetriever
+Mon Jul 22 11:53:37 EDT 2019,Dog,Zoey,Zoey,5.5,Labradoodle
+Mon Jul 22 11:54:00 EDT 2019,Cat,Eddy Jefferson,Eddy,4,Cat
+Mon Jul 22 11:54:34 EDT 2019,Dog,Joel Carlos,Joel,3,Beagador
+Mon Jul 22 11:54:47 EDT 2019,Dog,Lola,Lola,1,EnglishCockerSpaniel
+Mon Jul 22 11:54:57 EDT 2019,Cat,Margot Mae,Margot,4,Domesticshorthair
+Mon Jul 22 11:55:12 EDT 2019,Dog,Rufus,Rufus,15,CairnTerrier
+Mon Jul 22 11:55:16 EDT 2019,Dog,Sadie,Bubba,12,GoldenRetriever
+Mon Jul 22 11:55:20 EDT 2019,Cat,Chester,Kiddo,1,Unknown
+Mon Jul 22 11:55:35 EDT 2019,Dog,Zoey Deschanel,Zo,12,BichonFrise
+Mon Jul 22 11:55:45 EDT 2019,Dog,Cooper,Coop,6,GoldenRetriever
+Mon Jul 22 11:55:55 EDT 2019,Dog,Captain Goose,Goose,1,Foster
+Mon Jul 22 11:56:00 EDT 2019,Dog,Mr Doctor Professor Constable Detective Brick,Brick,8,BritishBulldog
+Mon Jul 22 11:56:27 EDT 2019,Dog,Ellie Sattler,El,1,Pibble
+Mon Jul 22 11:56:52 EDT 2019,Cat,Lily,"""little shit""",4,Unknown
+Mon Jul 22 11:56:52 EDT 2019,Dog,Juke,Juke,4,Dachshund
+Mon Jul 22 11:56:57 EDT 2019,Dog,Blue,Blue,0.5,ChocolateLabrador
+Mon Jul 22 11:57:15 EDT 2019,Dog,Kiefer Bartholomew ,Kief ,9,BelgianShepard
+Mon Jul 22 11:57:48 EDT 2019,Dog,Jackson,Jax,5,Labradoodle
+Mon Jul 22 11:57:57 EDT 2019,Cat,Marzipan,Pan,2,Unknown
+Mon Jul 22 11:58:29 EDT 2019,Dog,Zeta bear,Bear,6,GermanShepherd
+Mon Jul 22 11:58:46 EDT 2019,Cat,Sunny,Sun Bun or just Bun,0.166666667,Unknown
+Mon Jul 22 12:00:22 EDT 2019,Hedgehog,Professor Minerva McGonaquill,Minnie,2.5,AfricanPygmy
+Mon Jul 22 12:00:41 EDT 2019,Dog,Minnie,MinniePin,2,Muttmix
+Mon Jul 22 12:01:26 EDT 2019,Fish,Fsh ,Fsh,10,"MexicanBlindCaveTetra(therefore,itwasbornwithnoeyes(soithasno“i’sinitsname))"
+Mon Jul 22 12:01:44 EDT 2019,Dog,Dixie,Dixie,15,Shepherdmix
+Mon Jul 22 12:02:15 EDT 2019,Dog,Rosa Barks,Rosie,11,ShihTzu
+Mon Jul 22 12:02:15 EDT 2019,Dog,Charlie,Charlie,0.192307692,Cavapoo
+Mon Jul 22 12:02:18 EDT 2019,Dog,Jack Dog,Jack,16,Muttmix
+Mon Jul 22 12:02:23 EDT 2019,Cat,Minerva,Minny,6,Unknown
+Mon Jul 22 12:02:25 EDT 2019,Dog,Timon,Timon,3,Muttmix
+Mon Jul 22 12:02:38 EDT 2019,Dog,Leila Fowler-Martinez,Leila or Pinche Leila ,7,Unknown
+Mon Jul 22 12:02:40 EDT 2019,Dog,Tubu,Tubu,11,Chihuahua
+Mon Jul 22 12:02:42 EDT 2019,Cat,Venus,Kitty,11,Shorthairedcalico
+Mon Jul 22 12:02:51 EDT 2019,Dog,Goodness Gracious,Gracy ,12,ShihTzu
+Mon Jul 22 12:03:04 EDT 2019,Dog,Monkey,Monkey,11,AustralianShepardMix
+Mon Jul 22 12:03:06 EDT 2019,Cat,Jynx ,Jynx,4,Domestic medium hair
+Mon Jul 22 12:03:27 EDT 2019,Dog,Rosie,Rosie Posie,Deceased,GoldenRetriever
+Mon Jul 22 12:03:30 EDT 2019,Cat,Wendy,Wendy,3,Domesticshorthair
+Mon Jul 22 12:03:50 EDT 2019,Hamster,katya,chicken (idk why),2,Russian Dwarf Hamster
+Mon Jul 22 12:04:07 EDT 2019,Dog,Scirocco Augustus,Rocco or Crocco,5,Treeing Walker Coonhound
+Mon Jul 22 12:04:00 EDT 2019,Dog,Heavy Duty Puppy,Duty,4,Sheltie
+Mon Jul 22 12:04:12 EDT 2019,Rabbit,Arthur,Arturo,5,EnglishLop
+Mon Jul 22 12:05:01 EDT 2019,Cat,Jack,Kitty-Boy,6,TabbyMix
+Mon Jul 22 12:04:40 EDT 2019,Dog,Siena Rosa,Siena,12,GoldenRetriever
+Mon Jul 22 12:05:09 EDT 2019,Dog,"Buttercup Maplesde, ",Butternut,2.5,Unknown
+Mon Jul 22 12:05:09 EDT 2019,Dog,"Zuez Maplesden, ",Zuzy,2.5,Unknown
+Mon Jul 22 12:05:09 EDT 2019,Dog,"Bella Maplesden, ",Bella,2,Balidogmix
+Mon Jul 22 12:05:09 EDT 2019,Cat,Hercules Maplesden,Hercules,2,Tabbycat
+Mon Jul 22 12:05:20 EDT 2019,Dog,Ghia Lynn,Ghia or Geeg,1,BorderColliemix
+Mon Jul 22 12:05:25 EDT 2019,Dog,Delilah,Lilah,7,Beagle
+Mon Jul 22 12:05:41 EDT 2019,Cat,Bailey's Irish Cream,Bailey,13,SiameseMix
+Mon Jul 22 12:05:48 EDT 2019,Dog,Treacle,Treacle,10,BorderColliemix
+Mon Jul 22 12:06:06 EDT 2019,Dog,Sam,Sam,11,LabradorRetriever
+Mon Jul 22 12:06:38 EDT 2019,Dog,Tyson,"Tysbert, T McT, Mucki, Muckelbert, Muckmuck, Maggey",14,RottweilerMix
+Mon Jul 22 12:07:09 EDT 2019,Cat,Madison Square Garden,Square,2,Unknown
+Mon Jul 22 12:07:41 EDT 2019,Cat,Garfield,Cooter 😳,8,Orangetabby
+Mon Jul 22 12:09:07 EDT 2019,Dog,Parker,Parker,11,Goldendoodle
+Mon Jul 22 12:09:43 EDT 2019,Dog,Captain Avro Clarence,Avro,6,Schnauzer
+Mon Jul 22 12:11:32 EDT 2019,Dog,Carlene,Weentz,4,Muttmix
+Mon Jul 22 12:14:01 EDT 2019,Dog,Linda,Linda,10,WestHighlandTerrier
+Mon Jul 22 12:14:52 EDT 2019,Cat,Stellabella,Stella,7,Tortie
+Mon Jul 22 12:16:07 EDT 2019,Dog,Toby Wooferton,Toby,18,Mixed Breeds
+Mon Jul 22 12:17:11 EDT 2019,Dog,Sacha,Fjollehoved (Danish for goofball) ,13,GoldenLabradorRetriever
+Mon Jul 22 12:17:12 EDT 2019,Cat,Ponce de Leon,Ponce ,7,Domesticshorthair
+Mon Jul 22 12:17:31 EDT 2019,Dog,Snickers,Snicks,14,Labradoodle
+Mon Jul 22 12:17:51 EDT 2019,Cat,Echo,Echo,12,Unknown
+Mon Jul 22 12:17:59 EDT 2019,Cat,Tiga,Tiga ,7,Domesticshorthair
+Mon Jul 22 12:18:17 EDT 2019,Dog,Sherlock Bones,Sherlock,4,Pitbull
+Mon Jul 22 12:18:52 EDT 2019,Dog,Irene Adler,Addie,8,Bulldog
+Mon Jul 22 12:19:02 EDT 2019,Cat,Bloo,Bloo,11,Unknown
+Mon Jul 22 12:19:14 EDT 2019,Dog,Wallace,Wally,2,Labradoodle
+Mon Jul 22 12:19:15 EDT 2019,Dog,Dude,Handsome,2.5,LabradorRetriever
+Mon Jul 22 12:19:25 EDT 2019,Cat,Mitten,Tuna,13,Unknown
+Mon Jul 22 12:19:41 EDT 2019,Dog,Bailey,Bailey,9,GoldenRetriever
+Mon Jul 22 12:19:42 EDT 2019,Dog,Willow,Sweetie,6,LabradorRetriever
+Mon Jul 22 12:21:11 EDT 2019,Dog,Philistine Smoosh,Bill,14,JackRussellTerrier
+Mon Jul 22 12:21:27 EDT 2019,Cat,Kitty Cat,KC,13,Unknown
+Mon Jul 22 12:21:47 EDT 2019,Cat,Elvis,Tubby,12,Siamese
+Mon Jul 22 12:23:04 EDT 2019,Dog,Henry Nacho ,Henny,8,GoldenRetriever
+Mon Jul 22 12:23:44 EDT 2019,Dog,Maximilian Kolby,Maxy ,16,GoldenRetriever
+Mon Jul 22 12:23:52 EDT 2019,Dog,Argos,Argos,6,Mixed Breeds
+Mon Jul 22 12:24:22 EDT 2019,Ferret,Buttercup,Butters,Unknown,Unknown
+Mon Jul 22 12:24:26 EDT 2019,Elephant ,Jumbo,Jumbo,19,Loxodon
+Mon Jul 22 12:24:35 EDT 2019,Dog,Madeline Grace ,Ma ma ,15,GoldenRetriever
+Mon Jul 22 12:24:54 EDT 2019,Dog,Elvis,Elvis,11,Cockapoo
+Mon Jul 22 12:25:46 EDT 2019,Dog,Coconut Butter,Coco,5,Mixed Breeds
+Mon Jul 22 12:25:49 EDT 2019,Dog,Lucy-fur,Lucy,12,GoldenRetriever
+Mon Jul 22 12:26:01 EDT 2019,Dog,Sophie Grace,Soph,13,BrindleBlack
+Mon Jul 22 12:26:22 EDT 2019,Dog,Prince,Prince,14,Poodlemix
+Mon Jul 22 12:26:35 EDT 2019,Dog,Jackson Buttsickle,Jacks,4,Mixed Breeds
+Mon Jul 22 12:27:28 EDT 2019,Dog,Lassie,Lass Lass,14,MothEatenCarpet
+Mon Jul 22 12:28:12 EDT 2019,Dog,Charles Xavier II,Charlie,4,GreatPyrenees
+Mon Jul 22 12:28:21 EDT 2019,Cat,GingerSnapz C. Cat,GingerSnapz,7,Domesticshorthair
+Mon Jul 22 12:30:36 EDT 2019,Dog,Caroline,Caroline,5,PurebredAlabamaMutt
+Mon Jul 22 12:31:22 EDT 2019,Cat,Shadow,Shadow,11,Unknown
+Mon Jul 22 12:31:58 EDT 2019,Cat,Murray 2,Murray,7,Unknown
+Mon Jul 22 12:31:59 EDT 2019,Dog,Beau,"Goomby, Mr. Beauregard",4,GoldenRetriever
+Mon Jul 22 12:32:38 EDT 2019,Dog,Lindon,Lindy loo,10,Labradormix
+Mon Jul 22 12:32:57 EDT 2019,Cat,Marilyn,"Chirp, Pumpkin Pie, Meow Meow",5,Orange
+Mon Jul 22 12:33:09 EDT 2019,Dog,Tedward,Teddy,4,ShihTzu
+Mon Jul 22 12:33:46 EDT 2019,Dog,Zuzu,Zu,4,ShihTzu
+Mon Jul 22 12:34:15 EDT 2019,Dog,Marcus Brutus,Brutus,4,Boxer
+Mon Jul 22 12:35:34 EDT 2019,Cat,Charlie Chaplin ,Charlie,1,Unknown
+Mon Jul 22 12:35:58 EDT 2019,Cat,Molly Tigerlily,Molly,1,Unknown
+Mon Jul 22 12:37:13 EDT 2019,Cat,Britannia,Brit,10,Unknown
+Mon Jul 22 12:37:18 EDT 2019,Dog,Brownie Leigh,Brownie ,3,GoldenShepherd
+Mon Jul 22 12:40:30 EDT 2019,Dog,Jersey Girl,Jersey ,11,Huskymix
+Mon Jul 22 12:40:49 EDT 2019,Dog,Stella,Stells,10,Goldendoodle
+Mon Jul 22 12:41:13 EDT 2019,Dog,Lizzie,Lizzie Pie,6,Huskymix
+Mon Jul 22 12:41:28 EDT 2019,Cat,Marby,Beanie baby,14,Americanshorthair
+Mon Jul 22 12:41:47 EDT 2019,Dog,Roxy,Roxy Socks,1,Muttmix
+Mon Jul 22 12:42:19 EDT 2019,Dog,Coco Murfree,Coco,9,BorderCollie
+Mon Jul 22 12:42:26 EDT 2019,Dog,Ozzy,Ozlet,1,MinnieAustralianShepherd/Cockapoo
+Mon Jul 22 12:44:53 EDT 2019,Dog,Winston Pigaloo,Winston or Lewis,6,Pug
+Mon Jul 22 12:45:29 EDT 2019,Dog,Noodle,Noodle / Weenie,13,WeinerDog
+Mon Jul 22 12:46:00 EDT 2019,Dog,Phantom,Phantom ,5,PitbullMix
+Mon Jul 22 12:52:28 EDT 2019,Dog,Ellen Park,Ellen,3,GoldenRetriever
+Mon Jul 22 12:53:24 EDT 2019,Cat,Meredith,Mer,1,Domesticshorthair
+Mon Jul 22 12:57:11 EDT 2019,Cat,Brennan Zachary,Punkin butt,8,Domesticshorthair
+Mon Jul 22 13:00:59 EDT 2019,Others,Fishy,Fishy,18,Unknown
+Mon Jul 22 13:02:57 EDT 2019,Dog,Spud,Schmoops ,1.5,PembrokeWelshCorgi
+Mon Jul 22 13:03:38 EDT 2019,Dog,FN 2187,Finn,1.5,Goldendoodle
+Mon Jul 22 13:04:06 EDT 2019,Cat,Frank En Stein  ,Frank,8,MaineCoon
+Mon Jul 22 13:04:23 EDT 2019,Dog,Pisco,Pisco,5,GermanWirehairedPointer
+Mon Jul 22 13:04:25 EDT 2019,Dog,Sadie,Sadie,3,GoldenShepherdmix
+Mon Jul 22 13:04:51 EDT 2019,Dog,Lola,Loli Ravioli ,0.75,GoldenRetriever
+Mon Jul 22 13:08:42 EDT 2019,Dog,Addie Heart,Addie,8,Labradormix
+Mon Jul 22 13:11:54 EDT 2019,Dog,Ernie,"Ernburn, Erndog, Ernieworm ",1,Unknown
+Mon Jul 22 13:14:23 EDT 2019,Rodent,Milo Chicken Nugget,Milo,0.541666667,Chinchilla
+Mon Jul 22 13:22:40 EDT 2019,Cat,Melon,Mel,3,Black
+Mon Jul 22 13:24:30 EDT 2019,Dog,Semaj,"Sammich, Dumbledork",4,ShihTzu
+Mon Jul 22 13:25:17 EDT 2019,Dog,Maya,"Little Miss Maya, Diva",8,ShihTzu
+Mon Jul 22 13:26:44 EDT 2019,Dog,Bijou,Bijou,12,JackRussellmix
+Mon Jul 22 13:27:21 EDT 2019,Dog,Pesto,Pesto,0.75,Beagle
+Mon Jul 22 13:29:05 EDT 2019,Dog,Maggie,Magz,Unknown,Eskimomix
+Mon Jul 22 13:35:02 EDT 2019,Cat,Doctor snuggles von fluffybottom,D.O.C.,6,Unknown
+Mon Jul 22 13:35:55 EDT 2019,Dog,Toby,Toby,1,GoldenRetriever
+Mon Jul 22 13:35:35 EDT 2019,Dog,Jacob Marley,Jake,6,GoldenRetriever
+Mon Jul 22 13:36:38 EDT 2019,Cat,Dixie,potato,11,fluffy
+Mon Jul 22 13:40:57 EDT 2019,Dog,Cujo,Bubby,11,CockerSpaniel
+Mon Jul 22 13:42:35 EDT 2019,Cat,Finn,Finnard  ,9,Longhair
+Mon Jul 22 13:44:18 EDT 2019,Dog,Maizie,Maizie,0.333333333,Schnauzer
+Mon Jul 22 13:57:54 EDT 2019,Dog,Bruce D4,Bruce,12,Dachshund
+Mon Jul 22 13:58:44 EDT 2019,Dog,Jackie Kate,Jackie,5,Labradormix
+Mon Jul 22 13:59:02 EDT 2019,Dog,Daisy Bear,Daisy or Bear,2.5,GermanShepherd
+Mon Jul 22 13:59:16 EDT 2019,Lizard,Donut,Donut,5,CrestedGecko
+Mon Jul 22 13:59:22 EDT 2019,Fish,Whiskers Goldie-the-Goldfish Sweetie,Whiskies,2,BettaFish
+Mon Jul 22 13:59:52 EDT 2019,Dog,Tinker Stinker,Stinks,2.5,GermanShepherd
+Mon Jul 22 14:00:00 EDT 2019,Cat,Vinnie,Huggiebear Biden,4,N/A
+Mon Jul 22 14:00:55 EDT 2019,Cat,Watson & Crick (I have two cats),Dr. Watson & Dr. Crick,8.5,atabbyandagreycat
+Mon Jul 22 14:01:26 EDT 2019,Dog,Mile High Ice Storm,Miles,7,GoldenRetriever
+Mon Jul 22 14:02:01 EDT 2019,Dog,Breezy Bear,Breezy,1,GoldenRetriever
+Mon Jul 22 14:02:44 EDT 2019,Dog,Nara,Gorda,3,AustralianCattleDog
+Mon Jul 22 14:02:46 EDT 2019,Dog,"Wyatt Daniel, the Wild Corgo",Wyatt,2,PembrokeWelshCorgi
+Mon Jul 22 14:09:47 EDT 2019,Dog,,Petra,,GoldenRetriever
+Mon Jul 22 14:10:26 EDT 2019,Fish,Waffle,Waffle,2,BettaFish
+Mon Jul 22 14:11:21 EDT 2019,Dog,Rosie,Rosie,10,WalkerHound
+Mon Jul 22 14:14:15 EDT 2019,Dog,Lilly,Lilly,10,GermanShepherdmix
+Mon Jul 22 14:14:55 EDT 2019,Dog,Charles,Charles,12,MiniatureSchnauzer/Poodle
+Mon Jul 22 14:15:28 EDT 2019,Dog,Pippa,Pip,11,Goldendoodle
+Mon Jul 22 14:18:11 EDT 2019,Dog,Oliver,Ollie,7,JackRussellTerrier
+Mon Jul 22 14:20:05 EDT 2019,Dog,Kiku,Kiku,3,Muttmix
+Mon Jul 22 14:20:32 EDT 2019,Dog,Brandy,Brenda,10,Havanese
+Mon Jul 22 14:21:00 EDT 2019,Dog,Bobby,bobkin,8,ShihTzu
+Mon Jul 22 14:21:14 EDT 2019,Dog,Emma,Emma,12,ShihTzu
+Mon Jul 22 14:22:05 EDT 2019,Dog,Bessy ,Bess,10,LabradorRetriever
+Mon Jul 22 14:22:55 EDT 2019,Cat,Romanovski ,Romi ,5,Domesticshorthair
+Mon Jul 22 14:23:35 EDT 2019,Cat,Fifi La Pou,Fifi,2,DomesticLonghair
+Mon Jul 22 14:24:20 EDT 2019,Cat,Georgie Porgie,Georgie / Saucy ,1,Domesticshorthair
+Mon Jul 22 14:24:27 EDT 2019,Dog,Dakota,"Woobis, Woobie",13,Mixed Breeds
+Mon Jul 22 14:25:47 EDT 2019,Dog,Altrichter,Cooper,9,GoldenRetriever
+Mon Jul 22 14:26:10 EDT 2019,Dog,Tucker,Tuck,7,GoldenRetriever
+Mon Jul 22 14:26:27 EDT 2019,Cat,Milo,Milo,13,Tabby
+Mon Jul 22 14:27:49 EDT 2019,Fish,Pepperwood,Pepperwood,1,BettaFish
+Mon Jul 22 14:29:43 EDT 2019,Cat,Jameson Chewbacca ,Jamie,15,Americanshorthair
+Mon Jul 22 14:30:32 EDT 2019,Dog,Penny Bellew,Penny,6,LabradorRetriever
+Mon Jul 22 14:31:52 EDT 2019,Others,Buddy,Buddy,2,Unknown
+Mon Jul 22 14:32:07 EDT 2019,Cat,Cat Jenkins,Cat,2,Unknown
+Mon Jul 22 14:32:24 EDT 2019,Cat,Crouton,Crouton,3,Unknown
+Mon Jul 22 14:35:15 EDT 2019,Dog,Morena,Morena,2,Corgi
+Mon Jul 22 14:38:06 EDT 2019,Cat,Samus Aran,Samus,14,Tabby
+Mon Jul 22 14:40:18 EDT 2019,Dog,Brownie,Bub,13,Maltipoo
+Mon Jul 22 14:41:35 EDT 2019,Dog,Mose Schrute,Mose,2,GermanShepherd
+Mon Jul 22 14:44:03 EDT 2019,Dog,Rocky,Rocky,6,Corgidor
+Mon Jul 22 14:44:26 EDT 2019,Cat,Rosalind Franklin ,Rosie,1,Unknown
+Mon Jul 22 14:44:43 EDT 2019,Cat,Harley quinn,Baby Kitty,5,Unknown
+Mon Jul 22 14:45:05 EDT 2019,Fish,Sushi,Sushi,2,BettaFish
+Mon Jul 22 14:59:55 EDT 2019,Cat,Mister Beans,Mister beans/ beans/ beansy boi,10,Greydomesticshorthair
+Mon Jul 22 15:00:54 EDT 2019,Fish,Lord Baphomet: Destroyer of Worlds,Baphomet,Unknown,GoldFish
+Mon Jul 22 15:04:21 EDT 2019,Dog,Tyler John (had to give him a middle name for when he was in trouble),Ty,12,RhodesianRidgeback
+Mon Jul 22 15:05:27 EDT 2019,Cat,Adanac,Chunky,2,Americanshorthair
+Mon Jul 22 15:05:50 EDT 2019,Cat,Callister,Callibean,2,Americanshorthair
+Mon Jul 22 15:10:43 EDT 2019,Dog,Tux,Tux,9,BlackLabMix
+Mon Jul 22 15:11:07 EDT 2019,Dog,Ruby,Ruby,3,Coonhoundmix
+Mon Jul 22 15:13:16 EDT 2019,Dog,Pooch-K,Pooch-k the pooch,7,Muttmix
+Mon Jul 22 15:13:49 EDT 2019,Dog,Scooby,Scoobers,0.583333333,Muttmix
+Mon Jul 22 15:18:14 EDT 2019,Cat,Dwayne,"Mr. Baby Dwayne, Dwaniel, Bub.",3,Americanshorthair
+Mon Jul 22 15:19:09 EDT 2019,Cat,Alice,"Spippy, Speeps, Kitten.",11,Americanshorthair
+Mon Jul 22 15:26:35 EDT 2019,Dog,Lloyd ,Lloyd,11,GoldenRetriever
+Mon Jul 22 15:27:15 EDT 2019,Cat,Bo Schembeckler,Kitty,15,Shorthair
+Mon Jul 22 15:31:50 EDT 2019,Dog,Ishka,Ish/Ishka,8,GoldenRetriever
+Mon Jul 22 15:33:01 EDT 2019,Dog,Millie,Millie,1.5,BorderCollie
+Mon Jul 22 15:33:07 EDT 2019,Dog,Rossa,"Ross, Rossy, Rossapoo",5,GoldenRetriever
+Mon Jul 22 15:33:37 EDT 2019,Dog,Wookie,Wookie,7,Goldendoodle
+Mon Jul 22 15:39:30 EDT 2019,Dog,Tucker,Tucker,2,LabradorRetriever
+Mon Jul 22 15:39:49 EDT 2019,Dog,Keifer,Keifer,14,Yellowlab
+Mon Jul 22 15:46:11 EDT 2019,Dog,Frankie,Frankie,7,Huskymix
+Mon Jul 22 15:47:04 EDT 2019,Cat,Tenzing,Tenzing,12,Shorthaircalico
+Mon Jul 22 15:51:49 EDT 2019,Dog,Sammy,Sam,5,JackRussellmix
+Mon Jul 22 16:05:56 EDT 2019,Dog,Barrett,Barrett,3,GermanShepherd
+Mon Jul 22 16:05:59 EDT 2019,Dog,Benjamin,Benj,2,BorderColliemix
+Mon Jul 22 16:06:17 EDT 2019,Dog,Laney,Laney,12,GoldenRetriever
+Mon Jul 22 16:06:20 EDT 2019,Dog,Dixie,Lady,3,AmericanPitbull
+Mon Jul 22 16:06:44 EDT 2019,Dog,Diesel,Diesel,3,Pitbull
+Mon Jul 22 16:09:29 EDT 2019,Hamster,Hamtaro ,Hamtaro,🤷🏼‍♀️,Unknown
+Mon Jul 22 16:18:11 EDT 2019,Dog,Baxter,Baxter,7.5,GoldenRetriever
+Mon Jul 22 16:20:02 EDT 2019,Dog,Riley Marie,Riley,13,CockerSpaniel
+Mon Jul 22 16:26:11 EDT 2019,Dog,Reginald Fonzerelli Hawkes,Reg,12,Goldendoodle
+Mon Jul 22 16:27:18 EDT 2019,Cat,Molly,Molly,6,Unknown
+Mon Jul 22 16:29:04 EDT 2019,Cat,Kevin,Booboo,3,Unknown
+Mon Jul 22 16:29:18 EDT 2019,Dog,Erik,Earwig,4,Wirehaireddachshund
+Mon Jul 22 16:32:14 EDT 2019,Dog,Oliver,Oli ,8,JackRussellTerrier
+Mon Jul 22 16:50:17 EDT 2019,Insect,Thing one,Her,1,Insect
+Mon Jul 22 16:56:11 EDT 2019,Dog,Bilbo Spud Doggins,Bilbo,5,Corgimix
+Mon Jul 22 16:56:35 EDT 2019,Dog,Bailey Woofer,Bailey,13,CockerSpaniel
+Mon Jul 22 17:02:13 EDT 2019,Cat,Roy lee laramie ,Roy ,10,Unknown
+Mon Jul 22 17:02:42 EDT 2019,Cat,Petunia,Tuney,8,Unknown
+Mon Jul 22 17:03:05 EDT 2019,Dog,Skyy like the vodka ,Skyy,3,Husky
+Mon Jul 22 17:03:07 EDT 2019,Lizard,Stubbs,Stubs,15,LeopardGecko
+Mon Jul 22 17:03:26 EDT 2019,Dog,Malibu like the rum ,Malibu,1,GoldenRetriever
+Mon Jul 22 17:15:36 EDT 2019,Dog,Golden Tate ,Tate ,2,GoldenRetriever
+Mon Jul 22 17:27:16 EDT 2019,Dog,Bear,Bear,0.583333333,LabradorRetriever
+Mon Jul 22 17:27:24 EDT 2019,Dog,Stanley,Stan,0.5,Miniatureschnauzer
+Mon Jul 22 17:28:01 EDT 2019,Cat,Coco,Coco,4,Shorthair
+Mon Jul 22 17:34:02 EDT 2019,Dog,Andromeda Mae,Andie,6,Goldendoodle
+Mon Jul 22 17:34:55 EDT 2019,Dog,Eloise Gertrude,Ellie,2,Labradoodle
+Mon Jul 22 17:35:28 EDT 2019,Dog,Lady Bonnie of Coventry,Bonnie,8,BlackLabMix
+Mon Jul 22 17:36:29 EDT 2019,Cat,Ophelia Marie KitKat Mcdougle O’Malley Jr. ,Ophelia,9,Unknown
+Mon Jul 22 17:37:14 EDT 2019,Cat,Sie Isaac Newton ,Newton,16,Unknown
+Mon Jul 22 17:37:37 EDT 2019,Cat,Black Cat,BC,3,Unknown
+Mon Jul 22 17:47:38 EDT 2019,Dog,Gibson,Gibby,2.5,Pitbull
+Mon Jul 22 17:48:03 EDT 2019,Dog,Brewskie,Brew,11,Puggle
+Mon Jul 22 17:49:00 EDT 2019,Cat,Wolfgang Motzart,Wolfie,7,Americanshorthair
+Mon Jul 22 17:52:13 EDT 2019,Dog,Koli,Koli,11,Yorkie Mix
+Mon Jul 22 17:55:43 EDT 2019,Dog,Moxie Jean Narice,Moxie,1,GermanShepherdmix
+Mon Jul 22 17:57:10 EDT 2019,Dog,Dancer Pants,Dancer,17,Havanese
+Mon Jul 22 17:58:24 EDT 2019,Cat,Kitty or The Cat (if she's being bad) ,Kitty,1,Unknown
+Mon Jul 22 17:59:34 EDT 2019,Fish,Blueberry,Blue,0.5,BettaFish

@@ -1,0 +1,32 @@
+
+Gas_prices, Gold_price
+
+DATA HUB: https://datahub.io/core/natural-gas#resource-monthly
+
+
+COVID-19 and its impact on business in each sector:
+
+https://www.kaggle.com/kittishane/covid-19-and-its-impact-on-business-in-each-sector
+
+
+Values/ count on the bar graph:
+
+https://www.kaggle.com/aurghyadip/eda-of-rape-crimes-in-india
+
+
+linear regression of stock:
+
+https://www.kaggle.com/justhonno/linear-regression-of-stock-histories
+
+NYSE historical data:
+
+https://uk.investing.com/indices/nyse-us-100-historical-data
+
+
+PFE Historical Data:(pfyzer)
+
+Yahoo:
+
+https://finance.yahoo.com/
+
+
