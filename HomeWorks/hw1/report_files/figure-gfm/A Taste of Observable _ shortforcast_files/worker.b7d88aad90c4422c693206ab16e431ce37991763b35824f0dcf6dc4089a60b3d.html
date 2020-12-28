@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<!-- saved from url=(0137)https://observablehq.static.observableusercontent.com/worker/worker.b7d88aad90c4422c693206ab16e431ce37991763b35824f0dcf6dc4089a60b3d.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style id="vega-tooltip-style">#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black; }
+  #vg-tooltip-element.visible {
+    visibility: visible; }
+  #vg-tooltip-element h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 13px; }
+  #vg-tooltip-element img {
+    max-width: 200px;
+    max-height: 200px; }
+  #vg-tooltip-element table {
+    border-spacing: 0; }
+    #vg-tooltip-element table tr {
+      border: none; }
+      #vg-tooltip-element table tr td {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        padding-top: 2px;
+        padding-bottom: 2px; }
+        #vg-tooltip-element table tr td.key {
+          color: #808080;
+          max-width: 150px;
+          text-align: right;
+          padding-right: 4px; }
+        #vg-tooltip-element table tr td.value {
+          display: block;
+          max-width: 300px;
+          max-height: 7em;
+          text-align: left; }
+  #vg-tooltip-element.dark-theme {
+    background-color: rgba(32, 32, 32, 0.9);
+    border: 1px solid #f5f5f5;
+    color: white; }
+    #vg-tooltip-element.dark-theme td.key {
+      color: #bfbfbf; }
+</style>
+<link rel="stylesheet" href="./css2">
+<!--<base target="_top" href="https://observablehq.com/@observablehq/a-taste-of-observable">--><base href="." target="_top">
+<style>/*Copyright 2020 Observable, Inc.*/:root{--syntax_normal:#1b1e23;--syntax_comment:#828282;--syntax_diff:#24292e;--syntax_diff_bg:#fff;--syntax_number:#20a5ba;--syntax_keyword:#c30771;--syntax_atom:#10a778;--syntax_string:#008ec4;--syntax_error:#ffbedc;--syntax_unknown_variable:#838383;--syntax_known_variable:#005f87;--syntax_matchbracket:#20bbfc;--syntax_key:#6636b4;--selection:#d7d4f0;--hr:rgba(0,0,0,0.05);--mono_fonts:14px/1.5 Menlo,Consolas,monospace;--sans-serif:-apple-system,BlinkMacSystemFont,"avenir next",avenir,helvetica,"helvetica neue",ubuntu,roboto,noto,"segoe ui",arial,sans-serif}body{margin:0 14px;font-family:"Source Serif Pro",Iowan Old Style,Apple Garamond,Palatino Linotype,Times New Roman,"Droid Serif",Times,serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:17px;line-height:1.5;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;color:#1b1e23}body.fullscreen{margin:0}h1,h2,h3,h4,h5,h6{color:#333;font-weight:700;line-height:1.15;margin-top:0;margin-bottom:.25em}h2~p,h3~p,h4~p{margin-top:0}a[href]{text-decoration:none}a[href]:hover{text-decoration:underline}h1 code,h2 code,h3 code,h4 code,h5 code,h6 code{font-size:90%}code,pre,tt{font:var(--mono_fonts)}img{max-width:calc(100vw - 28px)}.katex-display,figure,h1,h2,h3,h4,h5,h6,p,table{max-width:640px}blockquote,ol,ul{max-width:600px}blockquote{margin:1em 1.5em}ol,ul{padding-left:28px}hr{height:1px;margin:1em 0;padding:1em 0;border:none;background:no-repeat 50%/100% 1px linear-gradient(90deg,var(--hr),var(--hr))}pre{padding:2px 0}.observablehq--md-pre{overflow-x:auto}.observablehq>link:only-child,.observablehq>style:only-child{display:block;visibility:hidden;padding:6px 0;white-space:nowrap;font:var(--mono_fonts);color:var(--syntax_keyword)}.observablehq>link:only-child:before{content:"<link>";visibility:visible;text-decoration:none;pointer-events:none}.observablehq>style:only-child:before{content:"<style>";visibility:visible}input:not([type]),input[type=email],input[type=number],input[type=password],input[type=range],input[type=search],input[type=tel],input[type=text],input[type=url]{width:240px}canvas,input{vertical-align:middle}table{width:100%;border-collapse:collapse;font-family:var(--sans-serif);font-size:14px}th{text-align:left}tr:not(:last-child){border-bottom:1px solid #eee}thead tr{border-bottom:1px solid #ccc}figure{margin:1em 0}figure img{max-width:100%}figcaption{font:small var(--sans-serif);color:var(--syntax_unknown_variable)}.observablehq--collapsed,.observablehq--expanded,.observablehq--function,.observablehq--gray,.observablehq--import,.observablehq--string:after,.observablehq--string:before{color:var(--syntax_normal)}.observablehq--collapsed,.observablehq--expanded.observablehq--inspect a{cursor:pointer}.observablehq--caret{margin-right:4px;vertical-align:baseline}.observablehq--field{text-indent:-1em;margin-left:1em}.hljs-comment,.observablehq--empty,.observablehq--prototype-key{color:var(--syntax_comment)}.hljs-built_in{color:var(--syntax_known_variable)}.observablehq--unknown{color:var(--syntax_unknown_variable)}.hljs-doctag,.hljs-keyword,.hljs-name,.hljs-section,.hljs-selector-class,.hljs-selector-id,.hljs-selector-tag,.hljs-strong,.hljs-tag,.hljs-type{color:var(--syntax_keyword)}.observablehq--blue,.observablehq--keyword,a[href]{color:#3182bd}.hljs-deletion,.hljs-variable,.observablehq--forbidden,.observablehq--pink{color:#e377c2}.observablehq--orange{color:#e6550d}.hljs-literal,.observablehq--boolean,.observablehq--null,.observablehq--undefined{color:var(--syntax_atom)}.hljs-bullet,.hljs-link,.hljs-number,.hljs-regexp,.observablehq--bigint,.observablehq--date,.observablehq--green,.observablehq--number,.observablehq--regexp,.observablehq--symbol{color:var(--syntax_number)}.observablehq--index,.observablehq--key{color:var(--syntax_key)}.observablehq--empty{font-style:oblique}.hljs-addition,.hljs-meta,.hljs-string,.hljs-symbol,.hljs-template-tag,.hljs-template-variable,.observablehq--purple,.observablehq--string{color:var(--syntax_string)}.observablehq--error,.observablehq--red{color:#e7040f}.observablehq{position:relative;margin:17px 0;min-height:33px}.observablehq:before{content:"";position:absolute;left:-14px;height:100%;width:4px;transition:background-color .25s linear}.observablehq--changed:before,.observablehq--running:before{background-color:#a9b0bc;transition:none}.observablehq--error:before{background-color:#e7040f}.observablehq--inspect{font:var(--mono_fonts);overflow-x:auto;display:block;padding:6px 0;white-space:pre}.observablehq--inspect.observablehq--import{white-space:normal}.observablehq--inspect::-webkit-scrollbar{display:none}.observablehq--error .observablehq--inspect{word-break:break-all;white-space:pre-wrap}.observablehq--string-expand{margin-left:6px;padding:2px 6px;border-radius:2px;font-size:80%;background:#eee;color:var(--syntax_normal);cursor:pointer;vertical-align:middle;position:sticky;right:0}.observablehq--string-expand:active,.observablehq--string-expand:hover{background:#ddd}</style>
+</head><body>
+<script src="./worker.905879b7a55ddbd0d3d15eab1e6a03c933bd3f9101324668f56e939031ebc03c.js.download"></script><div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><h1 id="a-taste-of-observable">A Taste of Observable</h1>
+<p>Hello and welcome to Observable! 👋</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Observable helps you sketch with live data, prototype visualizations, connect to Web APIs, share and reuse techniques and components with a friendly community of other authors, and publish your work for the world to see.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>A notebook is made up of a series of cells, and each cell is defined by its JavaScript source code.</p>
+<p>👈 Click the margin to the left of any cell (including this one!), to toggle it open and closed, and see, and even edit, the source that lies below.</p>
+<p>Let’s start by loading up some data. We’re going to use weather forecast data for the purposes of this example. After getting a taste of Observable, you can use similar techniques on the data you care about.</p>
+<p>Here, we have a cell containing a recent forecast from the weather station on Belvedere Castle in Central Park, New York City:</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--collapsed observablehq--inspect"><span class="observablehq--cellname">nycForecast = </span><a><svg width="8" height="8" class="observablehq--caret">
+    <path d="M7 4L1 8V0z" fill="currentColor"></path>
+  </svg>Object {</a><span class="observablehq--key">@context</span>: <span class="observablehq--shallow">Array(2)</span>, <span class="observablehq--key">type</span>: <span><span class="observablehq--string">"Feature"</span></span>, <span class="observablehq--key">geometry</span>: <span class="observablehq--shallow">Object</span>, <span class="observablehq--key">properties</span>: <span class="observablehq--shallow">Object</span>}</span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>👆 This is a snapshot of raw data from the National Weather Service, unprocessed and full of crufty metadata describing different attributes of the weather forecast. You can explore it yourself by clicking into the carets: <img crossorigin="anonymous" src="./46c8df99316e9926d90ff847b4aa5cc4755ec8a1699f2d81ee6daec11e397e0bf090556bb9488461ed942a251f0ca8b4eb9b2b0281065bd5b13c" width="18" style="vertical-align: middle;"></p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Prefer live data instead? No problem. We can do that by fetching directly from <code style="white-space: nowrap;">api.weather.gov</code>. (We’ve attached a snapshot of this data to this notebook so the notebook will continue working if the API is unavailable.)</p></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--collapsed observablehq--inspect"><a><svg width="8" height="8" class="observablehq--caret">
+    <path d="M7 4L1 8V0z" fill="currentColor"></path>
+  </svg>Object {</a><span class="observablehq--key">@context</span>: <span class="observablehq--shallow">Array(2)</span>, <span class="observablehq--key">type</span>: <span><span class="observablehq--string">"Feature"</span></span>, <span class="observablehq--key">geometry</span>: <span class="observablehq--shallow">Object</span>, <span class="observablehq--key">properties</span>: <span class="observablehq--shallow">Object</span>}</span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>Let’s drill down to the actual weather forecast.</p>
+<p>👇 Try inspecting the data in <code>nycForecastPeriods</code> by clicking on <img crossorigin="anonymous" src="./46c8df99316e9926d90ff847b4aa5cc4755ec8a1699f2d81ee6daec11e397e0bf090556bb9488461ed942a251f0ca8b4eb9b2b0281065bd5b13c" width="18" style="vertical-align: middle;"><code>Array(14)</code>, and then toggle open some of the specific forecasts over the week to come.</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--collapsed observablehq--inspect"><span class="observablehq--cellname">nycForecastPeriods = </span><a><svg width="8" height="8" class="observablehq--caret">
+    <path d="M7 4L1 8V0z" fill="currentColor"></path>
+  </svg>Array(14) [</a><span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>, <span class="observablehq--shallow">Object</span>]</span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>You’ll notice that they include the forecasted temperature, a description of what the weather is going to do, information about wind speed, and even something called <code>icon</code>.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Let’s make that forecast easier to read by taking the next few days of weather and turning it into a table:</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><h3 id="new-york-city-weather-forecast">New York City weather forecast</h3></div><div class="observablehq" dir="auto" style="margin-bottom: 237px;"><div class="table-2"><div>
+
+<div class="scroll-zone"><table><thead>
+    <th style="">Day</th><th style="">Temp</th><th style="">Icon</th><th style="">Forecast</th>
+  </thead><tbody><tr>
+    <td title="" style=""><p><strong>This Afternoon</strong></p></td><td title="" style=""><p><strong>34&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./bkn"></td><td title="" style="">Mostly Cloudy</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Tonight</strong></p></td><td title="" style=""><p><strong>31&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./bkn(1)"></td><td title="" style="">Mostly Cloudy</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Wednesday</strong></p></td><td title="" style=""><p><strong>40&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./bkn"></td><td title="" style="">Partly Sunny</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Wednesday Night</strong></p></td><td title="" style=""><p><strong>35&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./snow,20"></td><td title="" style="">Mostly Cloudy then Slight Chance Rain And Snow</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Thursday</strong></p></td><td title="" style=""><p><strong>41&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./rain,30"></td><td title="" style="">Chance Light Rain</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Thursday Night</strong></p></td><td title="" style=""><p><strong>37&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./rain,40"></td><td title="" style="">Chance Light Rain</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Friday</strong></p></td><td title="" style=""><p><strong>49&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./rain,60"></td><td title="" style="">Light Rain Likely</td>
+  </tr></tbody></table></div><style>
+.table-2.wide .scroll-zone {
+  overflow-x: auto;
+  max-width: 100%;
+}
+.table-2.narrow-columns td,
+.table-2.narrow-columns th {
+  border: 1px solid #eee;
+  padding: 4px;
+}
+.table-2.narrow-columns th {
+  background: #f9f9f9;
+  border-right: 1px solid #eee;
+}
+.table-2.wide .pager {
+  max-width: 100%;
+}
+.table-2 table th,
+.table-2 table td {
+  padding: 3px 0px;
+}
+.table-2 table th,
+.table-2 table td {
+  vertical-align: top;
+}
+.table-2 table td:not(:first-child),
+.table-2 table th:not(:first-child) {
+  padding-left: 4px;
+}
+.table-2 table thead th {
+  ____text-transform: uppercase;
+  font-weight:500;
+}
+.table-2 .pager .title {
+  flex: auto;
+  font-weight: 700;
+}
+.table-2 .pager {
+  margin-bottom: 4px;
+  box-sizing: border-box;
+  border-bottom:1px solid #ccc;
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  max-width: 640px;
+  align-items: center;
+  font-family: var(--sans-serif);
+  justify-content: space-between;
+}
+.table-2 .pager .button.disabled {
+  color: #ccc;
+  pointer-events:none;
+}
+.table-2 .pager .button {
+  display: inline-flex;
+  align-items: center;
+  color: #333;
+}
+.table-2 .pager .button:hover {
+  color: #000;
+  cursor: pointer;
+}
+.table-2 .pager select {
+  font-family: var(--sans-serif);
+}
+.table-2 .pager .page-links {
+  display: inline-flex;
+  align-items: center;
+}
+.table-2 .pager .page-links div {
+  padding: 2px 4px 2px 4px;
+  cursor: pointer;
+  color: #888;
+}
+.table-2 .pager .page-links div.current {
+  padding: 2px 4px 0 4px;
+  pointer-events: none;
+  color: #000;
+  border-bottom:2px solid #000;
+}
+.table-2 .pager .page-links .page-selector-container {
+  padding: 4px 0;
+}
+
+.search {
+  padding:5px 0;
+  font-family: var(--sans-serif);
+  font-size: 80%;
+  border-bottom:1px solid #ccc;
+  max-width: 640px;
+  display: flex;
+  justify-content: space-between;
+}
+.search .search-dropdown select {
+  font-family: var(--sans-serif);
+}
+.search .search-dropdown {
+  padding-right:10px;
+}
+.search .query {
+  padding-bottom: 5px;
+}
+.search .filters {
+  display: flex;
+  flex-wrap: wrap;
+}
+.search .button {
+  color: #aaa;
+}
+.search .button:hover {
+  color: #000;
+  cursor: pointer;
+}
+
+</style></div></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>👆 In the code of the cell above, try replacing <code style="white-space: nowrap;">Forecast: detailedForecast</code> with <code style="white-space: nowrap;">Forecast: shortForecast</code>. Then press the blue play button <svg width="16" height="16" class="db bump" stroke-linejoin="round" fill="#3b5fc0"><path d="M11.7206 6.94335C12.2406 7.34365 12.2406 8.12786 11.7206 8.52816L5.60999 13.2321C4.95242 13.7383 4 13.2696 4 12.4397L4 3.03178C4 2.20194 4.95243 1.73318 5.60999 2.23937L11.7206 6.94335Z" stroke="#3b5fc0" stroke-width="1.6"></path></svg> or use Shift-Return to run your change. What happens?</p>
+<p>...</p>
+<p>You’ll notice that the table above reacts, displaying a <code>shortForecast</code> instead of the <code>detailedForecast</code> that it contained previously.</p>
+<p>This reactivity is the heart of what makes Observable notebooks a special environment for exploration. Whenever you change anything, or anything changes by itself, the rest of the notebook instantly updates to reflect the latest information. In technical terms, this is called reactive, or dataflow programming. But in practical terms, it means that your notebooks never get stuck in a broken state, and that you never have to refresh the page. Reactivity gives you immediate feedback when you are exploring your data, sketching ideas in code, and collaborating with others.</p>
+<p>Once you start sketching ideas in a reactive, web-enabled notebook, it’s hard to go back to scripts,  spreadsheets and web servers.</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Let’s continue by putting that same NYC forecast data into a plot. We’ll use Vega-Lite, a simple charting library, to draw the forecasted temperatures over the coming week. The daytime temperatures are marked in orange, and the forecasted nighttime temperatures in blue.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 362px;"><div role="graphics-document" aria-roledescription="visualization" aria-label="Vega visualization" style="overflow-x: auto; cursor: default;"><canvas width="985" height="1040" class="marks" style="width: 394px; height: 416px;"></canvas><form class="vega-bindings"></form></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>👆 In the code of the cell above, try replacing <code style="white-space: nowrap;">markCircle()</code> with <code style="white-space: nowrap;">markSquare()</code>. Then press the blue play button <svg width="16" height="16" class="db bump" stroke-linejoin="round" fill="#3b5fc0"><path d="M11.7206 6.94335C12.2406 7.34365 12.2406 8.12786 11.7206 8.52816L5.60999 13.2321C4.95242 13.7383 4 13.2696 4 12.4397L4 3.03178C4 2.20194 4.95243 1.73318 5.60999 2.23937L11.7206 6.94335Z" stroke="#3b5fc0" stroke-width="1.6"></path></svg> or use Shift-Return to run your change. What happens? How about <code style="white-space: nowrap;">markPoint()</code> ?</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Of course, you can use data to drive prose just as easily as visualizations. For example, from the chart and table above, you can see how in New York City, it is going to be warmer on Wednesday than it is This Afternoon. Click on the left margin 👈 to see how I’m using data from the forecast to generate the text for this paragraph, awkward capitalization and all.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>But perhaps you don't live in New York? (Sadly, I no longer do.) </p>
+<p>Let’s make a version that:</p>
+<ul>
+<li>Allows you to pick any location in the United States.</li>
+<li>Uses the Weather.gov API to find the nearest weather station.</li>
+<li>Renders the current forecast into our table and chart.</li>
+</ul></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>We need to start with a longitude and latitude pair. You could write this by hand, like: <code>[-73.7, 40.8]</code>, but it takes at least five seconds and another browser tab to Google for coordinates, so we’ll do something more convenient by importing a handy map widget from <a href="https://observablehq.com/@jashkenas/inputs#usaMapCoordinates">an existing notebook</a>. </p></div><div class="observablehq" dir="auto" style="margin-bottom: 133px;"><form style="width: 350px;"><div><div style="font: 700 0.9rem sans-serif; margin-bottom: 3px;">Pick a location, see the weather forecast</div><canvas width="875" height="546" style="width: 350px; margin: 5px 0px 20px;"></canvas><output name="output" style="font: 14px Menlo, Consolas, monospace; margin-left: 0.5em;"><div style="position: absolute; width: 350px; white-space: nowrap; color: #444; text-align: center; font: 13px sans-serif; margin-top: -18px;">
+            <span style="color: #777;">Longitude:</span> -78.55
+            &nbsp; &nbsp; 
+            <span style="color: #777;">Latitude:</span> 37.38 
+          </div></output></div></form></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Now, when you click on the map above 👆, watch how the data flows through to the coordinates data below 👇. You may notice that the left margin flashes whenever a cell receives new data and runs again.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--collapsed observablehq--inspect"><a><svg width="8" height="8" class="observablehq--caret">
+    <path d="M7 4L1 8V0z" fill="currentColor"></path>
+  </svg>Array(2) [</a><span><span class="observablehq--number">-78.55</span></span>, <span><span class="observablehq--number">37.38</span></span>]</span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Here, the <code>coordinates</code> flow into a request to the National Weather Service API, to find the closest weather station. (Again, a flash of the left margin.)</p></div><div class="observablehq" dir="auto" style="margin-bottom: 112px;"><span class="observablehq--collapsed observablehq--inspect"><span class="observablehq--cellname">weatherStation = </span><a><svg width="8" height="8" class="observablehq--caret">
+    <path d="M7 4L1 8V0z" fill="currentColor"></path>
+  </svg>Object {</a><span class="observablehq--key">@context</span>: <span class="observablehq--shallow">Array(2)</span>, <span class="observablehq--key">id</span>: <span><span class="observablehq--string">"https://api.weather.gov/points/37.38,-78.55"</span></span>, <span class="observablehq--key">type</span>: <span><span class="observablehq--string">"Feature"</span></span>, <span class="observablehq--key">geometry</span>: <span class="observablehq--shallow">Object</span>, <span class="observablehq--key">properties</span>: <span class="observablehq--shallow">Object</span>}</span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Looks like you picked a point near <strong>Farmville, VA</strong>.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 112px;"><span class="observablehq--inspect"><span class="observablehq--cellname">place = </span><span class="observablehq--string">"Farmville, VA"</span></span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Now, we’ll use the <code>weatherStation</code>’s <code>forecast</code> URL to retrieve the current forecast for Farmville, VA. This data has exactly the same shape as the NYC forecast at the top of the page. As before, click on the caret <img crossorigin="anonymous" src="./46c8df99316e9926d90ff847b4aa5cc4755ec8a1699f2d81ee6daec11e397e0bf090556bb9488461ed942a251f0ca8b4eb9b2b0281065bd5b13c" width="18" style="vertical-align: middle;"> to explore the raw data.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--collapsed observablehq--inspect"><span class="observablehq--cellname">localForecast = </span><a><svg width="8" height="8" class="observablehq--caret">
+    <path d="M7 4L1 8V0z" fill="currentColor"></path>
+  </svg>Object {</a><span class="observablehq--key">@context</span>: <span class="observablehq--shallow">Array(2)</span>, <span class="observablehq--key">type</span>: <span><span class="observablehq--string">"Feature"</span></span>, <span class="observablehq--key">geometry</span>: <span class="observablehq--shallow">Object</span>, <span class="observablehq--key">properties</span>: <span class="observablehq--shallow">Object</span>}</span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>Here’s our formatted weather table:</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><h3 id="current-weather-forecast-for-farmville-va">Current weather forecast for Farmville, VA</h3></div><div class="observablehq" dir="auto" style="margin-bottom: 237px;"><div class="table-2"><div>
+
+<div class="scroll-zone"><table><thead>
+    <th style="">Day</th><th style="">Temp</th><th style="">Icon</th><th style="">Forecast</th>
+  </thead><tbody><tr>
+    <td title="" style=""><p><strong>Tonight</strong></p></td><td title="" style=""><p><strong>57&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./skc"></td><td title="" style="">Clear, with a low around 57. North wind around 0 mph.</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Sunday</strong></p></td><td title="" style=""><p><strong>81&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./skc(1)"></td><td title="" style="">Sunny, with a high near 81. North wind 0 to 3 mph.</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Sunday Night</strong></p></td><td title="" style=""><p><strong>58&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./few"></td><td title="" style="">Mostly clear, with a low around 58. Southeast wind around 3 mph.</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Labor Day</strong></p></td><td title="" style=""><p><strong>84&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./few(1)"></td><td title="" style="">Sunny, with a high near 84. West wind 1 to 5 mph.</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Monday Night</strong></p></td><td title="" style=""><p><strong>62&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./few"></td><td title="" style="">Mostly clear, with a low around 62. East wind around 3 mph.</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Tuesday</strong></p></td><td title="" style=""><p><strong>85&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./sct"></td><td title="" style="">Mostly sunny, with a high near 85.</td>
+  </tr><tr>
+    <td title="" style=""><p><strong>Tuesday Night</strong></p></td><td title="" style=""><p><strong>67&nbsp;°F</strong></p></td><td title="" style=""><img width="70" src="./rain_showers"></td><td title="" style="">A slight chance of rain showers after 2am. Partly cloudy, with a low around 67.</td>
+  </tr></tbody></table></div><style>
+.table-2.wide .scroll-zone {
+  overflow-x: auto;
+  max-width: 100%;
+}
+.table-2.narrow-columns td,
+.table-2.narrow-columns th {
+  border: 1px solid #eee;
+  padding: 4px;
+}
+.table-2.narrow-columns th {
+  background: #f9f9f9;
+  border-right: 1px solid #eee;
+}
+.table-2.wide .pager {
+  max-width: 100%;
+}
+.table-2 table th,
+.table-2 table td {
+  padding: 3px 0px;
+}
+.table-2 table th,
+.table-2 table td {
+  vertical-align: top;
+}
+.table-2 table td:not(:first-child),
+.table-2 table th:not(:first-child) {
+  padding-left: 4px;
+}
+.table-2 table thead th {
+  ____text-transform: uppercase;
+  font-weight:500;
+}
+.table-2 .pager .title {
+  flex: auto;
+  font-weight: 700;
+}
+.table-2 .pager {
+  margin-bottom: 4px;
+  box-sizing: border-box;
+  border-bottom:1px solid #ccc;
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  max-width: 640px;
+  align-items: center;
+  font-family: var(--sans-serif);
+  justify-content: space-between;
+}
+.table-2 .pager .button.disabled {
+  color: #ccc;
+  pointer-events:none;
+}
+.table-2 .pager .button {
+  display: inline-flex;
+  align-items: center;
+  color: #333;
+}
+.table-2 .pager .button:hover {
+  color: #000;
+  cursor: pointer;
+}
+.table-2 .pager select {
+  font-family: var(--sans-serif);
+}
+.table-2 .pager .page-links {
+  display: inline-flex;
+  align-items: center;
+}
+.table-2 .pager .page-links div {
+  padding: 2px 4px 2px 4px;
+  cursor: pointer;
+  color: #888;
+}
+.table-2 .pager .page-links div.current {
+  padding: 2px 4px 0 4px;
+  pointer-events: none;
+  color: #000;
+  border-bottom:2px solid #000;
+}
+.table-2 .pager .page-links .page-selector-container {
+  padding: 4px 0;
+}
+
+.search {
+  padding:5px 0;
+  font-family: var(--sans-serif);
+  font-size: 80%;
+  border-bottom:1px solid #ccc;
+  max-width: 640px;
+  display: flex;
+  justify-content: space-between;
+}
+.search .search-dropdown select {
+  font-family: var(--sans-serif);
+}
+.search .search-dropdown {
+  padding-right:10px;
+}
+.search .query {
+  padding-bottom: 5px;
+}
+.search .filters {
+  display: flex;
+  flex-wrap: wrap;
+}
+.search .button {
+  color: #aaa;
+}
+.search .button:hover {
+  color: #000;
+  cursor: pointer;
+}
+
+</style></div></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>And our daytime and nighttime forecasted temperature chart:</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><h3 id="forecasted-temperature-chart-for-farmville-va">Forecasted temperature chart for Farmville, VA</h3></div><div class="observablehq" dir="auto" style="margin-bottom: 216px;"><div role="graphics-document" aria-roledescription="visualization" aria-label="Vega visualization" style="overflow-x: auto; cursor: default;"><canvas width="985" height="1040" class="marks" style="width: 394px; height: 416px;"></canvas><form class="vega-bindings"></form></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>If you scroll back up and pick a different location, you’ll notice that the table and chart will have automatically updated within a second or two — the amount of time it takes for the National Weather Service to generate and serve your forecast.</p></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>For a final fancy touch, let’s connect our forecast data to <a href="https://observablehq.com/@kerryrodden/simple-custom-weather-chart-in-d3">this custom D3 weather visualization</a>, implemented in a different notebook. Vega-Lite is great for the rapid creation of basic charts, but sometimes you want to create something custom with more visual flair. For that, D3 is an excellent choice, and Observable makes it particularly easy to repurpose and remix other peoples’ D3 visualizations. Since the external notebook also happens to also render data in the Weather.gov forecast format, that’s not going to be too hard. </p>
+<p>We import the <code>weatherChart</code> from that notebook, and inject our live <code>localForecast</code> data into it:</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--inspect observablehq--import">import {<a href="https://observablehq.com/@kerryrodden/simple-custom-weather-chart-in-d3#weatherChart">weatherChart</a>} from <a href="https://observablehq.com/@kerryrodden/simple-custom-weather-chart-in-d3">@kerryrodden/simple-custom-weather-chart-in-d3</a></span></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><p>And then render the chart onto the page:</p></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><svg viewBox="0,0,954,200" style="font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;"><g transform="translate(35, 185)"><rect width="57.7378640776699" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Now </text><title>Clear, low of 57°F</title></g><g transform="translate(94.7378640776699, 185)"><rect width="100.40776699029128" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Sunday ☀️</text><title>Sunny, high of 81°F</title></g><g transform="translate(197.14563106796118, 185)"><rect width="100.40776699029124" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Sunday Night </text><title>Mostly Clear, low of 58°F</title></g><g transform="translate(299.5533980582524, 185)"><rect width="100.4077669902913" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Labor Day ☀️</text><title>Sunny, high of 84°F</title></g><g transform="translate(401.9611650485437, 185)"><rect width="100.40776699029124" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Monday Night </text><title>Mostly Clear, low of 62°F</title></g><g transform="translate(504.36893203883494, 185)"><rect width="100.4077669902913" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Tuesday ☀️</text><title>Mostly Sunny, high of 85°F</title></g><g transform="translate(606.7766990291262, 185)"><rect width="100.4077669902913" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Tuesday Night ☔</text><title>Partly Cloudy then Slight Chance Rain Showers, low of 67°F</title></g><g transform="translate(709.1844660194175, 185)"><rect width="100.40776699029118" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Wednesday </text><title>Chance Showers And Thunderstorms, high of 82°F</title></g><g transform="translate(811.5922330097087, 185)"><rect width="100.4077669902913" height="6" rx="3" ry="3" fill="#ccc"></rect><text y="-9" dy="0.35em">Wednesday Night </text><title>Chance Showers And Thunderstorms, low of 69°F</title></g><g transform="translate(30, 0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end"><g class="tick" opacity="1" transform="translate(0,185.5)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">20°F</text></g><g class="tick" opacity="1" transform="translate(0,161.21428571428572)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">30°F</text></g><g class="tick" opacity="1" transform="translate(0,136.92857142857142)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">40°F</text></g><g class="tick" opacity="1" transform="translate(0,112.64285714285714)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">50°F</text></g><g class="tick" opacity="1" transform="translate(0,88.35714285714286)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">60°F</text></g><g class="tick" opacity="1" transform="translate(0,64.07142857142857)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">70°F</text></g><g class="tick" opacity="1" transform="translate(0,39.78571428571429)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">80°F</text></g><g class="tick" opacity="1" transform="translate(0,15.5)"><line stroke="currentColor" x2="-3"></line><text fill="currentColor" x="-6" dy="0.32em" style="fill: rgb(102, 102, 102); font: 10px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;">90°F</text></g></g></svg></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>Even though this is code being imported from another notebook, as you change your location on the map, it reacts to changes in the forecast data in the same way as any other cell.</p>
+<p>If you’d like to work on a notebook with someone else, you can enable link sharing, and send them the URL. Then, after tinkering with your notebook, they can click a button to <a href="https://observablehq.com/@observablehq/suggestions-and-comments">send you their comments and code suggestions</a>. Or, you can work together on a notebook in real time, using <a href="https://observablehq.com/teams">Observable Teams</a>.</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>🌈 I think that’s it for our first taste of Observable!</p>
+<p>If you’d like to learn more, about how to actually <em>build</em> notebooks like this one, we recommend starting with these introductory notebook sequences, which gently teach Observable concepts with special consideration for folks from different backgrounds, having different goals:</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><ul>
+<li><p><strong><a href="https://observablehq.com/@d3/learn-d3">Learn D3</a></strong><br>  D3 is a powerful JavaScript library that helps you bring data to life using HTML, SVG, and CSS. If you already have some D3 under your belt, you'll find using D3 in Observable is a little bit different. Whether you're new to D3, Observable, or both, get your feet wet here.</p>
+</li>
+<li><p><strong><a href="https://observablehq.com/@observablehq/observable-for-jupyter-users?collection=@observablehq/observable-for-jupyter-users">Observable for Jupyter Users</a></strong><br> If you have a Python data science background, or just feel more comfortable in Python than in JavaScript, these tutorials will help ease you in.</p>
+</li>
+<li><p><strong><a href="https://observablehq.com/@observablehq/vega-lite">Charting with Vega-Lite</a></strong><br> Vega-Lite is probably the best JavaScript library for extremely rapid visual exploration of data sets. You can iterate on your Vega visualizations even faster in Observable’s reactive environment.</p>
+</li>
+</ul></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p>And if you don’t want to hold hands and would prefer to dive straight into the deep end, I’d recommend bookmarking the <a href="https://observablehq.com/@observablehq/user-manual">User Manual</a> (everything is in there), and checking out the <a href="https://observablehq.com/explore">Explore</a> page for inspiration.</p>
+<p>Have fun! 👋</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 17px;"><div><p><br><br><br><br><br><br><br><br><br></p>
+<hr>
+<h2 id="appendix">Appendix</h2>
+<p>The cells below power the cells above.</p></div></div><div class="observablehq" dir="auto" style="margin-bottom: 154px;"><span class="observablehq--collapsed observablehq--inspect"><span class="observablehq--cellname">domain = </span><a><svg width="8" height="8" class="observablehq--caret">
+    <path d="M7 4L1 8V0z" fill="currentColor"></path>
+  </svg>Object {</a><span class="observablehq--key">domain</span>: <span class="observablehq--shallow">Array(2)</span>}</span></div><div class="observablehq" dir="auto" style="margin-bottom: 92px;"><span class="observablehq--function observablehq--inspect"><span class="observablehq--cellname">code = </span><span class="observablehq--keyword">ƒ</span>(s)</span></div><div class="observablehq" dir="auto" style="margin-bottom: 133px;"><span class="observablehq--function observablehq--inspect"><span class="observablehq--cellname">caret = </span><span class="observablehq--keyword">ƒ</span>()</span></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><img crossorigin="anonymous" src="./46c8df99316e9926d90ff847b4aa5cc4755ec8a1699f2d81ee6daec11e397e0bf090556bb9488461ed942a251f0ca8b4eb9b2b0281065bd5b13c" width="18"></div><div class="observablehq" dir="auto" style="margin-bottom: 133px;"><span class="observablehq--function observablehq--inspect"><span class="observablehq--cellname">run = </span><span class="observablehq--keyword">ƒ</span>()</span></div><div class="observablehq" dir="auto" style="margin-bottom: 196px;"><style>
+
+.table-2 table td,
+.table-2 table th {
+  padding: 5px 10px;
+}
+
+</style></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--inspect observablehq--import">import {<a href="https://observablehq.com/@jashkenas/inputs#usaMapCoordinates">usaMapCoordinates</a>} from <a href="https://observablehq.com/@jashkenas/inputs">@jashkenas/inputs</a></span></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--inspect observablehq--import">import {<a href="https://observablehq.com/@tmcw/tables/2#table">table</a>} from <a href="https://observablehq.com/@tmcw/tables/2">@tmcw/tables/2</a></span></div><div class="observablehq" dir="auto" style="margin-bottom: 50px;"><span class="observablehq--inspect observablehq--import">import {<a href="https://observablehq.com/@vega/vega-lite-api#vl">vl</a>} from <a href="https://observablehq.com/@vega/vega-lite-api">@vega/vega-lite-api</a></span></div></div><div id="vg-tooltip-element" class="vg-tooltip"></div></body></html>
